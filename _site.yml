@@ -1,0 +1,26 @@
+name: "R-Ladies NYC"
+output_dir: "."
+navbar:
+  title: "About"
+  left:
+    - text: "Events"
+      menu: 
+        - text: "Talks and workshops"
+          href: events_talks.html
+        - text: "Book club"
+          href: events_bookclub.html
+        - text: "Other events"
+          href: events_other.html
+    - text: "Blog"
+      href: blog.html
+    - text: "Board members"
+      href: board.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<nyc@rladies.org>
+    - icon: fa-github fa-lg
+      href: http://github.com/rladies-nyc/
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/rladiesnyc
+output:
+  html_document
