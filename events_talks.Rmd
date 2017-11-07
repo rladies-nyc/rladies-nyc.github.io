@@ -1,0 +1,16 @@
+---
+output:
+  html_document
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Talks and workshops
+
+**August 17, 2017** Data Visualization Workshop, hosted by [Byte Academy](http://byteacademy.co/). Joyce Robbins gave a workshop on creating heatmaps in R, and other more general data visualization tips and tricks.
+
+**April 18, 2017** Tour of R in Peer to Peer Lending, hosted by [Orchard Platform](https://www.orchardplatform.com/). Catherine Pargeter discussed how Orchard Platform, a fintech company, uses R.
+
+**February 21, 2017** A Focus on Health, hosted by [Flatiron Health](https://flatiron.com/). Elena Colicino and Daniela Vazquez spoke about how they use R.
+
+**November 21, 2016** Launching R-Ladies NYC, hosted by [RGGI Inc](https://www.rggi.org/rggi). Carissa Shafto spoke about her use of R for data science at the Galen College of Nursing.

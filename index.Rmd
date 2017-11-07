@@ -1,0 +1,18 @@
+---
+output: html_document
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/rladies_nyc.png" style = "width:25%" align = "center">
+
+R-Ladies is a world-wide organization to promote gender diversity in the R community. We are the NYC chapter of the global organization. R-Ladies NYC hosts a variety of events throughout the year, inlcuding talks, workshops, book clubs, data dives, and socials. Want to give a talk at an R-Ladies NYC meetup, or have an idea for an event? Email us at <nyc@rladies.org>.
+
+Check out our [Meetup](https://www.meetup.com/rladies-newyork/) page to join and for more information about past and future events.
+
+
+### Upcoming events
+
+Help us choose a book for the January book club by completing this survey:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc6H41smC3tcWUyra5Lj2RnTb_rH-cJGQDyux-yrpLecXxfJg/viewform?embedded=true" width="600" height="875" frameborder="0" marginheight="0" marginwidth="0" style="-webkit-transform:scale(0.95);-moz-transform-scale(0.95);">Loading...</iframe>

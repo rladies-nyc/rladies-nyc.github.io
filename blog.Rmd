@@ -1,0 +1,9 @@
+---
+output: html_document
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+*Coming soon!*
+
+Have you always wanted to write a blog post but don't want the pressure or time commitment of trying to come up with a post every month? Be a guest blogger on the R-Ladies NYC blog! Email us at <nyc@rladies.org> if interested.
