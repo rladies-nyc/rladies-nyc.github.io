@@ -8,7 +8,7 @@ output: html_document
 
 <img src="images/soumya.jpg" style="width:10%; border-radius:50%; margin-right: 20px"; align="left">
 
-I am currently a quantitative analyst at the within the Market Risk Group for Supervision at the New York Federal Reserve Bank.  Previously I worked as a researcher at the Office of Financial Research at the Department of Treasury focusing covering commodities and private funds from a financial stability perspective.  Previously, I worked at the Investment Management Division at the Securities and Exchange Commission where I helped to design analytical risk metrics to help oversee the private funds industry. Prior to this, I worked as a quantitative analyst on the retail power desk at Hess where i primarily was involved in valuing exotic power transactions. I also hold a Masters in mathematical finance and a Bachelor’s degree in Economics from Rutgers University.
+Soumya Kalra is currently a quantitative analyst the within the Market Risk Group for Supervision at the New York Federal Reserve Bank.  Previously she worked as a researcher at the Office of Financial Research at the Department of Treasury focusing covering commodities and private funds from a financial stability perspective.  She is very passionate about using R in her statistical and data visualization work in her current role.  Her vision for R-Ladies New York is to create gender diverse and open forum where we can educate and contribute to the development of R as a community.  She holds a Masters in Mathematical Finance and a Bachelor’s degree in Economics from Rutgers University.
 
 <br/>
 
