@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -31,10 +31,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -240,12 +242,8 @@ $(document).ready(function () {
 <div id="upcoming-events" class="section level3">
 <h3>Upcoming events</h3>
 <ul>
-<li><p>Our <strong>final event of 2017</strong> is on December 12, 2017 where Erin Grand will talk about how R is used in the Education World. <a href="https://www.meetup.com/rladies-newyork/events/245064725/">Register here</a></p></li>
-<li><p>Help us choose a book for the <strong>January 2018 book club</strong> by completing this survey:</p></li>
+<li>Our <strong>final event of 2017</strong> is on December 12, 2017 where Erin Grand will talk about how R is used in the Education World. <a href="https://www.meetup.com/rladies-newyork/events/245064725/">Register here</a></li>
 </ul>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc6H41smC3tcWUyra5Lj2RnTb_rH-cJGQDyux-yrpLecXxfJg/viewform?embedded=true" width="600" height="875" frameborder="0" marginheight="0" marginwidth="0" style="-webkit-transform:scale(0.95);-moz-transform-scale(0.95);">
-Loading…
-</iframe>
 </div>
 
 
