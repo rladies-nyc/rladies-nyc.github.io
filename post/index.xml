@@ -11,6 +11,28 @@
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Parallelization of Simulations with the foreach Package and Missing Data in R</title>
+      <link>/post/parallelization-foreach-and-missing-data/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/parallelization-foreach-and-missing-data/</guid>
+      <description>&lt;p&gt;Come out to our March event to hear talks from two great R Ladies!&lt;/p&gt;
+
+&lt;p&gt;First we&amp;rsquo;ll learn about parallelization of simulations with the foreach R package, with applications to progression free survival assessed using electronic health records. Then we&amp;rsquo;ll get an introduction to methods for handling missing data in R.&lt;/p&gt;
+
+&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/247926543/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
+
+&lt;p&gt;Date: Tuesday, March 20, 2018&lt;/p&gt;
+
+&lt;p&gt;Time: 6:30pm&lt;/p&gt;
+
+&lt;p&gt;Speakers: Elizabeth Sweeney and Mine Dogucu&lt;/p&gt;
+
+&lt;p&gt;Host: &lt;a href=&#34;https://flatiron.com/&#34; target=&#34;_blank&#34;&gt;Flatiron Health&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Creating websites in R</title>
       <link>/post/creating-websites-in-r/</link>
       <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
@@ -267,24 +289,6 @@
 &lt;p&gt;Speakers: Elena Colicino and Daniela Vazquez&lt;/p&gt;
 
 &lt;p&gt;Host: &lt;a href=&#34;https://flatiron.com/&#34; target=&#34;_blank&#34;&gt;Flatiron Health&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Launching R-Ladies NYC!</title>
-      <link>/post/launching-r-ladies-nyc/</link>
-      <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/post/launching-r-ladies-nyc/</guid>
-      <description>&lt;p&gt;Come meet other local R-Ladies and hear Carissa Shafto speak about her use of R for data science at the Galen College of Nursing. Vist our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/235073330/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;Date: Monday, November 21, 2016&lt;/p&gt;
-
-&lt;p&gt;Time: 6:15pm&lt;/p&gt;
-
-&lt;p&gt;Speaker: Carissa Shafto&lt;/p&gt;
-
-&lt;p&gt;Host: &lt;a href=&#34;https://www.rggi.org/rggi&#34; target=&#34;_blank&#34;&gt;RGGI Inc.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

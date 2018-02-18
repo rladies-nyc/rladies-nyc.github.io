@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/parallelization-foreach-and-missing-data/</loc>
+      <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/creating-websites-in-r/</loc>
       <lastmod>2018-02-11T00:00:00+00:00</lastmod>
     </url>
@@ -229,7 +238,7 @@
     <url>
     
       <loc>/tags/event/</loc>
-      <lastmod>2018-02-11T00:00:00+00:00</lastmod>
+      <lastmod>2018-02-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -239,7 +248,7 @@
     <url>
     
       <loc>/categories/event/</loc>
-      <lastmod>2018-02-11T00:00:00+00:00</lastmod>
+      <lastmod>2018-02-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -298,7 +307,7 @@
     <url>
     
       <loc>/tags/talk/</loc>
-      <lastmod>2018-02-11T00:00:00+00:00</lastmod>
+      <lastmod>2018-02-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -308,7 +317,7 @@
     <url>
     
       <loc>/categories/talk/</loc>
-      <lastmod>2018-02-11T00:00:00+00:00</lastmod>
+      <lastmod>2018-02-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
