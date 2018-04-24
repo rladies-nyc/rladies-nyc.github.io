@@ -5,6 +5,33 @@
     
     <url>
     
+      <loc>/post/introduction-to-shiny-apps-using-nba-data/</loc>
+      <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/book-club-storytelling-with-data/</loc>
+      <lastmod>2018-04-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/tidy-evaluation-programming-with-ggplot2-and-dplyr/</loc>
+      <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/scraping-javascript-websites-in-r/</loc>
       <lastmod>2018-03-18T00:00:00+00:00</lastmod>
     </url>
@@ -197,7 +224,7 @@
     <url>
     
       <loc>/tags/bookclub/</loc>
-      <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+      <lastmod>2018-04-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -207,7 +234,7 @@
     <url>
     
       <loc>/categories/bookclub/</loc>
-      <lastmod>2017-12-05T00:00:00+00:00</lastmod>
+      <lastmod>2018-04-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -247,7 +274,7 @@
     <url>
     
       <loc>/tags/event/</loc>
-      <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+      <lastmod>2018-04-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -257,7 +284,7 @@
     <url>
     
       <loc>/categories/event/</loc>
-      <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+      <lastmod>2018-04-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -316,7 +343,7 @@
     <url>
     
       <loc>/tags/talk/</loc>
-      <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+      <lastmod>2018-04-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -326,7 +353,7 @@
     <url>
     
       <loc>/categories/talk/</loc>
-      <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+      <lastmod>2018-04-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
