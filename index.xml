@@ -11,6 +11,90 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Lightning Talks!</title>
+      <link>/post/lightning-talks/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lightning-talks/</guid>
+      <description>&lt;p&gt;New to the R community? Never given a tech talk before? Just have something cool you do in R to share with the group? Sign up to give a lightning talk at our next event! These talks will be 5 minutes in length and the only requirement is that they are about R.&lt;/p&gt;
+
+&lt;p&gt;Apply to give a talk &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfk_URW8ZTHJ9-zREuDX66oD4Jmyw1rg4RTrh1q1eYrMTjBgA/viewform&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and feel free to reach out to the organizers via our Slack channel if you want to brainstorm ideas, we are here to help!&lt;/p&gt;
+
+&lt;p&gt;And visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/250824638/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page to RSVP.&lt;/p&gt;
+
+&lt;p&gt;Date: Thursday, June 14, 2018&lt;/p&gt;
+
+&lt;p&gt;Time: 6:30pm&lt;/p&gt;
+
+&lt;p&gt;Host: &lt;a href=&#34;https://www.oppenheimerfunds.com/&#34; target=&#34;_blank&#34;&gt;OppenheimerFunds&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Shiny Apps using NBA data</title>
+      <link>/post/introduction-to-shiny-apps-using-nba-data/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/introduction-to-shiny-apps-using-nba-data/</guid>
+      <description>&lt;p&gt;Come out for our May event for a tutorial on Shiny! Julia Wrobel, a PhD candidate in biostatistics at Columbia University, will be teaching us to make and deploy Shiny apps using NBA data.&lt;/p&gt;
+
+&lt;p&gt;The materials for this talk can be found on &lt;a href=&#34;http://juliawrobel.com/tutorials/shiny_tutorial_nba.html&#34; target=&#34;_blank&#34;&gt;Julia&amp;rsquo;s website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Bring your laptops so that you can code as you go!&lt;/p&gt;
+
+&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/249873160/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
+
+&lt;p&gt;Date: Tuesday, May 8, 2018&lt;/p&gt;
+
+&lt;p&gt;Time: 6:30pm&lt;/p&gt;
+
+&lt;p&gt;Speaker: Julia Wrobel&lt;/p&gt;
+
+&lt;p&gt;Host: NBA NYC Office&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Book club: Storytelling with Data</title>
+      <link>/post/book-club-storytelling-with-data/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/book-club-storytelling-with-data/</guid>
+      <description>&lt;p&gt;Please join us for our next book club discussion! Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/249296340/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
+
+&lt;p&gt;Date: Saturday, April 28, 2018&lt;/p&gt;
+
+&lt;p&gt;Time: 3pm&lt;/p&gt;
+
+&lt;p&gt;Book: &lt;a href=&#34;https://www.rizzolibookstore.com/storytelling-data-data-visualization-guide-business-professionals&#34; target=&#34;_blank&#34;&gt;STORYTELLING WITH DATA: A DATA VISUALIZATION GUIDE FOR BUSINESS PROFESSIONALS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Author: Cole Nussbaumer Knaflic&lt;/p&gt;
+
+&lt;p&gt;Host: &lt;a href=&#34;https://www.rizzolibookstore.com/&#34; target=&#34;_blank&#34;&gt;Rizzoli Bookstore&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tidy evaluation: Programming with ggplot2 and dplyr</title>
+      <link>/post/tidy-evaluation-programming-with-ggplot2-and-dplyr/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tidy-evaluation-programming-with-ggplot2-and-dplyr/</guid>
+      <description>&lt;p&gt;For this month&amp;rsquo;s meetup we have a very special guest : Hadley Wickham!&lt;/p&gt;
+
+&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/249296205/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
+
+&lt;p&gt;Date: Thursday, April 19, 2018&lt;/p&gt;
+
+&lt;p&gt;Time: 6:30pm&lt;/p&gt;
+
+&lt;p&gt;Speaker: Hadley Wickham&lt;/p&gt;
+
+&lt;p&gt;Host: &lt;a href=&#34;https://www.twosigma.com/&#34; target=&#34;_blank&#34;&gt;Two Sigma&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Brooke Watson: Scraping Javascript websites in R</title>
       <link>/post/scraping-javascript-websites-in-r/</link>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
@@ -546,80 +630,6 @@ skrrrahh &amp;lt;- function(sound=26, expr = NULL) {&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Instructor: Joyce Robbins&lt;/p&gt;
 
 &lt;p&gt;Host: &lt;a href=&#34;http://byteacademy.co/&#34; target=&#34;_blank&#34;&gt;Byte Academy&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Summer Social!</title>
-      <link>/post/summer-social/</link>
-      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/summer-social/</guid>
-      <description>&lt;p&gt;Let&amp;rsquo;s take a break from the heat and our desks for an R-Ladies summer social event! Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/241262100/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;Date: Saturday, July 8, 2017&lt;/p&gt;
-
-&lt;p&gt;Time: 2pm&lt;/p&gt;
-
-&lt;p&gt;Where: &lt;a href=&#34;https://www.blueribbonrestaurants.com/restaurants/blue-ribbon-sushi-izakaya/&#34; target=&#34;_blank&#34;&gt;Blue Ribbon Sushi Izakaya&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Book club: Weapons of Math Destruction</title>
-      <link>/post/book-club-weapons-of-math-destruction/</link>
-      <pubDate>Sat, 17 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/book-club-weapons-of-math-destruction/</guid>
-      <description>&lt;p&gt;Come join us for a discussion for our next book club discussion! Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/239047532/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;Date: Saturday, June 17, 2017&lt;/p&gt;
-
-&lt;p&gt;Time: 11am&lt;/p&gt;
-
-&lt;p&gt;Book: &lt;a href=&#34;https://www.rizzolibookstore.com/weapons-math-destruction-how-big-data-increases-inequality-and-threatens-democracy-0&#34; target=&#34;_blank&#34;&gt;Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Author: Cathy O&amp;rsquo;Neil&lt;/p&gt;
-
-&lt;p&gt;Host: &lt;a href=&#34;https://www.rizzolibookstore.com/&#34; target=&#34;_blank&#34;&gt;Rizzoli Bookstore&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tour of R in Peer to Peer Lending</title>
-      <link>/post/tour-of-r-in-peer-to-peer-lending/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/tour-of-r-in-peer-to-peer-lending/</guid>
-      <description>&lt;p&gt;Catherine Pargeter speaks about how Orchard Platform, a fintech company, uses R. Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/238954081/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;Date: Tuesday, April 18, 2017&lt;/p&gt;
-
-&lt;p&gt;Time: 6:30pm&lt;/p&gt;
-
-&lt;p&gt;Speaker: Catherine Pargeter&lt;/p&gt;
-
-&lt;p&gt;Host: &lt;a href=&#34;https://www.orchardplatform.com/&#34; target=&#34;_blank&#34;&gt;Orchard Platform&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Book club: Dear Data</title>
-      <link>/post/book-club-dear-data/</link>
-      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/book-club-dear-data/</guid>
-      <description>&lt;p&gt;Please join us for our inaugural book club event! Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/237573729/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;Date: Saturday, March 11, 2017&lt;/p&gt;
-
-&lt;p&gt;Time: 11am&lt;/p&gt;
-
-&lt;p&gt;Book: &lt;a href=&#34;https://www.rizzolibookstore.com/dear-data&#34; target=&#34;_blank&#34;&gt;Dear Data&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Authors: Giorgia Lupi and Stefanie Posavec&lt;/p&gt;
-
-&lt;p&gt;Host: &lt;a href=&#34;https://www.rizzolibookstore.com/&#34; target=&#34;_blank&#34;&gt;Rizzoli Bookstore&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
