@@ -11,6 +11,67 @@
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Benjana Guraziu: An RLady’s First R Conference</title>
+      <link>/post/an-rladys-first-r-conference/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/an-rladys-first-r-conference/</guid>
+      <description>
+
+&lt;p&gt;The 2018 &lt;a href=&#34;https://www.rstats.nyc/&#34; target=&#34;_blank&#34;&gt;New York R Conference&lt;/a&gt; was my first ever R conference, and it was great. I’ll write here about my experience, with links to resources from the widely varying talks.&lt;/p&gt;
+
+&lt;p&gt;First and foremost, I want to thank RLadiesNYC for the scholarship which allowed me to attend the conference. As a self-taught R newbie and incoming grad student, I greatly benefitted from attending this conference, and I so appreciate the opportunity from this great group! I would also like to thank &lt;a href=&#34;https://www.jaredlander.com/&#34; target=&#34;_blank&#34;&gt;Jared Lander&lt;/a&gt; for his continued support of RLadies, and generosity in making opportunities like this possible. (Jared not only organizes this event, but also hosts regular meet-ups through the &lt;a href=&#34;https://www.meetup.com/nyhackr/&#34; target=&#34;_blank&#34;&gt;New York Open Statistical Programming Meetup&lt;/a&gt; with presentations of past talks often available on &lt;a href=&#34;https://nyhackr.org/presentations.html&#34; target=&#34;_blank&#34;&gt;their website&lt;/a&gt;–definitely check them out!)&lt;/p&gt;
+
+&lt;h1 id=&#34;the-conference&#34;&gt;The Conference&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2018-06-27-an-rladys-first-r-conference/Hex Stickers.jpg&#34; alt=&#34;&#34; /&gt;
+NYR is a two-day conference that was held at &lt;a href=&#34;https://www.work-bench.com/&#34; target=&#34;_blank&#34;&gt;Work-Bench&lt;/a&gt;. A few hundred people attended the sold-out conference, and they came from as far as San Francisco and London. It was great to meet the fellow attendees and to learn about the different fields that they worked in. I was initially nervous going into the conference and wondered if I could possibly keep up with the conversations. But I was pleasantly surprised at how easy and fun it was to chat with everyone. Everyone was very friendly and open: we were all there to hear about R and to meet and get to know other R users. So even if we shared very little in subject area, geography, or career path, I still had a great time talking to attendees about their work, my work, the talks, and what types of pizzas might be available for lunch. It was amazing to meet and interact with the speakers also - the people building the tools that we use every day and #rstats Twitter celebrities were not only giving talks, but also hanging out and trying to eat humongous ice cream sandwiches tidily like the rest of us. This interaction was facilitated by the great planning by Jared and team, from the casual attire to the frequent breaks with caffeine, snacks, and drinks always available. This opened up so many opportunities to meet and chat with new people.&lt;/p&gt;
+
+&lt;h1 id=&#34;the-talks&#34;&gt;The Talks&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2018-06-27-an-rladys-first-r-conference/Screen Shot 2018-05-20 at 12.23.59 PM.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;NYR had a very large range of talks: from R tips to statistics, from machine learning to implementing R in an organization, and so much more. For a quick overview of the talks, check out Daniel Chen’s compilation of notes from Brooke Watson and Mara Averick: (&lt;a href=&#34;https://chendaniely.github.io/r/2018/04/22/rstatsnyc/)[https://chendaniely.github.io/r/2018/04/22/rstatsnyc/&#34; target=&#34;_blank&#34;&gt;https://chendaniely.github.io/r/2018/04/22/rstatsnyc/)[https://chendaniely.github.io/r/2018/04/22/rstatsnyc/&lt;/a&gt;] Videos of all of the talks will be available on the &lt;a href=&#34;https://www.rstats.nyc/&#34; target=&#34;_blank&#34;&gt;NYR website&lt;/a&gt;, and past talks are already posted on the site so be sure to check it out.&lt;/p&gt;
+
+&lt;p&gt;The most immediately applicable talk is probably &lt;a href=&#34;https://twitter.com/robinson_esv&#34; target=&#34;_blank&#34;&gt;Emily Robinson’s&lt;/a&gt; the Lesser Known Stars of the Tidyverse. Emily’s talk was chock-full of tips and functions from Tidyverse tools that can be useful to your workflow. For example, if you print a large dataset it can take over your console. By using as_tibble() from the Tibble package, the first ten rows and only the columns that fit on your screen will print, making it much more manageable and still informative. For all of the tips, check out her &lt;a href=&#34;https://www.slideshare.net/secret/sMVjYvcd7yh16z&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;, and her &lt;a href=&#34;https://github.com/robinsones/Data-Day-Talk/blob/master/data_day_script_accompanying.md&#34; target=&#34;_blank&#34;&gt;in-depth document&lt;/a&gt; from an earlier talk.&lt;/p&gt;
+
+&lt;p&gt;One of the most fun talks was &lt;a href=&#34;https://twitter.com/evelgab&#34; target=&#34;_blank&#34;&gt;Evelina Gabasova’s&lt;/a&gt; analysis of the Star Wars social network. Her &lt;a href=&#34;http://evelinag.com/blog/2015/12-15-star-wars-social-network/index.html&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt; does an amazing job of analyzing the connectedness and centrality of characters from the movies, and suggests a hypothesis for why the prequels are just not as compelling as the original trilogy.&lt;/p&gt;
+
+&lt;p&gt;RLadiesNYC had great representation at the conference. &lt;a href=&#34;https://twitter.com/brookLYNevery1&#34; target=&#34;_blank&#34;&gt;Brooke Watson&lt;/a&gt; gave another super fun and informative talk about her package-development journey. In her &lt;a href=&#34;https://github.com/Brooke-watson/nyr&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt; and &lt;a href=&#34;https://blog.brooke.science/posts/scraping-javascript-websites-in-r/&#34; target=&#34;_blank&#34;&gt;blog post&lt;/a&gt; Brooke details how she first became inspired by the beepr package, which allows you to play a sound when a script is finished running. She built upon this idea with the BRRR package, which plays rap snippets. Two Emily’s represented, with aforementioned Emily Robinson and &lt;a href=&#34;https://twitter.com/zabormetrics&#34; target=&#34;_blank&#34;&gt;Emily Zabor&lt;/a&gt;. Emily Zabor &lt;a href=&#34;https://github.com/zabore/slidedecks/blob/master/nyr2018_zabor.pdf&#34; target=&#34;_blank&#34;&gt;taught us&lt;/a&gt; about survivor analysis in cancer research and how these prognoses are determined. As an incoming biostatistics student, I was very gratified to learn from Emily about this incredibly important topic in health research. Survival analysis is a complicated process, and has huge impacts on patients and families. But, Emily pointed out that this type of analysis is actually quite common: we are often curious about time-to-event endpoints in many contexts, like time to heart attack, time to onset of substance abuse, or time to machine malfunction. In all of these contexts it is important and difficult to get it right.&lt;/p&gt;
+
+&lt;p&gt;These are just a sampling of the talks at NYR. From &lt;a href=&#34;http://blog.revolutionanalytics.com/2018/04/minecraft-robot-in-r.html&#34; target=&#34;_blank&#34;&gt;Minecraft&lt;/a&gt; to Machine Learning, it seemed like if there was any topic you were curious about it would be covered, and then some.&lt;/p&gt;
+
+&lt;h1 id=&#34;rladies&#34;&gt;RLadies&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2018-06-27-an-rladys-first-r-conference/IMG_5347.JPG&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This post would be sorely incomplete if I didn’t talk about the huge impact that RLadies has had on me. I learned about RLadies a little while ago, and initially wondered if it would be appropriate for me to go to an event. Did I know enough R? Would I be totally out of place? Then I went to a book club, where the conversation was interesting and the people were friendly and warm. I was hooked. I went to every event I could after that, and developed some kind and awesome new friendships. It made all the difference at my first R conference to already have friends from RLadiesNYC at the conference, and to have familiar faces to gravitate towards whenever I needed. To go along with my gratitude to RLadiesNYC, the most important thing to impart about this conference is how friendly it was. The R community in general is very friendly, with lots of encouragement and support available on &lt;a href=&#34;https://twitter.com/hashtag/rstats?src=hash&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;, the &lt;a href=&#34;https://community.rstudio.com/&#34; target=&#34;_blank&#34;&gt;community pages&lt;/a&gt;, and wherever else a learner might encounter fellow R users. This absolutely carries through in real life. I can&amp;rsquo;t emphasize enough how nice everyone was at NYR. Everyone was super approachable, from attendees to speakers, and this made the learning a lot more fun.&lt;/p&gt;
+
+&lt;p&gt;R is an awesome language, but I wouldn’t be this excited about it if I weren’t so excited about the people that are in this community. NYR was a great conference that really highlighted the strength of the R community. A telling example of this is the community&amp;rsquo;s constant drive to improve. As Brooke Watson commented, it was very exciting that there was now a line for the women&amp;rsquo;s bathroom! Indeed, gender diversity among speakers was better than many other technical conferences I’ve seen. However, as was highlighted by Emily Robinson, diversity is a big ongoing effort and the community is trying to improve it in the coming years. RLadies in particular is committed to increasing diversity in general in the R community, and welcome any ideas to this end. This conscientiousness and the general warmth of the R community give me full confidence that great strides will be made, and I can’t wait to attend NYR again in the coming years.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Book club: Artificial Unintelligence</title>
+      <link>/post/book-club-artificial-unintelligence/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/book-club-artificial-unintelligence/</guid>
+      <description>&lt;p&gt;Please join us for our next book club discussion! This book club event will include a very special appearance by the author, Meredith Broussard, so don&amp;rsquo;t miss out. Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/251676940/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
+
+&lt;p&gt;Date: Saturday, July 14, 2018&lt;/p&gt;
+
+&lt;p&gt;Time: 11am&lt;/p&gt;
+
+&lt;p&gt;Book: &lt;a href=&#34;https://www.rizzolibookstore.com/storytelling-data-data-visualization-guide-business-professionals&#34; target=&#34;_blank&#34;&gt;Artificial Intelligence: How Computers Misunderstand the World&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Author: Meredith Broussard&lt;/p&gt;
+
+&lt;p&gt;Host: &lt;a href=&#34;https://www.rizzolibookstore.com/&#34; target=&#34;_blank&#34;&gt;Rizzoli Bookstore&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lightning Talks!</title>
       <link>/post/lightning-talks/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
@@ -617,46 +678,6 @@ skrrrahh &amp;lt;- function(sound=26, expr = NULL) {&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Time: 6:30pm&lt;/p&gt;
 
 &lt;p&gt;Host: &lt;a href=&#34;https://www.quartethealth.com/&#34; target=&#34;_blank&#34;&gt;Quartet Health&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Book club: Truth or Truthiness</title>
-      <link>/post/book-club-truth-or-truthiness/</link>
-      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/book-club-truth-or-truthiness/</guid>
-      <description>&lt;p&gt;Come join us for a discussion for our next book club discussion! Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/242382626/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;Date: Saturday, September 30, 2017&lt;/p&gt;
-
-&lt;p&gt;Time: 12pm&lt;/p&gt;
-
-&lt;p&gt;Book: &lt;a href=&#34;https://www.rizzolibookstore.com/truth-or-truthiness-distinguishing-fact-fiction-learning-think-data-scientist&#34; target=&#34;_blank&#34;&gt;Truth or Truthiness: Distinguishing Fact from Fiction by Learning to Think Like a Data Scientist&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Author: Howard Wainer&lt;/p&gt;
-
-&lt;p&gt;Host: &lt;a href=&#34;https://www.rizzolibookstore.com/&#34; target=&#34;_blank&#34;&gt;Rizzoli Bookstore&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Data Visualization Workshop, Part 1</title>
-      <link>/post/data-visualization-workshop-part-1/</link>
-      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/data-visualization-workshop-part-1/</guid>
-      <description>&lt;p&gt;Joyce Robbins presents a workshop on creating heatmaps in R, and other more general data visualization tips and tricks. Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/242371329/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;Joyce&amp;rsquo;s GitHub repo for this talk can be found &lt;a href=&#34;https://github.com/jtr13/RLadies&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Date: Thursday, August 17, 2017&lt;/p&gt;
-
-&lt;p&gt;Time: 7pm&lt;/p&gt;
-
-&lt;p&gt;Instructor: Joyce Robbins&lt;/p&gt;
-
-&lt;p&gt;Host: &lt;a href=&#34;http://byteacademy.co/&#34; target=&#34;_blank&#34;&gt;Byte Academy&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
