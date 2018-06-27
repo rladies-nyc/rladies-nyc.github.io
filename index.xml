@@ -31,7 +31,7 @@ NYR is a two-day conference that was held at &lt;a href=&#34;https://www.work-be
 
 &lt;p&gt;&lt;img src=&#34;/img/2018-06-27-an-rladys-first-r-conference/Screen Shot 2018-05-20 at 12.23.59 PM.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;NYR had a very large range of talks: from R tips to statistics, from machine learning to implementing R in an organization, and so much more. For a quick overview of the talks, check out Daniel Chen’s compilation of notes from Brooke Watson and Mara Averick: (&lt;a href=&#34;https://chendaniely.github.io/r/2018/04/22/rstatsnyc/)[https://chendaniely.github.io/r/2018/04/22/rstatsnyc/&#34; target=&#34;_blank&#34;&gt;https://chendaniely.github.io/r/2018/04/22/rstatsnyc/)[https://chendaniely.github.io/r/2018/04/22/rstatsnyc/&lt;/a&gt;] Videos of all of the talks will be available on the &lt;a href=&#34;https://www.rstats.nyc/&#34; target=&#34;_blank&#34;&gt;NYR website&lt;/a&gt;, and past talks are already posted on the site so be sure to check it out.&lt;/p&gt;
+&lt;p&gt;NYR had a very large range of talks: from R tips to statistics, from machine learning to implementing R in an organization, and so much more. For a quick overview of the talks, check out Daniel Chen’s compilation of notes from Brooke Watson and Mara Averick: &lt;a href=&#34;https://chendaniely.github.io/r/2018/04/22/rstatsnyc/&#34; target=&#34;_blank&#34;&gt;https://chendaniely.github.io/r/2018/04/22/rstatsnyc/&lt;/a&gt;. Videos of all of the talks will be available on the &lt;a href=&#34;https://www.rstats.nyc/&#34; target=&#34;_blank&#34;&gt;NYR website&lt;/a&gt;, and past talks are already posted on the site so be sure to check it out.&lt;/p&gt;
 
 &lt;p&gt;The most immediately applicable talk is probably &lt;a href=&#34;https://twitter.com/robinson_esv&#34; target=&#34;_blank&#34;&gt;Emily Robinson’s&lt;/a&gt; the Lesser Known Stars of the Tidyverse. Emily’s talk was chock-full of tips and functions from Tidyverse tools that can be useful to your workflow. For example, if you print a large dataset it can take over your console. By using as_tibble() from the Tibble package, the first ten rows and only the columns that fit on your screen will print, making it much more manageable and still informative. For all of the tips, check out her &lt;a href=&#34;https://www.slideshare.net/secret/sMVjYvcd7yh16z&#34; target=&#34;_blank&#34;&gt;slides&lt;/a&gt;, and her &lt;a href=&#34;https://github.com/robinsones/Data-Day-Talk/blob/master/data_day_script_accompanying.md&#34; target=&#34;_blank&#34;&gt;in-depth document&lt;/a&gt; from an earlier talk.&lt;/p&gt;
 
@@ -63,7 +63,7 @@ NYR is a two-day conference that was held at &lt;a href=&#34;https://www.work-be
 
 &lt;p&gt;Time: 11am&lt;/p&gt;
 
-&lt;p&gt;Book: &lt;a href=&#34;https://www.rizzolibookstore.com/storytelling-data-data-visualization-guide-business-professionals&#34; target=&#34;_blank&#34;&gt;Artificial Intelligence: How Computers Misunderstand the World&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Book: &lt;a href=&#34;https://mitpress.mit.edu/books/artificial-unintelligence&#34; target=&#34;_blank&#34;&gt;Artificial Intelligence: How Computers Misunderstand the World&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Author: Meredith Broussard&lt;/p&gt;
 
@@ -179,355 +179,6 @@ NYR is a two-day conference that was held at &lt;a href=&#34;https://www.work-be
 &lt;p&gt;Speaker: Hadley Wickham&lt;/p&gt;
 
 &lt;p&gt;Host: &lt;a href=&#34;https://www.twosigma.com/&#34; target=&#34;_blank&#34;&gt;Two Sigma&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Brooke Watson: Scraping Javascript websites in R</title>
-      <link>/post/scraping-javascript-websites-in-r/</link>
-      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/scraping-javascript-websites-in-r/</guid>
-      <description>&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#background-remixing-packages-in-r&#34;&gt;Background: remixing packages in R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#javascript-webscraping-in-r&#34;&gt;Javascript webscraping in R&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#download-phantomjs-using-homebrew&#34;&gt;Download PhantomJS using homebrew&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#writing-scrape.js&#34;&gt;Writing scrape.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#scraping-therapboard.com&#34;&gt;Scraping TheRapBoard.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#extracting-audio-files&#34;&gt;Extracting audio files&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#downloading-mp3s&#34;&gt;Downloading mp3s&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#organizing-an-r-package&#34;&gt;Organizing an R package&lt;/a&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#converting-mp3s-to-wavs&#34;&gt;Converting mp3s to wavs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#cleaning-up-and-filtering-.wav-file-names&#34;&gt;Cleaning up and filtering .wav file names&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#tidying-file-names&#34;&gt;Tidying file names&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#renaming-file-paths-from-within-r&#34;&gt;Renaming file paths from within R&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#remixing-the-beep-function&#34;&gt;Remixing the beep() function&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#wrapping-it-all-into-a-package&#34;&gt;Wrapping it all into a package&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#maintaining-an-open-source-package-in-r&#34;&gt;Maintaining an open source package in R&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div id=&#34;background-remixing-packages-in-r&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Background: remixing packages in R&lt;/h1&gt;
-&lt;p&gt;Open source software is made for remixing. When I first switched from STATA to R, I was comfortable using predefined packages and commands, but it quickly became apparent that R’s appeal lies in the power to write custom functions and packages. What’s more, because R is open source, these packages don’t have to be built from scratch. They’re best when they sample from others.&lt;/p&gt;
-&lt;center&gt;
-&lt;iframe src=&#34;https://giphy.com/embed/1uv4CWggzI7te&#34; width=&#34;240&#34; height=&#34;360&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;
-&lt;/iframe&gt;
-&lt;/center&gt;
-&lt;p&gt;When I saw &lt;a href=&#34;https://twitter.com/rabaath&#34;&gt;Rasmus Baath&lt;/a&gt;’s amazing &lt;a href=&#34;https://github.com/rasmusab/beepr&#34;&gt;beepr&lt;/a&gt; package &lt;a href=&#34;https://twitter.com/dannagifford/status/937670231291564032&#34;&gt;retweeted&lt;/a&gt;, I knew I wanted to sample it. Beepr includes one function, &lt;code&gt;beep()&lt;/code&gt;, which plays a sound when a script is done running. It’s immediately useful to me, as I am constantly running short 2-5 minute jobs, but getting distracted and spending 30 minutes away from my code because I don’t realize it’s done. Beepr’s built in sounds are pretty fun – &lt;code&gt;beep(&amp;quot;mario&amp;quot;)&lt;/code&gt; and &lt;code&gt;beep(&amp;quot;treasure&amp;quot;)&lt;/code&gt; play old-school video game celebrations, and you can include html links to wav files to play any .wav that exists on the internet.&lt;/p&gt;
-&lt;p&gt;For my beepr remix, I wanted to use ad libs from rap songs. I often want to shout “GUCCI” or “WE THE BEST” when a long script is done, but I have over the years come to understand that “most people” don’t “appreciate” this kind of action in a “workplace environment.” I can settle for letting DJ Khaled and Gucci Mane shout them for me.&lt;/p&gt;
-&lt;p&gt;If these had been on the internet in &lt;code&gt;.wav&lt;/code&gt; form, I probably wouldn’t have spent any time learning how to scrape audio files from the internet and build them into a custom package. But they weren’t. Thus, &lt;a href=&#34;https://github.com/brooke-watson/BRRR&#34;&gt;BRRR&lt;/a&gt; was born.&lt;/p&gt;
-&lt;p&gt;It can be installed and run with the following command:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;devtools::install_github(&amp;quot;brooke-watson/BRRR&amp;quot;)
-library(BRRR)
-
-# play a simple rap adlib in R 
-skrrrahh()&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;For background on what BRRR does and how it got it’s name, the &lt;a href=&#34;https://github.com/brooke-watson/BRRR&#34;&gt;README&lt;/a&gt; is quite comprehensive. Modifying beepr to include different sounds was actually quite straightforward - getting the data was the interesting part. Here, I’ll walk through how I scraped a JavaScript website, extracted and downloaded over 300 mp3 files, and hosted them in a package on Github.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;javascript-webscraping-in-r&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Javascript webscraping in R&lt;/h1&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# import packages 
-library(rvest)
-library(stringr)
-library(tidyverse)
-library(purrr)
-library(here)
-library(beepr)
-library(DT)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Getting the audio files entailed a fair bit of preliminary work. I had to:&lt;/p&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;Scrape &lt;a href=&#34;http://therapboard.com/&#34;&gt;TheRapBoard&lt;/a&gt; to find paths to all of the audio files.&lt;/li&gt;
-&lt;li&gt;Download mp3 files from the website.&lt;/li&gt;
-&lt;li&gt;Convert them from .mp3 to .wav format.&lt;/li&gt;
-&lt;li&gt;Pare down from ~300 to ~50 sounds to keep the package (relatively) light.&lt;/li&gt;
-&lt;li&gt;Put them in a folder that R would recognize and bundle into my package.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;em&gt;A note&lt;/em&gt;: web scraping can be a tremendously useful way to extract data from the internet, but it can cause real problems for some websites and should be done respectfully and ethically. &lt;a href=&#34;https://towardsdatascience.com/ethics-in-web-scraping-b96b18136f01&#34;&gt;This post&lt;/a&gt; from James Densmore lays out some guidelines for doing this responsibly. Before I did anything, I checked to see whether The Rap Board had a &lt;a href=&#34;http://www.robotstxt.org/robotstxt.html&#34;&gt;robots.txt&lt;/a&gt; file that prevented or provided specific instructions on how to scrape the site. I recommend doing this before any web scraping project - and keeping that in mind if you’re thinking of reproducing this script.&lt;/p&gt;
-&lt;div id=&#34;download-phantomjs-using-homebrew&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Download PhantomJS using homebrew&lt;/h2&gt;
-&lt;p&gt;Httr and rvest are the two R packages that work together to scrape html websites. Usually, this works by using a browser extension called SelectorGadget to find all items styled with a particular CSS - actors in an IMDB table, for example. For more, check out the SelectorGadget vignette:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;if(!require(rvest)) {
-  install.packages(&amp;quot;rvest&amp;quot;)
-  library(rvest)
-}
-vignette(&amp;quot;selectorgadget&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Unfortunately, this didn’t work for the website I wanted to scrape, which was written primarily in JavaScript. Instead, I adapted Florian Teschner’s &lt;a href=&#34;https://www.r-bloggers.com/web-scraping-javascript-rendered-sites/&#34;&gt;instructions&lt;/a&gt; on using PhantomJS to convert the website into HTML. I wrapped this in a &lt;code&gt;system()&lt;/code&gt; call inside R Studio, but it could just as easily be done from the command line.&lt;/p&gt;
-&lt;p&gt;Before we can do anything, we need to download and unzip &lt;a href=&#34;phantomjs.org&#34;&gt;PhantomJS&lt;/a&gt;. This can be done from the link, but if you have a Mac and insist on staying inside RStudio, below is some circuitous R code you can use to do just that. It first downloads &lt;a href=&#34;https://brew.sh/&#34;&gt;Homebrew&lt;/a&gt;, if you don’t have it yet, and then downloads &lt;a href=&#34;http://phantomjs.org/&#34;&gt;PhantomJS&lt;/a&gt;. Homebrew is an easy way to install packages onto a Mac from the terminal. PhantomJS calls itself “a headless WebKit scriptable with a JavaScript API”, which for our purposes means that it will convert a JavaScript website like Rap Board into html. This means we can get the paths to the .mp3 soundboard files really easily.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# donwload homebrew if it doesn&amp;#39;t already exist 
-if(!dir.exists(&amp;quot;/usr/local/Homebrew&amp;quot;)) {
-  system(&amp;#39;ruby -e &amp;quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&amp;quot;&amp;#39;)
-}
-
-# download phantomjs using homebrew 
-if(!dir.exists(&amp;quot;/usr/local/Cellar/phantomjs&amp;quot;)) {
-    system(&amp;quot;brew install phantomjs&amp;quot;) 
-}&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;writing-scrape.js&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Writing scrape.js&lt;/h2&gt;
-&lt;p&gt;Next, we’ll write the JavaScript code to a js file called scrape.js. If you want to scrape a different JavaScript URL, we can change the path in the next function.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# write the javascript code to a new file, scrape.js
-
-writeLines(&amp;quot;var url = &amp;#39;http://therapboard.com&amp;#39;;
-var page = new WebPage();
-var fs = require(&amp;#39;fs&amp;#39;);
-
-page.open(url, function (status) {
-        just_wait();
-});
-
-function just_wait() {
-    setTimeout(function() {
-               fs.write(&amp;#39;1.html&amp;#39;, page.content, &amp;#39;w&amp;#39;);
-            phantom.exit();
-    }, 2500);
-}
-&amp;quot;, con = &amp;quot;scrape.js&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;scraping-therapboard.com&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Scraping TheRapBoard.com&lt;/h2&gt;
-&lt;p&gt;This function takes &lt;code&gt;scrape.js&lt;/code&gt; and the url of our choice (in this case, the url that hosts the audio files we need) and calls PhantomJS from the command line on a Mac. If you didn’t download PhantomJS using homebrew, you’ll need to include the path to your downloaded PhantomJS package as a &lt;code&gt;phantompath&lt;/code&gt; argument. If you use Windows, this also is going to look different.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;js_scrape &amp;lt;- function(url = &amp;quot;http://therapboard.com&amp;quot;, 
-                      js_path = &amp;quot;scrape.js&amp;quot;, 
-                      phantompath = &amp;quot;/usr/local/Cellar/phantomjs/2.1.1/bin/phantomjs&amp;quot;){
-  
-  # this section will replace the url in scrape.js to whatever you want 
-  lines &amp;lt;- readLines(js_path)
-  lines[1] &amp;lt;- paste0(&amp;quot;var url =&amp;#39;&amp;quot;, url ,&amp;quot;&amp;#39;;&amp;quot;)
-  writeLines(lines, js_path)
-  
-  command = paste(phantompath, js_path, sep = &amp;quot; &amp;quot;)
-  system(command)
-
-}
-
-js_scrape()&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;extracting-audio-files&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Extracting audio files&lt;/h2&gt;
-&lt;p&gt;After converting the rap board’s website from Javascript into html, I could use &lt;code&gt;rvest&lt;/code&gt; and &lt;code&gt;dplyr&lt;/code&gt; package functions to get the mp3 paths into a format that I wanted. The code below required some fiddling with stringr and regex to convert a jumble of html into a list of file paths. It could be more succinct, but it works.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# read the newly created html file 
-html &amp;lt;- read_html(&amp;quot;1.html&amp;quot;)
-
-setup &amp;lt;- html %&amp;gt;% 
-  html_nodes(&amp;quot;source&amp;quot;) %&amp;gt;% 
-  str_c(&amp;quot;&amp;quot;) %&amp;gt;% 
-  as_tibble() %&amp;gt;% 
-  filter(!str_detect(value, &amp;#39;ogg&amp;quot;&amp;#39;)) %&amp;gt;%  
-  lapply(., str_replace, &amp;#39;&amp;lt;source src=\&amp;quot;&amp;#39;, &amp;quot;http://therapboard.com/&amp;quot;) %&amp;gt;% 
-  lapply(., str_split, &amp;quot;\&amp;quot; type&amp;quot;)
-
-mp3s = map(seq_along(setup$value), ~setup$value[[.x]][1]) &lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;downloading-mp3s&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Downloading mp3s&lt;/h2&gt;
-&lt;p&gt;Finally, I had the list of mp3 paths. I wrote a function to download the urls into an &lt;code&gt;mp3s/&lt;/code&gt; folder that I created inside the function. I used &lt;code&gt;Sys.sleep()&lt;/code&gt; to introduce a random lag in between each download, which I hear is &lt;a href=&#34;https://gist.github.com/abelsonlive/3769469&#34;&gt;best practice&lt;/a&gt;.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;download_mp3s = function(url) { 
-  if(!dir.exists(&amp;quot;mp3s&amp;quot;)) {dir.create(&amp;quot;mp3s&amp;quot;)}
-  # create a place to put them if you haven&amp;#39;t yet 
-  
-  url = url
-  destpath = stringr::str_replace(url, &amp;quot;http://therapboard.com/audio/&amp;quot;, &amp;quot;mp3s/&amp;quot;)
-  download.file(url, destfile = destpath)
-  Sys.sleep(sample(seq(1, 3, by=0.001), 1))
-} &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Then, I waited. Fittingly, I used beepr to alert me when my script was done.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;lapply(mp3s, download_mp3s)
-beep(&amp;quot;mario&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;organizing-an-r-package&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Organizing an R package&lt;/h1&gt;
-&lt;div id=&#34;converting-mp3s-to-wavs&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Converting mp3s to wavs&lt;/h2&gt;
-&lt;p&gt;Now that the mp3 files were downloaded into my computer, I had to convert them to .wav files so that they worked with the &lt;a href=&#34;https://rforge.net/audio/&#34;&gt;audio&lt;/a&gt; R package. I used &lt;a href=&#34;https://www.ffmpeg.org/&#34;&gt;ffmpeg&lt;/a&gt; to do this. It’s easiest to do this by downloading ffmepg &lt;a href=&#34;https://www.ffmpeg.org/&#34;&gt;from the website&lt;/a&gt; and running a command from the terminal, but we can wrap them in a &lt;code&gt;system()&lt;/code&gt; call like such if we again insist on doing everything from within R. The text inside the system call loops over all the &lt;code&gt;.mp3&lt;/code&gt; files in the &lt;code&gt;/mp3&lt;/code&gt; folder and converts them to .wav, keeping the rest of the file name the same. I then moved them to their own folder and deleted the mp3s - we won’t need those anymore.&lt;/p&gt;
-&lt;p&gt;Again, command line syntax is different in Windows. Them’s the breaks. ¯\_(ツ)_/¯&lt;/p&gt;
-&lt;center&gt;
-&lt;iframe src=&#34;https://giphy.com/embed/zNXvBiNNcrjDW&#34; width=&#34;360&#34; height=&#34;347&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;
-&lt;/iframe&gt;
-&lt;/center&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# convert mp3s to wav files 
-system(&amp;#39;for file in mp3s/*.mp3; do
-   ffmpeg -i &amp;quot;$file&amp;quot; -acodec pcm_s16le -ac 1 -ar 44100 &amp;quot;${file%.mp3}&amp;quot;.wav
-done&amp;#39;) 
-
-# make a new folder for the wav files 
-dir.create(&amp;#39;wav&amp;#39;) 
-
-# move wavs to the wav folder 
-system(&amp;quot;mv mp3s/*.wav wav&amp;quot;) 
-
-# delete the mp3s 
-unlink(&amp;quot;mp3s&amp;quot;, recursive = TRUE, force = TRUE)&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;cleaning-up-and-filtering-.wav-file-names&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Cleaning up and filtering .wav file names&lt;/h2&gt;
-&lt;p&gt;The audio files from The Rap Board don’t have much of a consistent structure for unique IDs. Some are numbered, while some include segments of the lyric. The numbered files don’t always fall in order. This is more than fine for them, but since we’ll often be calling particular sounds from inside the function by name, I don’t particularly want to have to remember whether Gucci yelling “BRRR” is called “gucci_brr” or “gucci_brrr” or, inexplicably, “gucci_14”, as it was when we downloaded it.&lt;/p&gt;
-&lt;p&gt;I was doing a lot of &lt;code&gt;str_split&lt;/code&gt;ting, so I wrote a convenience function to extract the first component from the rest of the list.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;extract_first = function(string, pattern) {
-
-  x = stringr::str_split(string, pattern) 
-  y = purrr::map_chr(seq_along(string), ~x[[.x]][1])
-  
-}
-# create a lookup table matching the artist to the unique .wav file 
-wavs = list.files(&amp;quot;wav&amp;quot;)
-wav_names = map_chr(wavs, str_replace , &amp;quot;.wav&amp;quot;, &amp;quot;&amp;quot;)
-artist = extract_first(wav_names, &amp;quot;_&amp;quot;)  
-lookup_table = data_frame(wav_names, artist)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;We’re in a good shape - we now have a dataframe with the names of 319 wav files. That is way too many to include in a package. At this point, I went through all of them and chose my favorites, based on my personal preferences. This part is manual, arbitrary, and important.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;selected = lookup_table %&amp;gt;% 
-  filter(wav_names %in% c(&amp;quot;2chainz_tru&amp;quot;, &amp;quot;2chainz_whistle&amp;quot;, &amp;quot;bigboi_1&amp;quot;, &amp;quot;biggie_2&amp;quot;, &amp;quot;bigsean_boi2&amp;quot;, &amp;quot;bigsean_doit&amp;quot;, &amp;quot;bigsean_holdup2&amp;quot;, &amp;quot;bigsean_ohgod&amp;quot;, &amp;quot;bigsean_stop&amp;quot;, &amp;quot;bigsean_whoathere&amp;quot;, &amp;quot;birdman_1&amp;quot;, &amp;quot;birdman_4&amp;quot;, &amp;quot;birdman_respeck&amp;quot;, &amp;quot;busta_6&amp;quot;, &amp;quot;chance_aghh2&amp;quot;, &amp;quot;desiigner_rahhh&amp;quot;, &amp;quot;diddy_5&amp;quot;, &amp;quot;drake_5&amp;quot;, &amp;quot;drake_worst&amp;quot;, &amp;quot;drummaboy_1&amp;quot;, &amp;quot;fetty_yeahbaby&amp;quot;, &amp;quot;flava_1&amp;quot;, &amp;quot;future_brrr&amp;quot;, &amp;quot;gucci_1&amp;quot;, &amp;quot;gucci_14&amp;quot;, &amp;quot;gucci_4&amp;quot;, &amp;quot;jayz_itsyoboy&amp;quot;, &amp;quot;jayz5&amp;quot;, &amp;quot;kendrick_tootoo&amp;quot;, &amp;quot;khaled_blessup2&amp;quot;, &amp;quot;khaled_majorkey3&amp;quot;, &amp;quot;khaled_theydontwant&amp;quot;, &amp;quot;khaled_wethebest&amp;quot;, &amp;quot;liljon_2&amp;quot;, &amp;quot;liljon_3&amp;quot;, &amp;quot;nicki_laugh2&amp;quot;, &amp;quot;pitbull_6&amp;quot;, &amp;quot;ross_1&amp;quot;, &amp;quot;ross_2&amp;quot;, &amp;quot;schoolboy_yawk&amp;quot;, &amp;quot;snoop_4&amp;quot;, &amp;quot;soulja_5&amp;quot;, &amp;quot;takeoff_money&amp;quot;, &amp;quot;tpain1&amp;quot;, &amp;quot;traviscott_straightup&amp;quot;, &amp;quot;treysongz_uhunh&amp;quot;, &amp;quot;trick_2&amp;quot;, &amp;quot;waka_1&amp;quot;, &amp;quot;weezy_4&amp;quot;, &amp;quot;yg_skrrt&amp;quot;))&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;tidying-file-names&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Tidying file names&lt;/h2&gt;
-&lt;p&gt;Luckily, the files tend to fall under a general &lt;code&gt;artist_uniqueid&lt;/code&gt; naming convention. The next section cleans up the unique IDs. If a rapper has any sound board sounds, you’ll be able to call it with &lt;code&gt;skrrrahh(&amp;quot;name&amp;quot;)&lt;/code&gt;. To cycle through the various sounds, use &lt;code&gt;skrrrahh(&amp;quot;name1&amp;quot;)&lt;/code&gt;, &lt;code&gt;skrrrahh(&amp;quot;name2&amp;quot;)&lt;/code&gt;, etc. until you get an error.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# make the filenames more consistent 
-filtered_names = selected %&amp;gt;% 
-  group_by(artist) %&amp;gt;% 
-  mutate(n = row_number()-1) %&amp;gt;% 
-  mutate(newnames = paste0(artist, n)) 
-
-# remove the &amp;quot;0s&amp;quot; so that you can call some files just by the artist name
-filtered_names$newnames = map(filtered_names$newnames, str_replace, 
-                              pattern = &amp;quot;0&amp;quot;, replacement = &amp;quot;&amp;quot;) %&amp;gt;% 
-  unlist()
-
-# two are stilled a mess - let&amp;#39;s fix these manually. 
-filtered_names$newnames = str_replace(filtered_names$newnames, &amp;quot;jayz5&amp;quot;, &amp;quot;jayz1&amp;quot;)
-filtered_names$newnames = str_replace(filtered_names$newnames, &amp;quot;tpain1&amp;quot;, &amp;quot;tpain&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Finally, I couldn’t make this package without including &lt;a href=&#34;https://www.youtube.com/watch?v=3M_5oYU-IsU&#34;&gt;Big Shaq&lt;/a&gt;. He’s not on the Rap Board yet, so I made his clip in garageband and manually dragged it into &lt;code&gt;inst/adlibs&lt;/code&gt;. That means this walkthrough is not &lt;em&gt;entirely&lt;/em&gt; reproducible, but as Ralph Waldo Emerson says, _“a foolish consistency is the hobgoblin of little minds”, so Please Do Not @ Me.&lt;/p&gt;
-&lt;center&gt;
-&lt;iframe src=&#34;https://gfycat.com/ifr/ScaredRecklessCopperbutterfly&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; allowfullscreen width=&#34;320&#34; height=&#34;184&#34;&gt;
-&lt;/iframe&gt;
-&lt;/center&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;bigshaqdf = data.frame(wav_names = &amp;quot;bigshaq&amp;quot;, artist = &amp;quot;bigshaq&amp;quot;, n = 0, newnames = &amp;quot;bigshaq&amp;quot;)
-filtered_names = bind_rows(filtered_names, bigshaqdf) %&amp;gt;% 
-  arrange(newnames)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Let’s take a look at the table we used to transfer the old names to the new ones:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;knitr::kable(head(filtered_names))&lt;/code&gt;&lt;/pre&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr class=&#34;header&#34;&gt;
-&lt;th align=&#34;left&#34;&gt;wav_names&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;artist&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;n&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;newnames&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;2chainz_tru&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2chainz&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2chainz&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;2chainz_whistle&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2chainz&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;1&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;2chainz1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;bigboi_1&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;bigboi&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;bigboi&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;biggie_2&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;biggie&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;biggie&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;odd&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;bigsean_boi2&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;bigsean&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;0&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;bigsean&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&#34;even&#34;&gt;
-&lt;td align=&#34;left&#34;&gt;bigsean_doit&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;bigsean&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;1&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;bigsean1&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;!-- &lt;iframe seamless src=&#34;../d1/index.html&#34; width=&#34;100%&#34; height = 300&gt;&lt;/iframe&gt; --&gt;
-&lt;/div&gt;
-&lt;div id=&#34;renaming-file-paths-from-within-r&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Renaming file paths from within R&lt;/h2&gt;
-&lt;p&gt;Now I have to use the information in the data frame to rename the actual files. The easiest way for me to do that is to rename them while moving them into a new directory. I can then delete the entire old directory.&lt;/p&gt;
-&lt;p&gt;Conveniently, R packages store all files that they need in the &lt;code&gt;inst/&lt;/code&gt; folder, so I have to get these babies there at some point. Let’s do it now.&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;# create a new directory, inst/adlibs 
-dir.create(&amp;quot;inst&amp;quot;)
-dir.create(&amp;quot;inst/adlibs&amp;quot;)
-
-# make character vectors that map the old file paths to the new file paths 
-filtered_names &amp;lt;- filtered_names %&amp;gt;% 
-  mutate(old_filepaths = paste0(&amp;quot;wav/&amp;quot;, wav_names, &amp;quot;.wav&amp;quot;),
-         new_filepaths = paste0(&amp;quot;inst/adlibs/&amp;quot;, newnames, &amp;quot;.wav&amp;quot;))
-
-# rename the old paths to the new paths 
-map2(filtered_names$old_filepaths, filtered_names$new_filepaths, file.rename)
-
-# delete the old file path 
-unlink(&amp;quot;wav&amp;quot;, recursive = TRUE, force = TRUE)&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;remixing-the-beep-function&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Remixing the beep() function&lt;/h1&gt;
-&lt;p&gt;Now that I had all the audio files in the right place with the right names, I just had to change the name of my main function and update some paths.&lt;/p&gt;
-&lt;p&gt;Like beepr, I wanted BRRR to also have a single function. Mine is called &lt;code&gt;skrrrahh()&lt;/code&gt;, named for 2017’s most iconic Roadman, Big Shaq.&lt;/p&gt;
-&lt;p&gt;The bones of the function are the same. I started by cloning the beepr &lt;a href=&#34;https://github.com/rasmusab/beepr&#34;&gt;Github repo&lt;/a&gt; and fiddling around in the guts of the main function, &lt;code&gt;beep()&lt;/code&gt;. Most of my changes were to internal file paths - including hard-coding links to to the new filenames we just generated. I mostly hacked at this using &lt;a href=&#34;https://www.sublimetext.com/3&#34;&gt;Sublime Text&lt;/a&gt; and heavy amounts of Copy-Paste. Really inquiring minds can see the changes in the &lt;a href=&#34;https://github.com/brooke-watson/BRRR/commits/master&#34;&gt;commit log&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;/img/2018-03-18-scraping-javascript-websites-in-r/inst.png&#34; /&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;wrapping-it-all-into-a-package&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Wrapping it all into a package&lt;/h1&gt;
-&lt;p&gt;I believe Hilary Parker’s &lt;a href=&#34;https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/&#34;&gt;post&lt;/a&gt; on making an R package from scratch is the seminal reference text for this activity. I’ve seen it attributed all over the internet, and as promised, it’s a tremendously simple and straightforward step-by-step guide.&lt;/p&gt;
-&lt;p&gt;I did run into a few hiccups along the way, due to my complete inexperience with &lt;code&gt;roxygen&lt;/code&gt;. For future reference, or for anyone in a similar boat, here are some notes based on bugs and fixes I discovered:&lt;/p&gt;
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;All documentation code begins with &lt;code&gt;#&#39;&lt;/code&gt;, not the single &lt;code&gt;#&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;You have to include &lt;code&gt;#&#39;@export&lt;/code&gt; in the documentation of every function if you want it to be available to use in the package.&lt;/li&gt;
-&lt;li&gt;I had issues when I included a space between the last documentation line and the first line of the function, and also when &lt;code&gt;@export&lt;/code&gt; wasn’t the last line of my documentation. I’m not sure if this is truly necessary, but I’m superstitious enough to keep doing it this way.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;For example, the bit between my documentation and my function looks like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#&amp;#39; ...(more documentation above)
-#&amp;#39;@export
-skrrrahh &amp;lt;- function(sound=26, expr = NULL) {&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;em&gt;Not&lt;/em&gt; like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;#&amp;#39; @export 
-#&amp;#39; @params sound expr 
-#&amp;#39; 
-
-
-skrrrahh &amp;lt;- function(sound=26, expr = NULL) {&lt;/code&gt;&lt;/pre&gt;
-&lt;ol start=&#34;4&#34; style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;&lt;p&gt;If any of the functions rely on other packages, you have to &lt;code&gt;@import&lt;/code&gt; them for the function to work properly. If the packages you’re importing are huge, and you only want to import certain functions, you can do that as well.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Generally, especially if this is your first package, it’s best to shoot for a &lt;em&gt;minimum viable product&lt;/em&gt;. MVPs may not include all the examples or links to other documentation that you will eventually want your code to have, but they get it up and running as quickly as possible. You can add additional documentation later. It’s also easier to troubleshoot issues if you’re building a package step-by-step. When you’ve got a ton of well-documented functions, it will be harder to identify the source of the problem if your package fails to build properly.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;div id=&#34;maintaining-an-open-source-package-in-r&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Maintaining an open source package in R&lt;/h1&gt;
-&lt;p&gt;Again, &lt;a href=&#34;https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/&#34;&gt;Hilary&lt;/a&gt; and &lt;a href=&#34;http://happygitwithr.com/&#34;&gt;Jenny&lt;/a&gt; have created more and better instructions on installing a package locally and from Github, so I won’t repeat what’s already been done.&lt;/p&gt;
-&lt;p&gt;But once I pushed this to Github, I immediately became an open source developer and maintainer. That’s all it takes. Folks saw it on Twitter, got a good chuckle, and immediately started using it, fixing bugs and typos, and offering suggestions for the next version.&lt;/p&gt;
-&lt;p&gt;This is the thing I didn’t realize before building this package. When you make something open source, and put it out into the world, people will often just start fixing things for you, for free. I got lucky with BRRR - apparently, the Venn diagram &lt;a href=&#34;https://www.instagram.com/p/S6OS2YAWQI/&#34;&gt;overlap&lt;/a&gt; between rap nerds and stats nerds is much larger than I thought, and more people saw this package than I ever imagined. But this is the beauty of open source - projects become bigger, better, and more creative than they ever could if they live and die on one person’s computer. Four people have fixed bugs or typos in my repo, which I in turn built off the back of &lt;a href=&#34;https://github.com/rasmusab&#34;&gt;Rasmus’s&lt;/a&gt;. Someone has already ported beepr into &lt;a href=&#34;https://pypi.python.org/pypi/brrr&#34;&gt;Python&lt;/a&gt;. The community &lt;a href=&#34;https://twitter.com/brookLYNevery1/status/940359216480636928&#34;&gt;shared&lt;/a&gt; beepr with friends and colleagues they thought would like it.&lt;/p&gt;
-&lt;p&gt;Hopefully, someone else who has never made a package will take this and run with it, remixing the remix until it is unrecognizable. In the wise words of the Godfather of my very first R package:&lt;/p&gt;
-&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;/img/2018-03-18-scraping-javascript-websites-in-r/gucci-nevertoolate.png&#34; /&gt;
-
-&lt;/div&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -678,6 +329,26 @@ skrrrahh &amp;lt;- function(sound=26, expr = NULL) {&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Time: 6:30pm&lt;/p&gt;
 
 &lt;p&gt;Host: &lt;a href=&#34;https://www.quartethealth.com/&#34; target=&#34;_blank&#34;&gt;Quartet Health&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Book club: Truth or Truthiness</title>
+      <link>/post/book-club-truth-or-truthiness/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/book-club-truth-or-truthiness/</guid>
+      <description>&lt;p&gt;Come join us for a discussion for our next book club discussion! Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/242382626/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
+
+&lt;p&gt;Date: Saturday, September 30, 2017&lt;/p&gt;
+
+&lt;p&gt;Time: 12pm&lt;/p&gt;
+
+&lt;p&gt;Book: &lt;a href=&#34;https://www.rizzolibookstore.com/truth-or-truthiness-distinguishing-fact-fiction-learning-think-data-scientist&#34; target=&#34;_blank&#34;&gt;Truth or Truthiness: Distinguishing Fact from Fiction by Learning to Think Like a Data Scientist&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Author: Howard Wainer&lt;/p&gt;
+
+&lt;p&gt;Host: &lt;a href=&#34;https://www.rizzolibookstore.com/&#34; target=&#34;_blank&#34;&gt;Rizzoli Bookstore&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
