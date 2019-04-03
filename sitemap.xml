@@ -5,7 +5,6 @@
     
     <url>
     
-<<<<<<< HEAD
       <loc>/post/r-package-workshop/</loc>
       <lastmod>2019-04-03T00:00:00+00:00</lastmod>
     </url>
@@ -51,8 +50,6 @@
     
     <url>
     
-=======
->>>>>>> 4d91b6c6b9c85f60ae16a837e358362efa612b50
       <loc>/post/reproducibility-and-communication-in-r/</loc>
       <lastmod>2018-11-12T00:00:00+00:00</lastmod>
     </url>
@@ -374,13 +371,8 @@
     
     <url>
     
-<<<<<<< HEAD
       <loc>/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-=======
-      <loc>/tags/bookclub/</loc>
-      <lastmod>2018-09-18T00:00:00+00:00</lastmod>
->>>>>>> 4d91b6c6b9c85f60ae16a837e358362efa612b50
       <priority>0</priority>
     </url>
     
@@ -389,23 +381,8 @@
     
     <url>
     
-<<<<<<< HEAD
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-=======
-      <loc>/categories/bookclub/</loc>
-      <lastmod>2018-09-18T00:00:00+00:00</lastmod>
->>>>>>> 4d91b6c6b9c85f60ae16a837e358362efa612b50
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/blog/</loc>
-      <lastmod>2018-06-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -424,8 +401,8 @@
     
     <url>
     
-      <loc>/tags/bookclub/</loc>
-      <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+      <loc>/tags/blog/</loc>
+      <lastmod>2018-06-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -434,13 +411,8 @@
     
     <url>
     
-<<<<<<< HEAD
       <loc>/categories/bookclub/</loc>
       <lastmod>2019-01-26T00:00:00+00:00</lastmod>
-=======
-      <loc>/tags/event/</loc>
-      <lastmod>2018-11-12T00:00:00+00:00</lastmod>
->>>>>>> 4d91b6c6b9c85f60ae16a837e358362efa612b50
       <priority>0</priority>
     </url>
     
@@ -449,13 +421,8 @@
     
     <url>
     
-<<<<<<< HEAD
-      <loc>/tags/datadive/</loc>
-      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-=======
-      <loc>/categories/event/</loc>
-      <lastmod>2018-11-12T00:00:00+00:00</lastmod>
->>>>>>> 4d91b6c6b9c85f60ae16a837e358362efa612b50
+      <loc>/tags/bookclub/</loc>
+      <lastmod>2019-01-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -474,8 +441,8 @@
     
     <url>
     
-      <loc>/tags/event/</loc>
-      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+      <loc>/tags/datadive/</loc>
+      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -494,8 +461,8 @@
     
     <url>
     
-      <loc>/tags/social/</loc>
-      <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+      <loc>/tags/event/</loc>
+      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -514,12 +481,8 @@
     
     <url>
     
-      <loc>/tags/talk/</loc>
-<<<<<<< HEAD
-      <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-=======
-      <lastmod>2018-11-12T00:00:00+00:00</lastmod>
->>>>>>> 4d91b6c6b9c85f60ae16a837e358362efa612b50
+      <loc>/tags/social/</loc>
+      <lastmod>2018-12-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -529,11 +492,7 @@
     <url>
     
       <loc>/categories/talk/</loc>
-<<<<<<< HEAD
       <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-=======
-      <lastmod>2018-11-12T00:00:00+00:00</lastmod>
->>>>>>> 4d91b6c6b9c85f60ae16a837e358362efa612b50
       <priority>0</priority>
     </url>
     
@@ -542,8 +501,8 @@
     
     <url>
     
-      <loc>/tags/workshop/</loc>
-      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+      <loc>/tags/talk/</loc>
+      <lastmod>2019-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -553,6 +512,16 @@
     <url>
     
       <loc>/categories/workshop/</loc>
+      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/workshop/</loc>
       <lastmod>2019-04-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
