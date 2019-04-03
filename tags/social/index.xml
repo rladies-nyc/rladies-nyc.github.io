@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social on R-Ladies NYC</title>
+    <link>/tags/social/</link>
+    <description>Recent content in social on R-Ladies NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/social/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018 End of Year Social</title>
+      <link>/post/2018-end-of-year-social/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-end-of-year-social/</guid>
+      <description>Happy Holidays! For the end of the year we are looking to celebrate how far R-Ladies New York has come and thank all of you for your incredible support.
+Visit our Meetup page to RSVP.
+Details We are doing this potluck style so sign up here to bring something to the party!
+Dress in casual or holiday gear - we welcome it all!
+Date: Monday, December 10, 2018
+Time: 6:30pm</description>
+    </item>
+    
+    <item>
+      <title>Summer Social!</title>
+      <link>/post/summer-social/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/summer-social/</guid>
+      <description>Let&amp;rsquo;s take a break from the heat and our desks for an R-Ladies summer social event! Visit our Meetup page for more details and to RSVP.
+Date: Saturday, July 8, 2017
+Time: 2pm
+Where: Blue Ribbon Sushi Izakaya</description>
+    </item>
+    
+  </channel>
+</rss>

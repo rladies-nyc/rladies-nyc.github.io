@@ -5,6 +5,96 @@
     
     <url>
     
+      <loc>/post/r-package-workshop/</loc>
+      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/building-pipelines-with-text-and-data/</loc>
+      <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/book-club-algorithms-to-live-by/</loc>
+      <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/git-with-joyce/</loc>
+      <lastmod>2019-01-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2018-end-of-year-social/</loc>
+      <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/reproducibility-and-communication-in-r/</loc>
+      <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/parallel-computing-in-r/</loc>
+      <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/book-club-r-packages-by-hadley-wickham/</loc>
+      <lastmod>2018-09-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/learn-oop-and-discover-cool-finance-packages-in-r/</loc>
+      <lastmod>2018-09-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/building-infrastructure-with-r/</loc>
+      <lastmod>2018-09-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/lightning-talks-roundup/</loc>
       <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     </url>
@@ -263,6 +353,44 @@
     
     <url>
     
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/blog/</loc>
       <lastmod>2018-06-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -284,7 +412,7 @@
     <url>
     
       <loc>/tags/bookclub/</loc>
-      <lastmod>2018-06-27T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -294,17 +422,7 @@
     <url>
     
       <loc>/categories/bookclub/</loc>
-      <lastmod>2018-06-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <lastmod>2018-06-27T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -334,7 +452,7 @@
     <url>
     
       <loc>/tags/event/</loc>
-      <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -344,26 +462,7 @@
     <url>
     
       <loc>/categories/event/</loc>
-      <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -373,7 +472,7 @@
     <url>
     
       <loc>/tags/social/</loc>
-      <lastmod>2017-07-08T00:00:00+00:00</lastmod>
+      <lastmod>2018-12-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -383,17 +482,7 @@
     <url>
     
       <loc>/categories/social/</loc>
-      <lastmod>2017-07-08T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-12-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -403,7 +492,7 @@
     <url>
     
       <loc>/tags/talk/</loc>
-      <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+      <lastmod>2019-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -413,7 +502,7 @@
     <url>
     
       <loc>/categories/talk/</loc>
-      <lastmod>2018-05-18T00:00:00+00:00</lastmod>
+      <lastmod>2019-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -423,7 +512,7 @@
     <url>
     
       <loc>/tags/workshop/</loc>
-      <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -433,7 +522,7 @@
     <url>
     
       <loc>/categories/workshop/</loc>
-      <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

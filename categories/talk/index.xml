@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>talk on R-Ladies NYC</title>
+    <link>/categories/talk/</link>
+    <description>Recent content in talk on R-Ladies NYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
+    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building Pipelines with Text and Data</title>
+      <link>/post/building-pipelines-with-text-and-data/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/building-pipelines-with-text-and-data/</guid>
+      <description>We are excited this month to host two very active R-Ladies from our chapter: Amanda Dobbyn and Maryam Jahanshahi!
+See our Meetup page to RSVP.
+Details Date Tuesday, February 12, 2019
+Time 6:00pm
+Host WeWork (205 Hudson S)
+Amanda&amp;rsquo;s talk will focus on the package &amp;lsquo;drake&amp;rsquo;. Drake is a package designed to make designing and executing analysis pipelines easier and more reproducible. In this talk Amanda will run through an example of how drake can be used to manage an analysis workflow.</description>
+    </item>
+    
+    <item>
+      <title>Reproducibility and Communication in R</title>
+      <link>/post/reproducibility-and-communication-in-r/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/reproducibility-and-communication-in-r/</guid>
+      <description>This month it is our pleasure to have Noam Ross and our very own Ludmila Janda present on Reproducibility and Communication in R!
+Visit our Meetup page for more details and to RSVP.
+Date: Tuesday, November 6, 2018
+Time: 6:30pm
+Host: The New York Times
+Agenda: 6:30-6:45pm - General networking
+6:45-6:55pm - R-Ladies New York Announcements
+6:55-7:25pm - Reproducibility in an Office World: A Brief History of Failures and the Odd Success by Noam Ross</description>
+    </item>
+    
+    <item>
+      <title>Parallel Computing in R</title>
+      <link>/post/parallel-computing-in-r/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/parallel-computing-in-r/</guid>
+      <description>We’re excited to host Jared Lander, Chief Data Scientist of Lander Analytics, the organizer of the New York Open Statistical Programming Meetup and the New York R Conference, and author of R for Everyone, to talk about parallel computing in R.
+Visit our Meetup page for more details and to RSVP.
+Date: Tuesday, November 6, 2018
+Time: 6:30pm
+Speaker: Jared Lander
+Host: OppenheimerFunds
+Agenda: 6:30-7: Food &amp;amp; networking
+7-7:10: Kick-off and announcements</description>
+    </item>
+    
+    <item>
+      <title>Learn OOP and discover cool finance packages in R</title>
+      <link>/post/learn-oop-and-discover-cool-finance-packages-in-r/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/learn-oop-and-discover-cool-finance-packages-in-r/</guid>
+      <description>Two of our very own R-Ladies NYC board members will be speaking at our September Meetup!
+Visit our Meetup page for more details and to RSVP.
+Date: Tuesday, September 18, 2018
+Time: 6:30pm
+Speakers: Soumya Kalra and Gabriela Hempfling
+Host: AT&amp;amp;T NYC Data Science Research Center
+Details: For this event we will explore how to do OOP in R and learn the various use cases of the Performance Analytics Package in R</description>
+    </item>
+    
+    <item>
+      <title>Building Infrastructure with R</title>
+      <link>/post/building-infrastructure-with-r/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/building-infrastructure-with-r/</guid>
+      <description>Visit our Meetup page for more details and to RSVP.
+Date: Thursday, August 9, 2018
+Time: 6:30pm
+Speakers: Soumya Kalra and Emily Dodwell
+Host: The New York Times
+For this event we will explore how to build tools and infrastructure with R.
+Agenda: 6:15-6:30pm Introductions and Social
+6:30- 6:45 pm NYT announcements (Data, Tech, HR)
+6:45-6:55pm R-Ladies New York Announcements
+6:55-7:25pm Object Oriented Programming in R
+7:25-7:55pm Big Data in R with Small Prototypes: Scaling</description>
+    </item>
+    
+    <item>
+      <title>Lightning Talks!</title>
+      <link>/post/lightning-talks/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lightning-talks/</guid>
+      <description>We have an awesome lineup of speakers giving lightning talks! These talks are 5 minutes in length on a wide variety of R and data science topics. Come learn from your peers!
+Agenda:
+6:30-6:55: Food &amp;amp; Networking
+6:55-7:00: Introduction by our host
+7:00-8:30: Lightning talks
+8:30-9:00: Networking
+Talks and speakers:
+ Using R to Analyze Recruiting Pipelines: Maryam Jahanshahi Freak Your Factors: Luda Janda Cooking Up Statistics: The Science &amp;amp; The Art: Letisha Smith Digital data extraction using R and other tools: Jaya Satagopan Reticulate: An R Interface to Python: Elizabeth Sweeney Who Reads Whom: Text Mining Literary Interviews: Sarah Rankin Teaching the Tidyverse to Coworkers: Erin Grand InteRactive: how to make your reports more engaging with R &amp;amp; Plotly: Gulya Radjapova Debugging Data in R: Hannah Flaherty Sum of Nothing: R, Python pandas, and the different ways to do math with missing data: Christine Zhang Non-Representative Polls: Jennifer Kanjana Breathing New Life into Old PowerPoint Templates: Kelly Dietz The Stories behind Missing Data: Policy and Practice in Social Services: Rika Gorn Cracking the Data Science Interview: Learning from Both Sides of the Interview Table: Catherine Zhou  Visit our Meetup page to RSVP.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Shiny Apps using NBA data</title>
+      <link>/post/introduction-to-shiny-apps-using-nba-data/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/introduction-to-shiny-apps-using-nba-data/</guid>
+      <description>Come out for our May event for a tutorial on Shiny! Julia Wrobel, a PhD candidate in biostatistics at Columbia University, will be teaching us to make and deploy Shiny apps using NBA data.
+The materials for this talk can be found on Julia&amp;rsquo;s website.
+Bring your laptops so that you can code as you go!
+Visit our Meetup page for more details and to RSVP.
+Date: Tuesday, May 8, 2018</description>
+    </item>
+    
+    <item>
+      <title>Tidy evaluation: Programming with ggplot2 and dplyr</title>
+      <link>/post/tidy-evaluation-programming-with-ggplot2-and-dplyr/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tidy-evaluation-programming-with-ggplot2-and-dplyr/</guid>
+      <description>For this month&amp;rsquo;s meetup we have a very special guest : Hadley Wickham!
+Visit our Meetup page for more details and to RSVP.
+Date: Thursday, April 19, 2018
+Time: 6:30pm
+Speaker: Hadley Wickham
+Host: Two Sigma</description>
+    </item>
+    
+    <item>
+      <title>Parallelization of Simulations with the foreach Package and Missing Data in R</title>
+      <link>/post/parallelization-foreach-and-missing-data/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/parallelization-foreach-and-missing-data/</guid>
+      <description>Come out to our March event to hear talks from two great R Ladies!
+First we&amp;rsquo;ll learn about parallelization of simulations with the foreach R package, with applications to progression free survival assessed using electronic health records. Then we&amp;rsquo;ll get an introduction to methods for handling missing data in R.
+Visit our Meetup page for more details and to RSVP.
+Date: Tuesday, March 20, 2018
+Time: 6:30pm
+Speakers: Elizabeth Sweeney and Mine Dogucu</description>
+    </item>
+    
+    <item>
+      <title>Creating websites in R</title>
+      <link>/post/creating-websites-in-r/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/creating-websites-in-r/</guid>
+      <description>Ever wanted to create a blog or website to share your work or ideas? Join us for a tutorial on creating websites in R! Emily Zabor will cover the basics of creating a website or blog in R. After the tutorial, Daniela Vazquez of R Ladies Buenos Aires and Montevideo, will give us a one-year update on her transition to a data science career. Visit our Meetup page for more details and to RSVP.</description>
+    </item>
+    
+    <item>
+      <title>R in the World of Education</title>
+      <link>/post/r-in-the-world-of-education/</link>
+      <pubDate>Mon, 04 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-in-the-world-of-education/</guid>
+      <description>Join us for our last event of 2017!
+Erin Grand will speak about how she uses R in the World of Eduction. Visit our Meetup for more details and to RSVP.
+Erin&amp;rsquo;s GitHub repo for this event can be found here.
+Date: Tuesday, December 12, 2017
+Time: 6:30pm
+Speaker: Erin Grand
+Host: AT&amp;amp;T NYC Data Science Research Center</description>
+    </item>
+    
+    <item>
+      <title>Tour of R in Peer to Peer Lending</title>
+      <link>/post/tour-of-r-in-peer-to-peer-lending/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tour-of-r-in-peer-to-peer-lending/</guid>
+      <description>Catherine Pargeter speaks about how Orchard Platform, a fintech company, uses R. Visit our Meetup for more details and to RSVP.
+Date: Tuesday, April 18, 2017
+Time: 6:30pm
+Speaker: Catherine Pargeter
+Host: Orchard Platform</description>
+    </item>
+    
+    <item>
+      <title>A Focus on Health</title>
+      <link>/post/a-focus-on-health/</link>
+      <pubDate>Tue, 21 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/a-focus-on-health/</guid>
+      <description>Elena Colicino and Daniela Vazquez speak about how they use R. Vist our Meetup page for more details and to RSVP.
+Date: Tuesday, February 21, 2017
+Time: 6:30pm
+Speakers: Elena Colicino and Daniela Vazquez
+Host: Flatiron Health</description>
+    </item>
+    
+    <item>
+      <title>Launching R-Ladies NYC!</title>
+      <link>/post/launching-r-ladies-nyc/</link>
+      <pubDate>Mon, 21 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/post/launching-r-ladies-nyc/</guid>
+      <description>Come meet other local R-Ladies and hear Carissa Shafto speak about her use of R for data science at the Galen College of Nursing. Vist our Meetup page for more details and to RSVP.
+Date: Monday, November 21, 2016
+Time: 6:15pm
+Speaker: Carissa Shafto
+Host: RGGI Inc.</description>
+    </item>
+    
+  </channel>
+</rss>
