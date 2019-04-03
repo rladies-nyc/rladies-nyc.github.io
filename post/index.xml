@@ -161,6 +161,224 @@ Agenda: 6:15-6:30pm Introductions and Social
     </item>
     
     <item>
+      <title>Reproducibility and Communication in R</title>
+      <link>/post/reproducibility-and-communication-in-r/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/reproducibility-and-communication-in-r/</guid>
+      <description>
+
+&lt;p&gt;This month it is our pleasure to have Noam Ross and our very own Ludmila Janda present on Reproducibility and Communication in R!&lt;/p&gt;
+
+&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/255925263/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Tuesday, November 6, 2018&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: The New York Times&lt;/p&gt;
+
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
+
+&lt;p&gt;6:30-6:45pm - General networking&lt;/p&gt;
+
+&lt;p&gt;6:45-6:55pm - R-Ladies New York Announcements&lt;/p&gt;
+
+&lt;p&gt;6:55-7:25pm - Reproducibility in an Office World: A Brief History of Failures and the Odd Success by Noam Ross&lt;/p&gt;
+
+&lt;p&gt;7:25-7:55pm A Data Odyssey: Communicating Results With Coworkers
+by Ludamila Janda&lt;/p&gt;
+
+&lt;p&gt;7:55-8:00pm R-Ladies Community announcement&lt;/p&gt;
+
+&lt;p&gt;8:00-8:30pm Networking&lt;/p&gt;
+
+&lt;h2 id=&#34;reproducibility-in-an-office-world-a-brief-history-of-failures-and-the-odd-success&#34;&gt;Reproducibility in an Office World: A Brief History of Failures and the Odd Success&lt;/h2&gt;
+
+&lt;p&gt;Many data scientists operate at the interface of two cultures with different tools and workflows - programmatic workflows (e.g., R Markdown) and WYSIWYG documents (e.g., Microsoft Word). The noisy interface between these can be an impediment to reproducibility, as well as a royal pain. I will discuss approaches I and others have tried in dealing with these issues, and why and how some have failed and succeeded. I&amp;rsquo;ll also demonstrate some tools, including packages officer and rvg and some rarely used feaures of rmarkdown that ease the flow when collaborating across the divide.&lt;/p&gt;
+
+&lt;p&gt;Noam Ross is a Senior Research Scientist at EcoHealth Alliance, a non-profit in NYC that researches the connections between human and wildlife health. Noam builds models to understand and predict disease circulation in wildlife and spillover into people. Noam is also editor for software peer review at rOpenSci, a developer collective that builds R packages and catalyzes communities to enable open research and data. He has a Ph.D. in ecology from the University of California-Davis. Follow him on twitter at @noamross.&lt;/p&gt;
+
+&lt;p&gt;Slides from Noam&amp;rsquo;s talk can be found on &lt;a href=&#34;https://github.com/noamross/2018-11-06-rladies-talk&#34; target=&#34;_blank&#34;&gt;Noam&amp;rsquo;s GitHub account&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-data-odyssey-communicating-results-with-coworkers&#34;&gt;A Data Odyssey: Communicating Results With Coworkers&lt;/h2&gt;
+
+&lt;p&gt;Often, data scientists are tasked with communicating their results with people in the workplace who do not share the same technical background. Bridging the gaps between parties can be a perilous journey. In this talk, I will discuss how I have attempted to navigate this tricky terrain and provide some pointers for clear language use and data visualization choices. I’ll demonstrate how I pass on insights through visualizations using packages such as ggridges and ggalluvial and how I use rmarkdown to craft reports and take my coworkers on data adventures.&lt;/p&gt;
+
+&lt;p&gt;Ludmila Janda is a Data Scientist at Amplify, a pioneer in K–12 education since 2000, leading the way in next-generation curriculum and assessment. Today, Amplify serves four million students in all 50 states. Luda’s work provides insights on student and teacher usage, student success, and Amplify’s broader impact. She is a proud RLady and has a Master’s in Public Policy from the University of North Carolina-Chapel Hill. Follow her on twitter at @ludmila_janda.&lt;/p&gt;
+
+&lt;p&gt;Slides from Ludmila&amp;rsquo;s talk can be found on &lt;a href=&#34;https://github.com/ljanda/rladiesnyc_talk_11_06_2018&#34; target=&#34;_blank&#34;&gt;Ludmila&amp;rsquo;s GitHub account&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parallel Computing in R</title>
+      <link>/post/parallel-computing-in-r/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/parallel-computing-in-r/</guid>
+      <description>
+
+&lt;p&gt;We’re excited to host Jared Lander, Chief Data Scientist of Lander Analytics, the organizer of the New York Open Statistical Programming Meetup and the New York R Conference, and author of R for Everyone, to talk about parallel computing in R.&lt;/p&gt;
+
+&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/254762100/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Tuesday, November 6, 2018&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Jared Lander&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: OppenheimerFunds&lt;/p&gt;
+
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
+
+&lt;p&gt;6:30-7: Food &amp;amp; networking&lt;/p&gt;
+
+&lt;p&gt;7-7:10: Kick-off and announcements&lt;/p&gt;
+
+&lt;p&gt;7:10-7:45: Talk&lt;/p&gt;
+
+&lt;p&gt;7:45-8:30: Networking&lt;/p&gt;
+
+&lt;h2 id=&#34;talk&#34;&gt;Talk:&lt;/h2&gt;
+
+&lt;p&gt;Everyone wants their code to run faster and there are numerous ways to achieve this goal. We start by looking at popular packages &lt;code&gt;dplyr&lt;/code&gt;, &lt;code&gt;data.table&lt;/code&gt; and &lt;code&gt;purrr&lt;/code&gt; and the corresponding parallel implementations. We then turn our attention to writing simple C++ functions integrated into R, both sequentially and in parallel. We also build a &lt;code&gt;data.frame&lt;/code&gt; aggregation function, starting sequentially, ending in parallel. Throughout this talk we see how to speed up code by running in parallel, locally and across nodes, in R and C++, all within the friendly confines of RStudio.&lt;/p&gt;
+
+&lt;h2 id=&#34;about-jared&#34;&gt;About Jared:&lt;/h2&gt;
+
+&lt;p&gt;Jared Lander is the Chief Data Scientist of Lander Analytics a data science consultancy based in New York City, the Organizer of the New York Open Statistical Programming Meetup and the New York R Conference and an Adjunct Professor of Statistics at Columbia University. With a masters from Columbia University in statistics and a bachelors from Muhlenberg College in mathematics, he has experience in both academic research and industry. His work for both large and small organizations ranges from music and fund raising to finance and humanitarian relief efforts.&lt;/p&gt;
+
+&lt;p&gt;He specializes in data management, multilevel models, machine learning, generalized linear models, data management and statistical computing. He is the author of R for Everyone: Advanced Analytics and Graphics, a book about R Programming geared toward Data Scientists and Non-Statisticians alike.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Book club: R Packages by Hadley Wickham</title>
+      <link>/post/book-club-r-packages-by-hadley-wickham/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/book-club-r-packages-by-hadley-wickham/</guid>
+      <description>&lt;p&gt;Please join us for our next book club discussion! Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/254457098/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP. Bonus points if you try writing an R package and come to share your experience!&lt;/p&gt;
+
+&lt;p&gt;Date: Saturday, October 20, 2018&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 2pm&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Book&lt;/strong&gt;: &lt;a href=&#34;http://r-pkgs.had.co.nz/&#34; target=&#34;_blank&#34;&gt;R Packages&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Author&lt;/strong&gt;: Hadley Wickham&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: &lt;a href=&#34;https://www.rizzolibookstore.com/&#34; target=&#34;_blank&#34;&gt;Rizzoli Bookstore&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learn OOP and discover cool finance packages in R</title>
+      <link>/post/learn-oop-and-discover-cool-finance-packages-in-r/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/learn-oop-and-discover-cool-finance-packages-in-r/</guid>
+      <description>
+
+&lt;p&gt;Two of our very own R-Ladies NYC board members will be speaking at our September Meetup!&lt;/p&gt;
+
+&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/254263203/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Tuesday, September 18, 2018&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: Soumya Kalra and Gabriela Hempfling&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: AT&amp;amp;T NYC Data Science Research Center&lt;/p&gt;
+
+&lt;h2 id=&#34;details&#34;&gt;Details:&lt;/h2&gt;
+
+&lt;p&gt;For this event we will explore how to do OOP in R and learn the various use cases of the Performance Analytics Package in R&lt;/p&gt;
+
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
+
+&lt;p&gt;6:30-6:45pm Introductions and Social&lt;/p&gt;
+
+&lt;p&gt;6:45-6:55pm R-Ladies New York Announcements&lt;/p&gt;
+
+&lt;p&gt;6:55-7:25pm Object Oriented Programming in R&lt;/p&gt;
+
+&lt;p&gt;7:25-7:55pm Performance Analytics with R&lt;/p&gt;
+
+&lt;p&gt;7:55-8:00pm Community Announcements&lt;/p&gt;
+
+&lt;p&gt;8:00-8:30pm Networking&lt;/p&gt;
+
+&lt;h3 id=&#34;object-oriented-programming-in-r-moved-due-to-technical-difficulties-in-august&#34;&gt;Object Oriented Programming in R (Moved due to technical difficulties in August)&lt;/h3&gt;
+
+&lt;p&gt;In this talk, Soumya will provide an introduction to using these programming techniques in workflows and project development. She will primarily focus on building functions, S3 classes, as well as the most recent R6 classes. She will also provide the resources she used in her learning journey.&lt;/p&gt;
+
+&lt;p&gt;Soumya is a quantitative analyst at the New York Federal Reserve where she focusing on developing models and tools as related to stress testing work. She is an organizer on the R-Ladies New York Board and on the committee for the R in Finance.&lt;/p&gt;
+
+&lt;h3 id=&#34;performance-analytics-in-r&#34;&gt;Performance Analytics in R&lt;/h3&gt;
+
+&lt;p&gt;Gabby will introduce the PerformanceAnalytics package: a tool for performance and risk analysis on financial data. She will cover how to work with financial time series data in R, and useful metrics such as annualized return, standard deviation, sharpe ratios etc.
+Link: &lt;a href=&#34;https://cran.r-project.org/web/packages/PerformanceAnalytics/vignettes/PA-charts.pdf&#34; target=&#34;_blank&#34;&gt;https://cran.r-project.org/web/packages/PerformanceAnalytics/vignettes/PA-charts.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Gabby is a Financial Planning &amp;amp; Analysis associate at Two Sigma Investments. She learned R at Columbia in a datamining course and first employed it as an economic consultant analyzing the performance of loans underlying residential mortgage backed securities at NERA economic consulting. She is an organizer on the R-Ladies New York Board.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Building Infrastructure with R</title>
+      <link>/post/building-infrastructure-with-r/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/building-infrastructure-with-r/</guid>
+      <description>
+
+&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/253219009/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Thursday, August 9, 2018&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: Soumya Kalra and Emily Dodwell&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: The New York Times&lt;/p&gt;
+
+&lt;p&gt;For this event we will explore how to build tools and infrastructure with R.&lt;/p&gt;
+
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
+
+&lt;p&gt;6:15-6:30pm Introductions and Social&lt;/p&gt;
+
+&lt;p&gt;6:30- 6:45 pm NYT announcements (Data, Tech, HR)&lt;/p&gt;
+
+&lt;p&gt;6:45-6:55pm R-Ladies New York Announcements&lt;/p&gt;
+
+&lt;p&gt;6:55-7:25pm Object Oriented Programming in R&lt;/p&gt;
+
+&lt;p&gt;7:25-7:55pm Big Data in R with Small Prototypes: Scaling&lt;/p&gt;
+
+&lt;p&gt;Research Workflows from [/Local] to [Cloud/Cluster]&lt;/p&gt;
+
+&lt;p&gt;7:55-8:00pm Community Announcements and News/Move to the 5th Floor for food/refreshments&lt;/p&gt;
+
+&lt;p&gt;8:00-8:15pm Networking.&lt;/p&gt;
+
+&lt;h3 id=&#34;object-oriented-programming-in-r&#34;&gt;Object Oriented Programming in R&lt;/h3&gt;
+
+&lt;p&gt;In this talk, Soumya will provide an introduction to using these programming techniques in workflows and project development. She will primarily focus on building functions, S3 classes, as well as the most recent R6 classes. She will also provide the resources she used in her learning journey.&lt;/p&gt;
+
+&lt;p&gt;Soumya is a quantitative analyst at the New York Federal Reserve where she focusing on developing models and tools as related to stress testing work. She is an organizer on the R-Ladies New York Board and on the committee for the R in Finance.&lt;/p&gt;
+
+&lt;h3 id=&#34;big-data-in-r-with-small-prototypes-scaling-research-workflows-from-local-to-cloud-cluster&#34;&gt;Big Data in R with Small Prototypes: Scaling Research Workflows from [/Local] to [Cloud/Cluster]&lt;/h3&gt;
+
+&lt;p&gt;In this talk motivated by a recent project, Emily will discuss the tools her team at AT&amp;amp;T Labs explored when their typical workflow to process a data set and build a machine learning model in R would not scale due to the size of the data. She will provide some considerations for the data scientist faced with such a challenge, as well as a brief introduction to sparklyr. Created by the RStudio team, this package provides a dplyr interface to Spark from R, and thereby enables straightforward access to Spark’s distributed machine learning algorithms in MLlib.&lt;/p&gt;
+
+&lt;p&gt;Emily is a Senior Inventive Scientist in the Statistics Research Department at AT&amp;amp;T Labs, where she currently focuses on predictive modeling for advertising applications and the creation of interactive tools for data analysis and visualization. She is a member of R Forwards &lt;a href=&#34;https://forwards.github.io/&#34; target=&#34;_blank&#34;&gt;https://forwards.github.io/&lt;/a&gt;, the R Foundation taskforce on women and other under-represented groups. Prior to joining AT&amp;amp;T Labs in 2015, Emily taught high school math for three years at Choate Rosemary Hall. She received her M.A. in statistics from Yale University and B.A. in mathematics from Smith College.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lightning talks roundup</title>
       <link>/post/lightning-talks-roundup/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
@@ -284,6 +502,7 @@ Speakers: Elizabeth Sweeney and Mine Dogucu</description>
       <description>Ever wanted to create a blog or website to share your work or ideas? Join us for a tutorial on creating websites in R! Emily Zabor will cover the basics of creating a website or blog in R. After the tutorial, Daniela Vazquez of R Ladies Buenos Aires and Montevideo, will give us a one-year update on her transition to a data science career. Visit our Meetup page for more details and to RSVP.</description>
     </item>
     
+<<<<<<< HEAD
     <item>
       <title>Workshop: Functional Programming with Purrr</title>
       <link>/post/workshop-functional-programming-with-purrr/</link>
@@ -492,5 +711,7 @@ Host: RGGI Inc.</description>
       <description>Lightning talks roundupcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
     </item>
     
+=======
+>>>>>>> 4d91b6c6b9c85f60ae16a837e358362efa612b50
   </channel>
 </rss>
