@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Getting into Data Science</title>
+      <link>/post/launching-r-ladies-nyc/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/launching-r-ladies-nyc/</guid>
+      <description>&lt;p&gt;Come listen to two women who have come into Data Science.&lt;/p&gt;
+
+&lt;p&gt;Date: Thursday, May 23rd, 2019&lt;/p&gt;
+
+&lt;p&gt;Time: 6:15pm&lt;/p&gt;
+
+&lt;p&gt;Speaker: Angeline and Kaelen&lt;/p&gt;
+
+&lt;p&gt;Host: JP Morgan&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R Package Workshop</title>
       <link>/post/r-package-workshop/</link>
       <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
@@ -581,30 +599,6 @@ NYR is a two-day conference that was held at &lt;a href=&#34;https://www.work-be
 &lt;p&gt;Time: 6:30pm&lt;/p&gt;
 
 &lt;p&gt;Host: &lt;a href=&#34;https://www.oppenheimerfunds.com/&#34; target=&#34;_blank&#34;&gt;OppenheimerFunds&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Shiny Apps using NBA data</title>
-      <link>/post/introduction-to-shiny-apps-using-nba-data/</link>
-      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/introduction-to-shiny-apps-using-nba-data/</guid>
-      <description>&lt;p&gt;Come out for our May event for a tutorial on Shiny! Julia Wrobel, a PhD candidate in biostatistics at Columbia University, will be teaching us to make and deploy Shiny apps using NBA data.&lt;/p&gt;
-
-&lt;p&gt;The materials for this talk can be found on &lt;a href=&#34;http://juliawrobel.com/tutorials/shiny_tutorial_nba.html&#34; target=&#34;_blank&#34;&gt;Julia&amp;rsquo;s website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Bring your laptops so that you can code as you go!&lt;/p&gt;
-
-&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/249873160/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;Date: Tuesday, May 8, 2018&lt;/p&gt;
-
-&lt;p&gt;Time: 6:30pm&lt;/p&gt;
-
-&lt;p&gt;Speaker: Julia Wrobel&lt;/p&gt;
-
-&lt;p&gt;Host: NBA NYC Office&lt;/p&gt;
 </description>
     </item>
     

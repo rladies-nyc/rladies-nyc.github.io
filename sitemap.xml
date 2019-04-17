@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/launching-r-ladies-nyc/</loc>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/r-package-workshop/</loc>
       <lastmod>2019-04-03T00:00:00+00:00</lastmod>
     </url>
@@ -367,16 +376,6 @@
     
     <url>
     
-      <loc>/tags/blog/</loc>
-      <lastmod>2018-06-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/categories/blog/</loc>
       <lastmod>2018-06-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -387,8 +386,8 @@
     
     <url>
     
-      <loc>/tags/bookclub/</loc>
-      <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+      <loc>/tags/blog/</loc>
+      <lastmod>2018-06-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -407,8 +406,8 @@
     
     <url>
     
-      <loc>/tags/datadive/</loc>
-      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+      <loc>/tags/bookclub/</loc>
+      <lastmod>2019-01-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -427,8 +426,8 @@
     
     <url>
     
-      <loc>/tags/event/</loc>
-      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+      <loc>/tags/datadive/</loc>
+      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -438,7 +437,7 @@
     <url>
     
       <loc>/categories/event/</loc>
-      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -447,8 +446,8 @@
     
     <url>
     
-      <loc>/tags/social/</loc>
-      <lastmod>2018-12-10T00:00:00+00:00</lastmod>
+      <loc>/tags/event/</loc>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -467,8 +466,8 @@
     
     <url>
     
-      <loc>/tags/talk/</loc>
-      <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+      <loc>/tags/social/</loc>
+      <lastmod>2018-12-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -478,7 +477,7 @@
     <url>
     
       <loc>/categories/talk/</loc>
-      <lastmod>2019-02-12T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -487,8 +486,8 @@
     
     <url>
     
-      <loc>/tags/workshop/</loc>
-      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+      <loc>/tags/talk/</loc>
+      <lastmod>2019-04-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -498,6 +497,16 @@
     <url>
     
       <loc>/categories/workshop/</loc>
+      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/workshop/</loc>
       <lastmod>2019-04-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

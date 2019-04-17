@@ -13,6 +13,19 @@
     
     
     <item>
+      <title>Getting into Data Science</title>
+      <link>/post/launching-r-ladies-nyc/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/launching-r-ladies-nyc/</guid>
+      <description>Come listen to two women who have come into Data Science.
+Date: Thursday, May 23rd, 2019
+Time: 6:15pm
+Speaker: Angeline and Kaelen
+Host: JP Morgan</description>
+    </item>
+    
+    <item>
       <title>R Package Workshop</title>
       <link>/post/r-package-workshop/</link>
       <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
@@ -258,7 +271,7 @@ Host: Two Sigma</description>
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/scraping-javascript-websites-in-r/</guid>
-      <description>Background: remixing packages in RJavascript webscraping in RDownload PhantomJS using homebrewWriting scrape.jsScraping TheRapBoard.comExtracting audio filesDownloading mp3sOrganizing an R packageConverting mp3s to wavsCleaning up and filtering .wav file namesTidying file namesRenaming file paths from within RRemixing the beep() functionWrapping it all into a packageMaintaining an open source package in RBackground: remixing packages in ROpen source software is made for remixing.</description>
+      <description>Background: remixing packages in R Javascript webscraping in R Download PhantomJS using homebrew Writing scrape.js Scraping TheRapBoard.com Extracting audio files Downloading mp3s  Organizing an R package Converting mp3s to wavs Cleaning up and filtering .wav file names Tidying file names Renaming file paths from within R  Remixing the beep() function Wrapping it all into a package Maintaining an open source package in R   Background: remixing packages in R Open source software is made for remixing.</description>
     </item>
     
     <item>
