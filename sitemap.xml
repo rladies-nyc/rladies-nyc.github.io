@@ -42,9 +42,8 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>/post/request-for-r-ladies-logo-submissions/</loc>
       <lastmod>2019-05-09T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -52,7 +51,7 @@
     
     <url>
     
-      <loc>/categories/bookclub/</loc>
+      <loc>/tags/</loc>
       <lastmod>2019-05-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -72,7 +71,7 @@
     
     <url>
     
-      <loc>/categories/event/</loc>
+      <loc>/categories/bookclub/</loc>
       <lastmod>2019-05-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -92,7 +91,7 @@
     
     <url>
     
-      <loc>/categories/talk/</loc>
+      <loc>/categories/event/</loc>
       <lastmod>2019-05-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -103,6 +102,16 @@
     <url>
     
       <loc>/tags/talk/</loc>
+      <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/talk/</loc>
       <lastmod>2019-05-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -130,7 +139,7 @@
     
     <url>
     
-      <loc>/categories/workshop/</loc>
+      <loc>/tags/workshop/</loc>
       <lastmod>2019-04-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -140,7 +149,7 @@
     
     <url>
     
-      <loc>/tags/workshop/</loc>
+      <loc>/categories/workshop/</loc>
       <lastmod>2019-04-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -186,7 +195,7 @@
     
     <url>
     
-      <loc>/categories/social/</loc>
+      <loc>/tags/social/</loc>
       <lastmod>2018-12-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -196,7 +205,7 @@
     
     <url>
     
-      <loc>/tags/social/</loc>
+      <loc>/categories/social/</loc>
       <lastmod>2018-12-10T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -278,7 +287,7 @@
     
     <url>
     
-      <loc>/categories/blog/</loc>
+      <loc>/tags/blog/</loc>
       <lastmod>2018-06-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -288,7 +297,7 @@
     
     <url>
     
-      <loc>/tags/blog/</loc>
+      <loc>/categories/blog/</loc>
       <lastmod>2018-06-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -415,7 +424,7 @@
     
     <url>
     
-      <loc>/categories/datadive/</loc>
+      <loc>/tags/datadive/</loc>
       <lastmod>2017-10-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -425,7 +434,7 @@
     
     <url>
     
-      <loc>/tags/datadive/</loc>
+      <loc>/categories/datadive/</loc>
       <lastmod>2017-10-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

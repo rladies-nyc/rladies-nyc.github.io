@@ -35,6 +35,16 @@ Lighting talks are five minute talks. You can talk about anything R, Tech, and/o
     </item>
     
     <item>
+      <title>Request for R-Ladies Logo Submissions</title>
+      <link>/post/request-for-r-ladies-logo-submissions/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/request-for-r-ladies-logo-submissions/</guid>
+      <description>We are excited to announce that we are holding open submissions for an R-Ladies NYC logo for hex stickers!
+Design notes: the R-Ladies font is Open Sans and the colors are #88398a (Purple) &amp;amp; #a7a9ac (Gray), though the logo can use variants of these colors and other colors. Here is the repo for the R-Ladies logo as a reference. Also, the hexSticker package is useful, but you are welcome to use any tool you desire!</description>
+    </item>
+    
+    <item>
       <title>Getting into Data Science</title>
       <link>/post/launching-r-ladies-nyc/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
