@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R-Ladies NYC on R-Ladies NYC</title>
@@ -7,8 +6,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Book Club Meeting</title>
+      <link>/post/book-club-how-not-to-be-wrong/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/book-club-how-not-to-be-wrong/</guid>
+      <description>&lt;p&gt;Join us to discuss &lt;strong&gt;How Not To Be Wrong&lt;/strong&gt; by Jordan Ellenberg&lt;/p&gt;
+
+&lt;p&gt;Date: Saturday, May 25th, 2019&lt;/p&gt;
+
+&lt;p&gt;Time: 2:00pm&lt;/p&gt;
+
+&lt;p&gt;Host: Rizzoli Bookstore, 1133 Broadway (between 25th &amp;amp; 26th)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Getting into Data Science</title>
@@ -554,53 +569,6 @@ NYR is a two-day conference that was held at &lt;a href=&#34;https://www.work-be
 &lt;p&gt;Author: Meredith Broussard&lt;/p&gt;
 
 &lt;p&gt;Host: &lt;a href=&#34;https://www.rizzolibookstore.com/&#34; target=&#34;_blank&#34;&gt;Rizzoli Bookstore&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lightning Talks!</title>
-      <link>/post/lightning-talks/</link>
-      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/lightning-talks/</guid>
-      <description>&lt;p&gt;We have an &lt;em&gt;awesome&lt;/em&gt; lineup of speakers giving lightning talks! These talks are 5 minutes in length on a wide variety of R and data science topics. Come learn from your peers!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agenda:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;6:30-6:55: Food &amp;amp; Networking&lt;/p&gt;
-
-&lt;p&gt;6:55-7:00: Introduction by our host&lt;/p&gt;
-
-&lt;p&gt;7:00-8:30: Lightning talks&lt;/p&gt;
-
-&lt;p&gt;8:30-9:00: Networking&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Talks and speakers:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Using R to Analyze Recruiting Pipelines: Maryam Jahanshahi&lt;/li&gt;
-&lt;li&gt;Freak Your Factors: Luda Janda&lt;/li&gt;
-&lt;li&gt;Cooking Up Statistics: The Science &amp;amp; The Art: Letisha Smith&lt;/li&gt;
-&lt;li&gt;Digital data extraction using R and other tools: Jaya Satagopan&lt;/li&gt;
-&lt;li&gt;Reticulate: An R Interface to Python: Elizabeth Sweeney&lt;/li&gt;
-&lt;li&gt;Who Reads Whom: Text Mining Literary Interviews: Sarah Rankin&lt;/li&gt;
-&lt;li&gt;Teaching the Tidyverse to Coworkers: Erin Grand&lt;/li&gt;
-&lt;li&gt;InteRactive: how to make your reports more engaging with R &amp;amp; Plotly: Gulya Radjapova&lt;/li&gt;
-&lt;li&gt;Debugging Data in R: Hannah Flaherty&lt;/li&gt;
-&lt;li&gt;Sum of Nothing: R, Python pandas, and the different ways to do math with missing data: Christine Zhang&lt;/li&gt;
-&lt;li&gt;Non-Representative Polls: Jennifer Kanjana&lt;/li&gt;
-&lt;li&gt;Breathing New Life into Old PowerPoint Templates: Kelly Dietz&lt;/li&gt;
-&lt;li&gt;The Stories behind Missing Data: Policy and Practice in Social Services: Rika Gorn&lt;/li&gt;
-&lt;li&gt;Cracking the Data Science Interview: Learning from Both Sides of the Interview Table: Catherine Zhou&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/250824638/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page to RSVP.&lt;/p&gt;
-
-&lt;p&gt;Date: Thursday, June 14, 2018&lt;/p&gt;
-
-&lt;p&gt;Time: 6:30pm&lt;/p&gt;
-
-&lt;p&gt;Host: &lt;a href=&#34;https://www.oppenheimerfunds.com/&#34; target=&#34;_blank&#34;&gt;OppenheimerFunds&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
