@@ -4,8 +4,9 @@
     
     <url>
     
-      <loc>/post/book-club-how-not-to-be-wrong/</loc>
-      <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+      <loc>/categories/</loc>
+      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -13,9 +14,8 @@
     
     <url>
     
-      <loc>/categories/</loc>
-      <lastmod>2019-05-09T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>/post/2019-nyr-conference-tips/</loc>
+      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -24,8 +24,47 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/blog/</loc>
+      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/blog/</loc>
+      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/book-club-how-not-to-be-wrong/</loc>
+      <lastmod>2019-05-09T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -44,16 +83,6 @@
     
       <loc>/post/request-for-r-ladies-logo-submissions/</loc>
       <lastmod>2019-05-09T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2019-05-09T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -280,26 +309,6 @@
     
       <loc>/post/book-club-artificial-unintelligence/</loc>
       <lastmod>2018-06-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/blog/</loc>
-      <lastmod>2018-06-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/blog/</loc>
-      <lastmod>2018-06-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

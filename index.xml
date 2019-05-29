@@ -6,8 +6,116 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>NYR 2019 Speaker Experience and Tips</title>
+      <link>/post/2019-nyr-conference-tips/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-nyr-conference-tips/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;/img/2019-05-28-nyr-conference-tips/stickers.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The New York R conference attracts a diverse yet technical audience which means the bar is high for all invited speakers. This year, over half the speakers were women, including several R-Ladies NYC members. It was such a fun and good experience that we decided to collaborate and write a blog post to encourage others to speak at conferences and provide some tips.&lt;/p&gt;
+
+&lt;p&gt;Speakers: Ludmila Janda, Emily Robinson, Emily Dodwell, Gabriela Hempfling, Elizabeth Sweeny, Soumya Kalra, Brooke Watson, Amanda Dobbyn, Letisha Smith&lt;/p&gt;
+
+&lt;h3 id=&#34;tips-on-speaking&#34;&gt;Tips on Speaking&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Summarize your talk to someone you know well but isn’t too familiar with the subject matter&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Practice a couple times. If your team at work is willing, schedule time to give your talk several days or a week before the conference. Ludmila’s team listened to her talk twice!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Take deep breaths before you get on stage&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If anyone raises their hand and then starts talking in the middle of your talk just say “I’m sorry we aren’t taking any questions” and keep it moving! Don’t let them get you out of your flow&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Some people look like they’re frowning when they’re trying to listen. Don’t be distracted by reading too much into their expressions&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Have fun on stage and don’t get embarrassed during your walk out song&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Use the speakers&amp;rsquo; lounge to prepare and decompress&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;R Ladies Lightning talks can be a great way to practice! They are five minute talks for a smaller audience can help you get the format down and trial run a broader idea. &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSeJom9L9SBqYPr0gU_GVwPXPvYqv167tLafrv2SaBJYvXJK7Q/viewform&#34; target=&#34;_blank&#34;&gt;You can submit a talk for this year here!&lt;/a&gt; &lt;a href=&#34;http://www.rladiesnyc.org/post/lightning-talks-roundup/&#34; target=&#34;_blank&#34;&gt;Last year&amp;rsquo;s lightning talks&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://hookedondata.org/giving-your-first-data-science-talk/&#34; target=&#34;_blank&#34;&gt;More tips from Emily Robinson on her blog&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Feel free to reach out to R-ladies for support and feedback before giving a talk&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;slides&#34;&gt;Slides&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2019-05-28-nyr-conference-tips/slides.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Often, one of the hardest things about giving a talk is getting yourself to start preparing your slides. Sometimes, it can feel hard to even choose what to use to make the slides. Therefore, we are including a section on what we used to make our slides.&lt;/p&gt;
+
+&lt;p&gt;Powerpoint:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;As timeless as Michael Scott, there’s no shame in “Powerpoint, Powerpoint, Powerpoint”&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Can be helpful even if you want to just storyboard the idea first&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Used by: Gabriela, Emily R, Elizabeth&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Keynote:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Powerpoint for Millenials™&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rumored to be used by Hadley Wickham&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Used by: Brooke&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Xaringan:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Cool newish package in R!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Benefits: you can easily make your slides in R and immediately see updates to the slides, easily incorporate talk notes, includes a presentation mode with a timer, formats slides very easily and nicely, allows you to experiment with interesting themes&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Drawbacks: Has a bit of learning curve, can be a bit buggy (sometimes having the immediate viewing of changes on can really slow down ability to edit the slides), it was a bit hard to deal with unmirroring the display and dragging one set of slides to the big screen, not as easy as using presenter mode in something like powerpoint, but if you don’t need notes there is no need to worry about this&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Used by: Ludmila, Amanda, and Soumya&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;walk-out-music&#34;&gt;Walk out Music&lt;/h3&gt;
+
+&lt;p&gt;NYR has a fun tradition of letting the speaker pick a song to walk out to, but this can feel like a &lt;strong&gt;big&lt;/strong&gt; decision. It&amp;rsquo;s worth noting that the song only plays for about 10 - 20 seconds and it might not start right where you would want it to, even if you give a specific time to start the song. These were our walk out songs this year:&lt;/p&gt;
+
+&lt;p&gt;Ludmila Janda (Building the Tidyverse From Scratch: Teaching Data Cleaning and Visualization with R-inspired Custom Scratch Blocks): Mi Gente - J Balvin, Willy William, Beyonce&lt;/p&gt;
+
+&lt;p&gt;Emily Dodwell (From Tangled Lassos to Boosted Trees: Iterative Research in Practice): Run the World (Girls) - Beyonce&lt;/p&gt;
+
+&lt;p&gt;Emily Robinson (Everything You Wanted to Know About Making R Packages but Were Afraid to Ask): Mrs. Robinson, Simon &amp;amp; Garfunkel&lt;/p&gt;
+
+&lt;p&gt;Gabriela Hempfling (I’ll Have What She’s Having (and Other Models of Consumer Behavior): Bad Bad News - Leon Bridges&lt;/p&gt;
+
+&lt;p&gt;Elizabeth Sweeny (Neuroimaging Analysis in R): Insane in the Brain - Cypress Hill&lt;/p&gt;
+
+&lt;p&gt;Soumya Kalra (Becoming a better finance practitioner): Forget my name - Danko Jones&lt;/p&gt;
+
+&lt;p&gt;Brooke Watson (Using R to defend immigrant&amp;rsquo;s rights at the ACLU): Freedom - Beyonce&lt;/p&gt;
+
+&lt;p&gt;Amanda Dobbyn (This Talk is on Fire: Using Twitter and Google to Track Fires in NYC): We Didn’t Start the Fire, Billy Joel&lt;/p&gt;
+
+&lt;p&gt;Letisha Smith (Cooking Up Statistics: The Science &amp;amp; The Art): I&amp;rsquo;m Every Woman&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2019-05-28-nyr-conference-tips/rladies2019.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Book Club Meeting</title>
@@ -458,100 +566,6 @@ Link: &lt;a href=&#34;https://cran.r-project.org/web/packages/PerformanceAnalyti
 &lt;p&gt;In this talk motivated by a recent project, Emily will discuss the tools her team at AT&amp;amp;T Labs explored when their typical workflow to process a data set and build a machine learning model in R would not scale due to the size of the data. She will provide some considerations for the data scientist faced with such a challenge, as well as a brief introduction to sparklyr. Created by the RStudio team, this package provides a dplyr interface to Spark from R, and thereby enables straightforward access to Spark’s distributed machine learning algorithms in MLlib.&lt;/p&gt;
 
 &lt;p&gt;Emily is a Senior Inventive Scientist in the Statistics Research Department at AT&amp;amp;T Labs, where she currently focuses on predictive modeling for advertising applications and the creation of interactive tools for data analysis and visualization. She is a member of R Forwards &lt;a href=&#34;https://forwards.github.io/&#34; target=&#34;_blank&#34;&gt;https://forwards.github.io/&lt;/a&gt;, the R Foundation taskforce on women and other under-represented groups. Prior to joining AT&amp;amp;T Labs in 2015, Emily taught high school math for three years at Choate Rosemary Hall. She received her M.A. in statistics from Yale University and B.A. in mathematics from Smith College.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lightning talks roundup</title>
-      <link>/post/lightning-talks-roundup/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/lightning-talks-roundup/</guid>
-      <description>&lt;p&gt;Our first lightning talk event on Thursday June 14, 2018 at &lt;a href=&#34;https://www.oppenheimerfunds.com/&#34; target=&#34;_blank&#34;&gt;OppenheimerFunds&lt;/a&gt; was a huge success! We had a great diversity of speakers from different fields and with different backgrounds who gave talks on a wide variety of R-related topics. Below find a roundup of the lightning talks, including links to slides and videos of each talk. Enjoy!&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1OmmV4DKkgXTL5ljDNlIFDQYwupZBsL1cQH9TPXIZSvA/edit?ts=5b219b84#slide=id.p&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Breathing New Life into Old PowerPoint Templates: Kelly Dietz&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://players.brightcove.net/24488480001/r1QcbJ5Fx_default/index.html?videoId=5798974924001&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1XXkkRRgh7bmLWU8gvnsCETjE4N7IFsj39tE-LT4LcjU/edit#slide=id.p&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Cooking Up Statistics: The Science &amp;amp; The Art: Letisha Smith&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://players.brightcove.net/24488480001/r1QcbJ5Fx_default/index.html?videoId=5798967382001&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1i-hlC07RDPvGm8GgmlwyD45MtUZhR7R32EgekRvlIZ0/edit#slide=id.g29c23c0132_0_21&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Cracking the Data Science Interview: Learning from Both Sides of the Interview Table: Catherine Zhou&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://players.brightcove.net/24488480001/r1QcbJ5Fx_default/index.html?videoId=5798978032001&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/slides/Non-Representative Polls.pdf&#34;&gt;&lt;strong&gt;Non-Representative Polls: Jennifer Kanjana&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://players.brightcove.net/24488480001/r1QcbJ5Fx_default/index.html?videoId=5798970028001&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1cm0AZxuobeR3rhGDkJGk7q0TjaNcTz14IGYUCZd2_ek/edit#slide=id.g35f391192_00&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;InteRactive: how to make your reports more engaging with R &amp;amp; Plotly: Gulya Radjapova&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://players.brightcove.net/24488480001/r1QcbJ5Fx_default/index.html?videoId=5798975622001&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/slides/Debugging Data in R - HF (1).html&#34;&gt;&lt;strong&gt;Debugging Data in R: Hannah Flaherty&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://players.brightcove.net/24488480001/r1QcbJ5Fx_default/index.html?videoId=5798961539001&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/slides/sum_of_nothing.pdf&#34;&gt;&lt;strong&gt;Sum of Nothing: R, Python pandas, and the different ways to do math with missing data: Christine Zhang&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://players.brightcove.net/24488480001/r1QcbJ5Fx_default/index.html?videoId=5798961540001&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/slides/authors_lightning (1).html&#34;&gt;&lt;strong&gt;Who Reads Whom: Text Mining Literary Interviews: Sarah Rankin&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://players.brightcove.net/24488480001/r1QcbJ5Fx_default/index.html?videoId=5798974541001&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/slides/Rika Gorn slides.pdf&#34;&gt;&lt;strong&gt;The Stories behind Missing Data: Policy and Practice in Social Services: Rika Gorn&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://players.brightcove.net/24488480001/r1QcbJ5Fx_default/index.html?videoId=5798975807001&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/slides/r_ladies_five_mins (2).html&#34;&gt;&lt;strong&gt;Freak Your Factors: Luda Janda&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://players.brightcove.net/24488480001/r1QcbJ5Fx_default/index.html?videoId=5798974542001&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/slides/R-Ladies Lightning Talk - Jahanshahi.pdf&#34;&gt;&lt;strong&gt;Using R to Analyze Recruiting Pipelines: Maryam Jahanshahi&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://players.brightcove.net/24488480001/r1QcbJ5Fx_default/index.html?videoId=5798970204001&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1ShQPtCedKtcjvhM7HDXOuGCBD6Rt0skloumKAWaOBOY/edit#slide=id.p&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Reticulate: An R Interface to Python: Elizabeth Sweeney&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://players.brightcove.net/24488480001/r1QcbJ5Fx_default/index.html?videoId=5798967383001&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/slides/satagopan-r-ladies-lightning-talk.pdf&#34;&gt;&lt;strong&gt;Digital data extraction using R and other tools: Jaya Satagopan&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://players.brightcove.net/24488480001/r1QcbJ5Fx_default/index.html?videoId=5798974543001&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;/slides/rladies-lightning.pdf&#34;&gt;&lt;strong&gt;Teaching the Tidyverse to Coworkers: Erin Grand&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://players.brightcove.net/24488480001/r1QcbJ5Fx_default/index.html?videoId=5798975623001&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     

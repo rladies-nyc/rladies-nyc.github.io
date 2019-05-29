@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Wed, 27 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NYR 2019 Speaker Experience and Tips</title>
+      <link>/post/2019-nyr-conference-tips/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-nyr-conference-tips/</guid>
+      <description>The New York R conference attracts a diverse yet technical audience which means the bar is high for all invited speakers. This year, over half the speakers were women, including several R-Ladies NYC members. It was such a fun and good experience that we decided to collaborate and write a blog post to encourage others to speak at conferences and provide some tips.
+Speakers: Ludmila Janda, Emily Robinson, Emily Dodwell, Gabriela Hempfling, Elizabeth Sweeny, Soumya Kalra, Brooke Watson, Amanda Dobbyn, Letisha Smith</description>
+    </item>
     
     <item>
       <title>Benjana Guraziu: An RLady’s First R Conference</title>
