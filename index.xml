@@ -40,7 +40,7 @@
 
 &lt;li&gt;&lt;p&gt;Use the speakers&amp;rsquo; lounge to prepare and decompress&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;R Ladies Lightning talks can be a great way to practice! They are five minute talks for a smaller audience can help you get the format down and trial run a broader idea. &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSeJom9L9SBqYPr0gU_GVwPXPvYqv167tLafrv2SaBJYvXJK7Q/viewform&#34; target=&#34;_blank&#34;&gt;You can submit a talk for this year here!&lt;/a&gt; &lt;a href=&#34;http://www.rladiesnyc.org/post/lightning-talks-roundup/&#34; target=&#34;_blank&#34;&gt;Last year&amp;rsquo;s lightning talks&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Lightning talks can be a great way to practice! They are five minute talks in front of a smaller audience that can help you get the format down and trial run an idea. &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSeJom9L9SBqYPr0gU_GVwPXPvYqv167tLafrv2SaBJYvXJK7Q/viewform&#34; target=&#34;_blank&#34;&gt;You can submit a talk for the upcoming R-Ladies NYC lightning talks event here!&lt;/a&gt; &lt;a href=&#34;http://www.rladiesnyc.org/post/lightning-talks-roundup/&#34; target=&#34;_blank&#34;&gt;Last year&amp;rsquo;s lightning talks&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://hookedondata.org/giving-your-first-data-science-talk/&#34; target=&#34;_blank&#34;&gt;More tips from Emily Robinson on her blog&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 
@@ -51,40 +51,31 @@
 
 &lt;h3 id=&#34;slides&#34;&gt;Slides&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/2019-05-28-nyr-conference-tips/slides.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
 &lt;p&gt;Often, one of the hardest things about giving a talk is getting yourself to start preparing your slides. Sometimes, it can feel hard to even choose what to use to make the slides. Therefore, we are including a section on what we used to make our slides.&lt;/p&gt;
 
 &lt;p&gt;Powerpoint:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;As timeless as Michael Scott, there’s no shame in “Powerpoint, Powerpoint, Powerpoint”&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Can be helpful even if you want to just storyboard the idea first&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Used by: Gabriela, Emily R, Elizabeth&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;As timeless as Michael Scott, there’s no shame in “Powerpoint, Powerpoint, Powerpoint”&lt;/li&gt;
+&lt;li&gt;Can be helpful even if you want to just storyboard the idea first&lt;/li&gt;
+&lt;li&gt;Used by: Gabriela, Emily R, Elizabeth&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Keynote:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Powerpoint for Millenials™&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Rumored to be used by Hadley Wickham&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Used by: Brooke&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Powerpoint for Millenials™&lt;/li&gt;
+&lt;li&gt;Rumored to be used by Hadley Wickham&lt;/li&gt;
+&lt;li&gt;Used by: Brooke&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Xaringan:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Cool newish package in R!&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Benefits: you can easily make your slides in R and immediately see updates to the slides, easily incorporate talk notes, includes a presentation mode with a timer, formats slides very easily and nicely, allows you to experiment with interesting themes&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Drawbacks: Has a bit of learning curve, can be a bit buggy (sometimes having the immediate viewing of changes on can really slow down ability to edit the slides), it was a bit hard to deal with unmirroring the display and dragging one set of slides to the big screen, not as easy as using presenter mode in something like powerpoint, but if you don’t need notes there is no need to worry about this&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Used by: Ludmila, Amanda, and Soumya&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Cool newish package in R!&lt;/li&gt;
+&lt;li&gt;Benefits: you can easily make your slides in R and immediately see updates to the slides, easily incorporate talk notes, includes a presentation mode with a timer, formats slides very easily and nicely, allows you to experiment with interesting themes&lt;/li&gt;
+&lt;li&gt;Drawbacks: Has a bit of learning curve, can be a bit buggy (sometimes having the immediate viewing of changes on can really slow down ability to edit the slides), it was a bit hard to deal with unmirroring the display and dragging one set of slides to the big screen, not as easy as using presenter mode in something like powerpoint, but if you don’t need notes there is no need to worry about this&lt;/li&gt;
+&lt;li&gt;Used by: Ludmila, Amanda, and Soumya&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;/br&gt;&lt;/p&gt;
