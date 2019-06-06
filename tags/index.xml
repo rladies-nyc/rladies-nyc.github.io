@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>event</title>
       <link>/tags/event/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
@@ -27,15 +36,6 @@
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blog</title>
-      <link>/tags/blog/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/blog/</guid>
       <description></description>
     </item>
     

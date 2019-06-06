@@ -14,6 +14,15 @@
     
     <url>
     
+      <loc>/post/data-science-and-fantasy-baseball/</loc>
+      <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/r-ladies-lighting-talks/</loc>
       <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     </url>
@@ -34,6 +43,26 @@
     <url>
     
       <loc>/tags/</loc>
+      <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/blog/</loc>
+      <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/blog/</loc>
       <lastmod>2019-06-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -85,26 +114,6 @@
     
       <loc>/post/2019-nyr-conference-tips/</loc>
       <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/blog/</loc>
-      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/blog/</loc>
-      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

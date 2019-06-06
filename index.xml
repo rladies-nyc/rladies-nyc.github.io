@@ -10,6 +10,52 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Data Science and Fantasy Baseball?</title>
+      <link>/post/data-science-and-fantasy-baseball/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-science-and-fantasy-baseball/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;Thank you so much to Anisha Bharath Singh, who originally wrote this post for her blog, found &lt;a href=&#34;https://journeytodatascientist.blog/2019/05/24/data-science-and-fantasy-baseball/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. We are reposting her post with her consent. If you are an R-Lady interested in writing a blog post or cross-posting a blog post on your own blog, please let us know (via email nyc@rladies.org or via DM on twitter @RLadiesNYC)!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;On Thursday, May 23, I attended my first R-Ladies NYC meetup! R-Ladies NYC is an organization that promotes gender diversity amongst the R community by organizing a series of events (including this meetup) to support women who want to learn R or want to share their experiences as R programmers.&lt;/p&gt;
+
+&lt;h3 id=&#34;drafting-a-fantasy-baseball-team-with-r&#34;&gt;Drafting a Fantasy Baseball Team with R&lt;/h3&gt;
+
+&lt;p&gt;This meetup included an interesting take on data science – using R to draft a fantasy baseball team! This was presented by Angeline Protacio, a self-employed data scientist at Protacio Analytics LLC.&lt;/p&gt;
+
+&lt;p&gt;Outside of work, Angeline spends her time playing fantasy baseball. For those not familiar with fantasy baseball, as Angeline explained, you create your own fantasy baseball team with real players from any existing team. Each day, you decide what your lineup will be, and how well your team does depends on each players actual performance that day.&lt;/p&gt;
+
+&lt;p&gt;Angeline wanted to use her data science skills to draft a competitive fantasy baseball team. To do so, Angeline used a series of &lt;a href=&#34;http://m.mlb.com/glossary/standard-stats&#34; target=&#34;_blank&#34;&gt;player scoring categories&lt;/a&gt; including: R, HR, RBI, SO, SB, OPS, WAR. She first took a look at how a player’s position affected their scoring categories with ggplot visualizations. From this, she found that outfielders had better offensive stats and suggests to draft your outfielders first.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Create a Metric Comparing Overall Performance for Players&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, in order to determine which specific players to draft, Angeline tried looking for a summary statistic of all scoring categories to compare all players to each other, but could not find any. While there is the WAR (Wins Above Replacement) scoring category that summarizes a players contribution to their team, this only does so with respect to being substituted by a replacement player.&lt;/p&gt;
+
+&lt;p&gt;This led her to creating her own metric. With the help of the tidyverse package she: 1) filtered for players who had an average plate appearance above 300; 2) selected player id, position, Name, Team and all scoring categories; and 3) mutated her data frame with the players information to include a z-score for each scoring category.&lt;/p&gt;
+
+&lt;p&gt;This z-score is used to determine how much better a player performed than the mean for that category. Summing these z-scores provided an overall performance metric for each player in comparison to all other players.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Top MLB Players of 2018&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Using her new metric, Angeline arranged her new data frame in a descending order to find the Top 5 MLB players for 2018:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Mike Trout (Angels) – total z-score: 11.889&lt;/li&gt;
+&lt;li&gt;Giancarlo Stanton (Yankees) – total z-score: 11.869&lt;/li&gt;
+&lt;li&gt;Nolan Arenado (Rockies) – total z-score: 8.766&lt;/li&gt;
+&lt;li&gt;Bryce Harper (Phillies) – total z-score: 8.646&lt;/li&gt;
+&lt;li&gt;Anthony Rizzo (Cubs) – total z-score: 8.343&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/angelinepro/rladiesnyc_may2019&#34; target=&#34;_blank&#34;&gt;Click Here&lt;/a&gt; for the repository with all of Angeline’s code.&lt;/p&gt;
+
+&lt;p&gt;While this only accounts for one part of drafting a fantasy baseball team, this just goes to show that you can use data science for pretty much anything!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R-Ladies Lightning Talks</title>
       <link>/post/r-ladies-lighting-talks/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
@@ -474,59 +520,6 @@ by Ludamila Janda&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Author&lt;/strong&gt;: Hadley Wickham&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: &lt;a href=&#34;https://www.rizzolibookstore.com/&#34; target=&#34;_blank&#34;&gt;Rizzoli Bookstore&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learn OOP and discover cool finance packages in R</title>
-      <link>/post/learn-oop-and-discover-cool-finance-packages-in-r/</link>
-      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/learn-oop-and-discover-cool-finance-packages-in-r/</guid>
-      <description>
-
-&lt;p&gt;Two of our very own R-Ladies NYC board members will be speaking at our September Meetup!&lt;/p&gt;
-
-&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/254263203/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Tuesday, September 18, 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: Soumya Kalra and Gabriela Hempfling&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: AT&amp;amp;T NYC Data Science Research Center&lt;/p&gt;
-
-&lt;h2 id=&#34;details&#34;&gt;Details:&lt;/h2&gt;
-
-&lt;p&gt;For this event we will explore how to do OOP in R and learn the various use cases of the Performance Analytics Package in R&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;p&gt;6:30-6:45pm Introductions and Social&lt;/p&gt;
-
-&lt;p&gt;6:45-6:55pm R-Ladies New York Announcements&lt;/p&gt;
-
-&lt;p&gt;6:55-7:25pm Object Oriented Programming in R&lt;/p&gt;
-
-&lt;p&gt;7:25-7:55pm Performance Analytics with R&lt;/p&gt;
-
-&lt;p&gt;7:55-8:00pm Community Announcements&lt;/p&gt;
-
-&lt;p&gt;8:00-8:30pm Networking&lt;/p&gt;
-
-&lt;h3 id=&#34;object-oriented-programming-in-r-moved-due-to-technical-difficulties-in-august&#34;&gt;Object Oriented Programming in R (Moved due to technical difficulties in August)&lt;/h3&gt;
-
-&lt;p&gt;In this talk, Soumya will provide an introduction to using these programming techniques in workflows and project development. She will primarily focus on building functions, S3 classes, as well as the most recent R6 classes. She will also provide the resources she used in her learning journey.&lt;/p&gt;
-
-&lt;p&gt;Soumya is a quantitative analyst at the New York Federal Reserve where she focusing on developing models and tools as related to stress testing work. She is an organizer on the R-Ladies New York Board and on the committee for the R in Finance.&lt;/p&gt;
-
-&lt;h3 id=&#34;performance-analytics-in-r&#34;&gt;Performance Analytics in R&lt;/h3&gt;
-
-&lt;p&gt;Gabby will introduce the PerformanceAnalytics package: a tool for performance and risk analysis on financial data. She will cover how to work with financial time series data in R, and useful metrics such as annualized return, standard deviation, sharpe ratios etc.
-Link: &lt;a href=&#34;https://cran.r-project.org/web/packages/PerformanceAnalytics/vignettes/PA-charts.pdf&#34; target=&#34;_blank&#34;&gt;https://cran.r-project.org/web/packages/PerformanceAnalytics/vignettes/PA-charts.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Gabby is a Financial Planning &amp;amp; Analysis associate at Two Sigma Investments. She learned R at Columbia in a datamining course and first employed it as an economic consultant analyzing the performance of loans underlying residential mortgage backed securities at NERA economic consulting. She is an organizer on the R-Ladies New York Board.&lt;/p&gt;
 </description>
     </item>
     

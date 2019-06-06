@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Science and Fantasy Baseball?</title>
+      <link>/post/data-science-and-fantasy-baseball/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-science-and-fantasy-baseball/</guid>
+      <description>Thank you so much to Anisha Bharath Singh, who originally wrote this post for her blog, found here. We are reposting her post with her consent. If you are an R-Lady interested in writing a blog post or cross-posting a blog post on your own blog, please let us know (via email nyc@rladies.org or via DM on twitter @RLadiesNYC)!
+On Thursday, May 23, I attended my first R-Ladies NYC meetup!</description>
+    </item>
     
     <item>
       <title>NYR 2019 Speaker Experience and Tips</title>
