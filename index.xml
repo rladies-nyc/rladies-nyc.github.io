@@ -6,8 +6,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>R-Ladies Lightning Talks</title>
+      <link>/post/r-ladies-lighting-talks/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-lighting-talks/</guid>
+      <description>&lt;p&gt;We are hosting a very special event - lightning talks from the R-Ladies community! Come out to hear a variety of R &amp;amp; Data Science talks.&lt;/p&gt;
+
+&lt;p&gt;Date: Wednesday, June 19, 2019&lt;/p&gt;
+
+&lt;p&gt;Time: 6:00pm - 9:00pm&lt;/p&gt;
+
+&lt;p&gt;Speakers: A whole lot of R ladies!&lt;/p&gt;
+
+&lt;p&gt;Host: OppenheimerFunds&lt;/p&gt;
+
+&lt;p&gt;Event Organizers: Brooke Watson, Elizbeth Sweeny&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/262079485/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>NYR 2019 Speaker Experience and Tips</title>
@@ -505,58 +527,6 @@ by Ludamila Janda&lt;/p&gt;
 Link: &lt;a href=&#34;https://cran.r-project.org/web/packages/PerformanceAnalytics/vignettes/PA-charts.pdf&#34; target=&#34;_blank&#34;&gt;https://cran.r-project.org/web/packages/PerformanceAnalytics/vignettes/PA-charts.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Gabby is a Financial Planning &amp;amp; Analysis associate at Two Sigma Investments. She learned R at Columbia in a datamining course and first employed it as an economic consultant analyzing the performance of loans underlying residential mortgage backed securities at NERA economic consulting. She is an organizer on the R-Ladies New York Board.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Building Infrastructure with R</title>
-      <link>/post/building-infrastructure-with-r/</link>
-      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/building-infrastructure-with-r/</guid>
-      <description>
-
-&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/253219009/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Thursday, August 9, 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: Soumya Kalra and Emily Dodwell&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: The New York Times&lt;/p&gt;
-
-&lt;p&gt;For this event we will explore how to build tools and infrastructure with R.&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;p&gt;6:15-6:30pm Introductions and Social&lt;/p&gt;
-
-&lt;p&gt;6:30- 6:45 pm NYT announcements (Data, Tech, HR)&lt;/p&gt;
-
-&lt;p&gt;6:45-6:55pm R-Ladies New York Announcements&lt;/p&gt;
-
-&lt;p&gt;6:55-7:25pm Object Oriented Programming in R&lt;/p&gt;
-
-&lt;p&gt;7:25-7:55pm Big Data in R with Small Prototypes: Scaling&lt;/p&gt;
-
-&lt;p&gt;Research Workflows from [/Local] to [Cloud/Cluster]&lt;/p&gt;
-
-&lt;p&gt;7:55-8:00pm Community Announcements and News/Move to the 5th Floor for food/refreshments&lt;/p&gt;
-
-&lt;p&gt;8:00-8:15pm Networking.&lt;/p&gt;
-
-&lt;h3 id=&#34;object-oriented-programming-in-r&#34;&gt;Object Oriented Programming in R&lt;/h3&gt;
-
-&lt;p&gt;In this talk, Soumya will provide an introduction to using these programming techniques in workflows and project development. She will primarily focus on building functions, S3 classes, as well as the most recent R6 classes. She will also provide the resources she used in her learning journey.&lt;/p&gt;
-
-&lt;p&gt;Soumya is a quantitative analyst at the New York Federal Reserve where she focusing on developing models and tools as related to stress testing work. She is an organizer on the R-Ladies New York Board and on the committee for the R in Finance.&lt;/p&gt;
-
-&lt;h3 id=&#34;big-data-in-r-with-small-prototypes-scaling-research-workflows-from-local-to-cloud-cluster&#34;&gt;Big Data in R with Small Prototypes: Scaling Research Workflows from [/Local] to [Cloud/Cluster]&lt;/h3&gt;
-
-&lt;p&gt;In this talk motivated by a recent project, Emily will discuss the tools her team at AT&amp;amp;T Labs explored when their typical workflow to process a data set and build a machine learning model in R would not scale due to the size of the data. She will provide some considerations for the data scientist faced with such a challenge, as well as a brief introduction to sparklyr. Created by the RStudio team, this package provides a dplyr interface to Spark from R, and thereby enables straightforward access to Spark’s distributed machine learning algorithms in MLlib.&lt;/p&gt;
-
-&lt;p&gt;Emily is a Senior Inventive Scientist in the Statistics Research Department at AT&amp;amp;T Labs, where she currently focuses on predictive modeling for advertising applications and the creation of interactive tools for data analysis and visualization. She is a member of R Forwards &lt;a href=&#34;https://forwards.github.io/&#34; target=&#34;_blank&#34;&gt;https://forwards.github.io/&lt;/a&gt;, the R Foundation taskforce on women and other under-represented groups. Prior to joining AT&amp;amp;T Labs in 2015, Emily taught high school math for three years at Choate Rosemary Hall. She received her M.A. in statistics from Yale University and B.A. in mathematics from Smith College.&lt;/p&gt;
 </description>
     </item>
     
