@@ -6,8 +6,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Summer Social</title>
+      <link>/post/summer-social/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/summer-social/</guid>
+      <description>&lt;p&gt;Come hang out with R-Ladies at the Royale Bar outdoor patio for an afternoon social full of fun, board games, and splendid R conversation!&lt;/p&gt;
+
+&lt;p&gt;Drinks and food will be available for purchase. Collaborative, multi-player and two-player table games will be provided, but feel free to bring your own!&lt;/p&gt;
+
+&lt;p&gt;Date: Saturday, July 13, 2019&lt;/p&gt;
+
+&lt;p&gt;Time: 2:00pm - 5:00pm&lt;/p&gt;
+
+&lt;p&gt;Location: Royale, 157 Loisaida Ave, New York, NY, 10009&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/262478374/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Data Science and Fantasy Baseball?</title>
@@ -510,26 +530,6 @@ by Ludamila Janda&lt;/p&gt;
 &lt;p&gt;Jared Lander is the Chief Data Scientist of Lander Analytics a data science consultancy based in New York City, the Organizer of the New York Open Statistical Programming Meetup and the New York R Conference and an Adjunct Professor of Statistics at Columbia University. With a masters from Columbia University in statistics and a bachelors from Muhlenberg College in mathematics, he has experience in both academic research and industry. His work for both large and small organizations ranges from music and fund raising to finance and humanitarian relief efforts.&lt;/p&gt;
 
 &lt;p&gt;He specializes in data management, multilevel models, machine learning, generalized linear models, data management and statistical computing. He is the author of R for Everyone: Advanced Analytics and Graphics, a book about R Programming geared toward Data Scientists and Non-Statisticians alike.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Book club: R Packages by Hadley Wickham</title>
-      <link>/post/book-club-r-packages-by-hadley-wickham/</link>
-      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/book-club-r-packages-by-hadley-wickham/</guid>
-      <description>&lt;p&gt;Please join us for our next book club discussion! Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/254457098/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP. Bonus points if you try writing an R package and come to share your experience!&lt;/p&gt;
-
-&lt;p&gt;Date: Saturday, October 20, 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 2pm&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Book&lt;/strong&gt;: &lt;a href=&#34;http://r-pkgs.had.co.nz/&#34; target=&#34;_blank&#34;&gt;R Packages&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Author&lt;/strong&gt;: Hadley Wickham&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: &lt;a href=&#34;https://www.rizzolibookstore.com/&#34; target=&#34;_blank&#34;&gt;Rizzoli Bookstore&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
