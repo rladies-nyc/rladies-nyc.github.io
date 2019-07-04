@@ -6,8 +6,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hex Sticker Result</title>
+      <link>/post/hex-sticker-result/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hex-sticker-result/</guid>
+      <description>&lt;p&gt;The R-Ladies NYC call for a hex sticker design produced three creative and unique submissions. We would like to thank Ayanthi Gunawardana, Kat Hoffman, and Ludmila Janda for their involvement with the R-Ladies NYC community and time spent crafting their designs! Below, each of these R-Ladies shares her inspiration behind her design:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2019-07-03-hex-sticker-result/ayanthi.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/HoneyBadger88&#34; target=&#34;_blank&#34;&gt;Ayanthi Gunawardana&lt;/a&gt;: My goal was the keep the logo and colors as simple as possible to ensure it could be scaled to any size. I saw the negative space in the bottom of the &amp;ldquo;R&amp;rdquo; and immediately knew I wanted to use it creatively for the logo. I picked NYC landmarks that would fit in that space and ordered them in decreasing height to make sure it still looked like the letter &amp;ldquo;R&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2019-07-03-hex-sticker-result/kat.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/Rkatlady&#34; target=&#34;_blank&#34;&gt;Kat Hoffman&lt;/a&gt;: I moved to New York last August and immediately realized one of my favorite activities—besides attending R-Ladies events, of course!—was walking around the city to look at all the amazing street art. I tried to emulate this urban uniqueness in my design while emphasizing inclusivity (rainbow color scheme) and iconic NYC (Statue of Liberty crown over “Ladies”). I really enjoyed learning Adobe Illustrator to make my submission, and I am looking forward to representing R-Ladies in ggplot form on my laptop soon!&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2019-07-03-hex-sticker-result/luda.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/ludmila_janda&#34; target=&#34;_blank&#34;&gt;Ludmila Janda&lt;/a&gt;: I was inspired by our city and wanted to find a way use data and R for the sticker so I got the heights of several iconic structures and their spires and made a graph with ggplot. Then I used google drawings to make buildings and laid them over the graph to make the final image, which I used with the &lt;a href=&#34;https://github.com/GuangchuangYu/hexSticker&#34; target=&#34;_blank&#34;&gt;hexSticker package&lt;/a&gt; for the final product. Many thanks to Guangchuang Yu for quickly closing my issue (#62) for his package in order to let the URL angle vary as parameter - I used that for the &amp;ldquo;NYC&amp;rdquo; part of the logo.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Ludmila Janda! Her design was chosen as the winner in a tight Twitter poll on June 20th. Please join us at future R-Ladies NYC events for your opportunity to snag a new hex sticker and represent our chapter!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2019-07-03-hex-sticker-result/poll.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Summer Social</title>
@@ -488,48 +520,6 @@ by Ludamila Janda&lt;/p&gt;
 &lt;p&gt;Ludmila Janda is a Data Scientist at Amplify, a pioneer in K–12 education since 2000, leading the way in next-generation curriculum and assessment. Today, Amplify serves four million students in all 50 states. Luda’s work provides insights on student and teacher usage, student success, and Amplify’s broader impact. She is a proud RLady and has a Master’s in Public Policy from the University of North Carolina-Chapel Hill. Follow her on twitter at @ludmila_janda.&lt;/p&gt;
 
 &lt;p&gt;Slides from Ludmila&amp;rsquo;s talk can be found on &lt;a href=&#34;https://github.com/ljanda/rladiesnyc_talk_11_06_2018&#34; target=&#34;_blank&#34;&gt;Ludmila&amp;rsquo;s GitHub account&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Parallel Computing in R</title>
-      <link>/post/parallel-computing-in-r/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/parallel-computing-in-r/</guid>
-      <description>
-
-&lt;p&gt;We’re excited to host Jared Lander, Chief Data Scientist of Lander Analytics, the organizer of the New York Open Statistical Programming Meetup and the New York R Conference, and author of R for Everyone, to talk about parallel computing in R.&lt;/p&gt;
-
-&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/254762100/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Tuesday, November 6, 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Jared Lander&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: OppenheimerFunds&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;p&gt;6:30-7: Food &amp;amp; networking&lt;/p&gt;
-
-&lt;p&gt;7-7:10: Kick-off and announcements&lt;/p&gt;
-
-&lt;p&gt;7:10-7:45: Talk&lt;/p&gt;
-
-&lt;p&gt;7:45-8:30: Networking&lt;/p&gt;
-
-&lt;h2 id=&#34;talk&#34;&gt;Talk:&lt;/h2&gt;
-
-&lt;p&gt;Everyone wants their code to run faster and there are numerous ways to achieve this goal. We start by looking at popular packages &lt;code&gt;dplyr&lt;/code&gt;, &lt;code&gt;data.table&lt;/code&gt; and &lt;code&gt;purrr&lt;/code&gt; and the corresponding parallel implementations. We then turn our attention to writing simple C++ functions integrated into R, both sequentially and in parallel. We also build a &lt;code&gt;data.frame&lt;/code&gt; aggregation function, starting sequentially, ending in parallel. Throughout this talk we see how to speed up code by running in parallel, locally and across nodes, in R and C++, all within the friendly confines of RStudio.&lt;/p&gt;
-
-&lt;h2 id=&#34;about-jared&#34;&gt;About Jared:&lt;/h2&gt;
-
-&lt;p&gt;Jared Lander is the Chief Data Scientist of Lander Analytics a data science consultancy based in New York City, the Organizer of the New York Open Statistical Programming Meetup and the New York R Conference and an Adjunct Professor of Statistics at Columbia University. With a masters from Columbia University in statistics and a bachelors from Muhlenberg College in mathematics, he has experience in both academic research and industry. His work for both large and small organizations ranges from music and fund raising to finance and humanitarian relief efforts.&lt;/p&gt;
-
-&lt;p&gt;He specializes in data management, multilevel models, machine learning, generalized linear models, data management and statistical computing. He is the author of R for Everyone: Advanced Analytics and Graphics, a book about R Programming geared toward Data Scientists and Non-Statisticians alike.&lt;/p&gt;
 </description>
     </item>
     

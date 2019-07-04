@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hex Sticker Result</title>
+      <link>/post/hex-sticker-result/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hex-sticker-result/</guid>
+      <description>The R-Ladies NYC call for a hex sticker design produced three creative and unique submissions. We would like to thank Ayanthi Gunawardana, Kat Hoffman, and Ludmila Janda for their involvement with the R-Ladies NYC community and time spent crafting their designs! Below, each of these R-Ladies shares her inspiration behind her design:
+Ayanthi Gunawardana: My goal was the keep the logo and colors as simple as possible to ensure it could be scaled to any size.</description>
+    </item>
     
     <item>
       <title>Data Science and Fantasy Baseball?</title>
