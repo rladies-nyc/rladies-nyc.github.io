@@ -6,7 +6,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-<<<<<<< HEAD
     <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -29,12 +28,6 @@
     </item>
     
     <item>
-=======
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
->>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
       <title>Hex Sticker Result</title>
       <link>/post/hex-sticker-result/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
@@ -497,59 +490,5 @@
 </description>
     </item>
     
-<<<<<<< HEAD
-=======
-    <item>
-      <title>Reproducibility and Communication in R</title>
-      <link>/post/reproducibility-and-communication-in-r/</link>
-      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/reproducibility-and-communication-in-r/</guid>
-      <description>
-
-&lt;p&gt;This month it is our pleasure to have Noam Ross and our very own Ludmila Janda present on Reproducibility and Communication in R!&lt;/p&gt;
-
-&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/255925263/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Tuesday, November 6, 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: The New York Times&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;p&gt;6:30-6:45pm - General networking&lt;/p&gt;
-
-&lt;p&gt;6:45-6:55pm - R-Ladies New York Announcements&lt;/p&gt;
-
-&lt;p&gt;6:55-7:25pm - Reproducibility in an Office World: A Brief History of Failures and the Odd Success by Noam Ross&lt;/p&gt;
-
-&lt;p&gt;7:25-7:55pm A Data Odyssey: Communicating Results With Coworkers
-by Ludamila Janda&lt;/p&gt;
-
-&lt;p&gt;7:55-8:00pm R-Ladies Community announcement&lt;/p&gt;
-
-&lt;p&gt;8:00-8:30pm Networking&lt;/p&gt;
-
-&lt;h2 id=&#34;reproducibility-in-an-office-world-a-brief-history-of-failures-and-the-odd-success&#34;&gt;Reproducibility in an Office World: A Brief History of Failures and the Odd Success&lt;/h2&gt;
-
-&lt;p&gt;Many data scientists operate at the interface of two cultures with different tools and workflows - programmatic workflows (e.g., R Markdown) and WYSIWYG documents (e.g., Microsoft Word). The noisy interface between these can be an impediment to reproducibility, as well as a royal pain. I will discuss approaches I and others have tried in dealing with these issues, and why and how some have failed and succeeded. I&amp;rsquo;ll also demonstrate some tools, including packages officer and rvg and some rarely used feaures of rmarkdown that ease the flow when collaborating across the divide.&lt;/p&gt;
-
-&lt;p&gt;Noam Ross is a Senior Research Scientist at EcoHealth Alliance, a non-profit in NYC that researches the connections between human and wildlife health. Noam builds models to understand and predict disease circulation in wildlife and spillover into people. Noam is also editor for software peer review at rOpenSci, a developer collective that builds R packages and catalyzes communities to enable open research and data. He has a Ph.D. in ecology from the University of California-Davis. Follow him on twitter at @noamross.&lt;/p&gt;
-
-&lt;p&gt;Slides from Noam&amp;rsquo;s talk can be found on &lt;a href=&#34;https://github.com/noamross/2018-11-06-rladies-talk&#34; target=&#34;_blank&#34;&gt;Noam&amp;rsquo;s GitHub account&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;a-data-odyssey-communicating-results-with-coworkers&#34;&gt;A Data Odyssey: Communicating Results With Coworkers&lt;/h2&gt;
-
-&lt;p&gt;Often, data scientists are tasked with communicating their results with people in the workplace who do not share the same technical background. Bridging the gaps between parties can be a perilous journey. In this talk, I will discuss how I have attempted to navigate this tricky terrain and provide some pointers for clear language use and data visualization choices. I’ll demonstrate how I pass on insights through visualizations using packages such as ggridges and ggalluvial and how I use rmarkdown to craft reports and take my coworkers on data adventures.&lt;/p&gt;
-
-&lt;p&gt;Ludmila Janda is a Data Scientist at Amplify, a pioneer in K–12 education since 2000, leading the way in next-generation curriculum and assessment. Today, Amplify serves four million students in all 50 states. Luda’s work provides insights on student and teacher usage, student success, and Amplify’s broader impact. She is a proud RLady and has a Master’s in Public Policy from the University of North Carolina-Chapel Hill. Follow her on twitter at @ludmila_janda.&lt;/p&gt;
-
-&lt;p&gt;Slides from Ludmila&amp;rsquo;s talk can be found on &lt;a href=&#34;https://github.com/ljanda/rladiesnyc_talk_11_06_2018&#34; target=&#34;_blank&#34;&gt;Ludmila&amp;rsquo;s GitHub account&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
->>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
   </channel>
 </rss>

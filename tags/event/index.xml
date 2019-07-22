@@ -7,43 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-<<<<<<< HEAD
     <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
-=======
-    <lastBuildDate>Sat, 29 Jun 2019 00:00:00 +0000</lastBuildDate>
->>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
     
 	<atom:link href="/tags/event/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Summer Social</title>
-      <link>/post/summer-social/</link>
-      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/summer-social/</guid>
-      <description>Come hang out with R-Ladies at the Royale Bar outdoor patio for an afternoon social full of fun, board games, and splendid R conversation!
-Drinks and food will be available for purchase. Collaborative, multi-player and two-player table games will be provided, but feel free to bring your own!
-Date: Saturday, July 13, 2019
-Time: 2:00pm - 5:00pm
-Location: Royale, 157 Loisaida Ave, New York, NY, 10009
-Meetup page</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies Lightning Talks</title>
-      <link>/post/r-ladies-lighting-talks/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/r-ladies-lighting-talks/</guid>
-      <description>We are hosting a very special event - lightning talks from the R-Ladies community! Come out to hear a variety of R &amp;amp; Data Science talks.
-Date: Wednesday, June 19, 2019
-Time: 6:00pm - 9:00pm
-Speakers: A whole lot of R ladies!
-Host: OppenheimerFunds
-Event Organizers: Brooke Watson, Elizbeth Sweeny
-Meetup page</description>
-    </item>
     
     <item>
       <title>Book Club Meeting</title>
