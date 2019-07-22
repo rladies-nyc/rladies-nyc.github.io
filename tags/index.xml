@@ -7,26 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>bookclub</title>
       <link>/tags/bookclub/</link>
       <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+=======
+      <title>blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/bookclub/</guid>
+      <guid>/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>event</title>
       <link>/tags/event/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
       
       <guid>/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+      <title>event</title>
+      <link>/tags/event/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+=======
+      <title>social</title>
+      <link>/tags/social/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
+      
+      <guid>/tags/social/</guid>
       <description></description>
     </item>
     
@@ -58,6 +83,17 @@
     </item>
     
     <item>
+      <title>bookclub</title>
+      <link>/tags/bookclub/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bookclub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< HEAD
+=======
       <title>workshop</title>
       <link>/tags/workshop/</link>
       <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
@@ -67,6 +103,7 @@
     </item>
     
     <item>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
       <title>datadive</title>
       <link>/tags/datadive/</link>
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>

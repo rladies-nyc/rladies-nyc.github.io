@@ -4,8 +4,14 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>/post/book-club-how-not-to-be-wrong/</loc>
       <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+=======
+      <loc>/categories/</loc>
+      <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
     </url>
     
   
@@ -13,9 +19,14 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>/categories/</loc>
       <lastmod>2019-07-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
+=======
+      <loc>/post/hex-sticker-result/</loc>
+      <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
     </url>
     
   
@@ -24,7 +35,11 @@
     <url>
     
       <loc>/</loc>
+<<<<<<< HEAD
       <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+=======
+      <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
       <priority>0</priority>
     </url>
     
@@ -34,57 +49,11 @@
     <url>
     
       <loc>/tags/</loc>
+<<<<<<< HEAD
       <lastmod>2019-07-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/bookclub/</loc>
-      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/bookclub/</loc>
-      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/event/</loc>
-      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/event/</loc>
-      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/hex-sticker-result/</loc>
+=======
       <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -94,6 +63,7 @@
     
       <loc>/tags/blog/</loc>
       <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
       <priority>0</priority>
     </url>
     
@@ -102,8 +72,13 @@
     
     <url>
     
+<<<<<<< HEAD
+      <loc>/tags/bookclub/</loc>
+      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+=======
       <loc>/categories/blog/</loc>
       <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
       <priority>0</priority>
     </url>
     
@@ -112,6 +87,10 @@
     
     <url>
     
+<<<<<<< HEAD
+      <loc>/categories/bookclub/</loc>
+      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+=======
       <loc>/post/summer-social/</loc>
       <lastmod>2019-06-29T00:00:00+00:00</lastmod>
     </url>
@@ -121,8 +100,9 @@
     
     <url>
     
-      <loc>/tags/social/</loc>
+      <loc>/tags/event/</loc>
       <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
       <priority>0</priority>
     </url>
     
@@ -131,6 +111,129 @@
     
     <url>
     
+<<<<<<< HEAD
+      <loc>/tags/event/</loc>
+      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+=======
+      <loc>/categories/event/</loc>
+      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+<<<<<<< HEAD
+      <loc>/categories/event/</loc>
+      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+=======
+      <loc>/tags/social/</loc>
+      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+<<<<<<< HEAD
+      <loc>/post/hex-sticker-result/</loc>
+      <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+=======
+      <loc>/categories/social/</loc>
+      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
+    </url>
+    
+  
+    
+    
+    <url>
+    
+<<<<<<< HEAD
+      <loc>/tags/blog/</loc>
+      <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+=======
+      <loc>/post/data-science-and-fantasy-baseball/</loc>
+      <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/r-ladies-lighting-talks/</loc>
+      <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/talk/</loc>
+      <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+<<<<<<< HEAD
+      <loc>/categories/blog/</loc>
+      <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+=======
+      <loc>/categories/talk/</loc>
+      <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+<<<<<<< HEAD
+      <loc>/post/summer-social/</loc>
+      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+=======
+      <loc>/post/2019-nyr-conference-tips/</loc>
+      <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
+    </url>
+    
+  
+    
+    
+    <url>
+    
+<<<<<<< HEAD
+      <loc>/tags/social/</loc>
+      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+=======
+      <loc>/post/book-club-how-not-to-be-wrong/</loc>
+      <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
+    </url>
+    
+  
+    
+    
+    <url>
+    
+<<<<<<< HEAD
       <loc>/categories/social/</loc>
       <lastmod>2019-06-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -162,6 +265,10 @@
       <loc>/tags/talk/</loc>
       <lastmod>2019-06-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
+=======
+      <loc>/post/lightning-talk-submissions-request/</loc>
+      <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
     </url>
     
   
@@ -169,8 +276,22 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>/categories/talk/</loc>
       <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+=======
+      <loc>/post/request-for-r-ladies-logo-submissions/</loc>
+      <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/bookclub/</loc>
+      <lastmod>2019-05-09T00:00:00+00:00</lastmod>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
       <priority>0</priority>
     </url>
     
@@ -179,6 +300,7 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>/post/2019-nyr-conference-tips/</loc>
       <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     </url>
@@ -189,6 +311,9 @@
     <url>
     
       <loc>/post/book-club-how-not-to-be-wrong/</loc>
+=======
+      <loc>/categories/bookclub/</loc>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
       <lastmod>2019-05-09T00:00:00+00:00</lastmod>
     </url>
     
@@ -215,8 +340,14 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>/post/getting-into-data-science/</loc>
       <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+=======
+      <loc>/tags/workshop/</loc>
+      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
     </url>
     
   
@@ -224,7 +355,11 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>/post/r-package-workshop/</loc>
+=======
+      <loc>/categories/workshop/</loc>
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
       <lastmod>2019-04-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -271,6 +406,7 @@
     
     <url>
     
+<<<<<<< HEAD
       <loc>/post/git-with-joyce/</loc>
       <lastmod>2019-01-09T00:00:00+00:00</lastmod>
     </url>
@@ -289,6 +425,8 @@
     
     <url>
     
+=======
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
       <loc>/post/reproducibility-and-communication-in-r/</loc>
       <lastmod>2018-11-12T00:00:00+00:00</lastmod>
     </url>

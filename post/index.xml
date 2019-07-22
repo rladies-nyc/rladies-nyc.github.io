@@ -13,6 +13,7 @@
     
     
     <item>
+<<<<<<< HEAD
       <title>Book Club Meeting</title>
       <link>/post/book-club-how-not-to-be-wrong/</link>
       <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
@@ -26,6 +27,8 @@ Meetup page</description>
     </item>
     
     <item>
+=======
+>>>>>>> db7d0ea3d0e4807abcbd3367dde649322135416d
       <title>Hex Sticker Result</title>
       <link>/post/hex-sticker-result/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
