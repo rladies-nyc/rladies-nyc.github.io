@@ -6,8 +6,146 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Book Club Meeting</title>
+      <link>/post/book-club-how-not-to-be-wrong/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/book-club-how-not-to-be-wrong/</guid>
+      <description>&lt;p&gt;Join us to discuss &lt;strong&gt;Data Visualization: A Practical Introduction&lt;/strong&gt; by Kieran Healy&lt;/p&gt;
+
+&lt;p&gt;Date: Saturday, August 31, 2019&lt;/p&gt;
+
+&lt;p&gt;Time: 2:00pm&lt;/p&gt;
+
+&lt;p&gt;Host: Rizzoli Bookstore, 1133 Broadway (between 25th &amp;amp; 26th)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/263376046/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hex Sticker Result</title>
+      <link>/post/hex-sticker-result/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hex-sticker-result/</guid>
+      <description>&lt;p&gt;The R-Ladies NYC call for a hex sticker design produced three creative and unique submissions. We would like to thank Ayanthi Gunawardana, Kat Hoffman, and Ludmila Janda for their involvement with the R-Ladies NYC community and time spent crafting their designs! Below, each of these R-Ladies shares her inspiration behind her design:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2019-07-03-hex-sticker-result/ayanthi.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/HoneyBadger88&#34; target=&#34;_blank&#34;&gt;Ayanthi Gunawardana&lt;/a&gt;: My goal was the keep the logo and colors as simple as possible to ensure it could be scaled to any size. I saw the negative space in the bottom of the &amp;ldquo;R&amp;rdquo; and immediately knew I wanted to use it creatively for the logo. I picked NYC landmarks that would fit in that space and ordered them in decreasing height to make sure it still looked like the letter &amp;ldquo;R&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2019-07-03-hex-sticker-result/kat.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/Rkatlady&#34; target=&#34;_blank&#34;&gt;Kat Hoffman&lt;/a&gt;: I moved to New York last August and immediately realized one of my favorite activities—besides attending R-Ladies events, of course!—was walking around the city to look at all the amazing street art. I tried to emulate this urban uniqueness in my design while emphasizing inclusivity (rainbow color scheme) and iconic NYC (Statue of Liberty crown over “Ladies”). I really enjoyed learning Adobe Illustrator to make my submission, and I am looking forward to representing R-Ladies in ggplot form on my laptop soon!&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2019-07-03-hex-sticker-result/luda.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/ludmila_janda&#34; target=&#34;_blank&#34;&gt;Ludmila Janda&lt;/a&gt;: I was inspired by our city and wanted to find a way use data and R for the sticker so I got the heights of several iconic structures and their spires and made a graph with ggplot. Then I used google drawings to make buildings and laid them over the graph to make the final image, which I used with the &lt;a href=&#34;https://github.com/GuangchuangYu/hexSticker&#34; target=&#34;_blank&#34;&gt;hexSticker package&lt;/a&gt; for the final product. Many thanks to Guangchuang Yu for quickly closing my issue (#62) for his package in order to let the URL angle vary as parameter - I used that for the &amp;ldquo;NYC&amp;rdquo; part of the logo.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Congratulations to Ludmila Janda! Her design was chosen as the winner in a tight Twitter poll on June 20th. Please join us at future R-Ladies NYC events for your opportunity to snag a new hex sticker and represent our chapter!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/2019-07-03-hex-sticker-result/poll.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summer Social</title>
+      <link>/post/summer-social/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/summer-social/</guid>
+      <description>&lt;p&gt;Come hang out with R-Ladies at the Royale Bar outdoor patio for an afternoon social full of fun, board games, and splendid R conversation!&lt;/p&gt;
+
+&lt;p&gt;Drinks and food will be available for purchase. Collaborative, multi-player and two-player table games will be provided, but feel free to bring your own!&lt;/p&gt;
+
+&lt;p&gt;Date: Saturday, July 13, 2019&lt;/p&gt;
+
+&lt;p&gt;Time: 2:00pm - 5:00pm&lt;/p&gt;
+
+&lt;p&gt;Location: Royale, 157 Loisaida Ave, New York, NY, 10009&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/262478374/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Science and Fantasy Baseball?</title>
+      <link>/post/data-science-and-fantasy-baseball/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-science-and-fantasy-baseball/</guid>
+      <description>
+
+&lt;p&gt;&lt;em&gt;Thank you so much to Anisha BharathSingh, who originally wrote this post for her blog, found &lt;a href=&#34;https://journeytodatascientist.blog/2019/05/24/data-science-and-fantasy-baseball/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. We are reposting her post with her consent. If you are an R-Lady interested in writing a blog post or cross-posting a blog post on your own blog, please let us know (via email nyc@rladies.org or via DM on twitter @RLadiesNYC)!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;On Thursday, May 23, I attended my first R-Ladies NYC meetup! R-Ladies NYC is an organization that promotes gender diversity amongst the R community by organizing a series of events (including this meetup) to support women who want to learn R or want to share their experiences as R programmers.&lt;/p&gt;
+
+&lt;h3 id=&#34;drafting-a-fantasy-baseball-team-with-r&#34;&gt;Drafting a Fantasy Baseball Team with R&lt;/h3&gt;
+
+&lt;p&gt;This meetup included an interesting take on data science – using R to draft a fantasy baseball team! This was presented by Angeline Protacio, a self-employed data scientist at Protacio Analytics LLC.&lt;/p&gt;
+
+&lt;p&gt;Outside of work, Angeline spends her time playing fantasy baseball. For those not familiar with fantasy baseball, as Angeline explained, you create your own fantasy baseball team with real players from any existing team. Each day, you decide what your lineup will be, and how well your team does depends on each players actual performance that day.&lt;/p&gt;
+
+&lt;p&gt;Angeline wanted to use her data science skills to draft a competitive fantasy baseball team. To do so, Angeline used a series of &lt;a href=&#34;http://m.mlb.com/glossary/standard-stats&#34; target=&#34;_blank&#34;&gt;player scoring categories&lt;/a&gt; including: R, HR, RBI, SO, SB, OPS, WAR. She first took a look at how a player’s position affected their scoring categories with ggplot visualizations. From this, she found that outfielders had better offensive stats and suggests to draft your outfielders first.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Create a Metric Comparing Overall Performance for Players&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, in order to determine which specific players to draft, Angeline tried looking for a summary statistic of all scoring categories to compare all players to each other, but could not find any. While there is the WAR (Wins Above Replacement) scoring category that summarizes a players contribution to their team, this only does so with respect to being substituted by a replacement player.&lt;/p&gt;
+
+&lt;p&gt;This led her to creating her own metric. With the help of the tidyverse package she: 1) filtered for players who had an average plate appearance above 300; 2) selected player id, position, Name, Team and all scoring categories; and 3) mutated her data frame with the players information to include a z-score for each scoring category.&lt;/p&gt;
+
+&lt;p&gt;This z-score is used to determine how much better a player performed than the mean for that category. Summing these z-scores provided an overall performance metric for each player in comparison to all other players.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Top MLB Players of 2018&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Using her new metric, Angeline arranged her new data frame in a descending order to find the Top 5 MLB players for 2018:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Mike Trout (Angels) – total z-score: 11.889&lt;/li&gt;
+&lt;li&gt;Giancarlo Stanton (Yankees) – total z-score: 11.869&lt;/li&gt;
+&lt;li&gt;Nolan Arenado (Rockies) – total z-score: 8.766&lt;/li&gt;
+&lt;li&gt;Bryce Harper (Phillies) – total z-score: 8.646&lt;/li&gt;
+&lt;li&gt;Anthony Rizzo (Cubs) – total z-score: 8.343&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/angelinepro/rladiesnyc_may2019&#34; target=&#34;_blank&#34;&gt;Click Here&lt;/a&gt; for the repository with all of Angeline’s code.&lt;/p&gt;
+
+&lt;p&gt;While this only accounts for one part of drafting a fantasy baseball team, this just goes to show that you can use data science for pretty much anything!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Lightning Talks</title>
+      <link>/post/r-ladies-lighting-talks/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-lighting-talks/</guid>
+      <description>&lt;p&gt;We are hosting a very special event - lightning talks from the R-Ladies community! Come out to hear a variety of R &amp;amp; Data Science talks.&lt;/p&gt;
+
+&lt;p&gt;Date: Wednesday, June 19, 2019&lt;/p&gt;
+
+&lt;p&gt;Time: 6:00pm - 9:00pm&lt;/p&gt;
+
+&lt;p&gt;Speakers: A whole lot of R ladies!&lt;/p&gt;
+
+&lt;p&gt;Host: OppenheimerFunds&lt;/p&gt;
+
+&lt;p&gt;Event Organizers: Brooke Watson, Elizbeth Sweeny&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/262079485/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>NYR 2019 Speaker Experience and Tips</title>
@@ -78,6 +216,14 @@
 &lt;li&gt;Used by: Ludmila, Amanda, and Soumya&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;Google Slides:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Benefits: Google slides makes it very easy to create beautiful slides with the Explore feature. If you type text or paste an image on the slide, Google will automatically recommend 10 ways to better format the slide. Plus, using the Google Slides app makes it very easy to practice your presentation during your commute&lt;/li&gt;
+&lt;li&gt;Drawback: While Google supports version control with the Version History feature, it does not allow reproducible research&lt;/li&gt;
+&lt;li&gt;Used by: Letisha&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;/br&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;walk-out-music&#34;&gt;Walk out Music&lt;/h3&gt;
@@ -100,7 +246,9 @@
 
 &lt;p&gt;Amanda Dobbyn (This Talk is on Fire: Using Twitter and Google to Track Fires in NYC): We Didn’t Start the Fire, Billy Joel&lt;/p&gt;
 
-&lt;p&gt;Letisha Smith (Cooking Up Statistics: The Science &amp;amp; The Art): I&amp;rsquo;m Every Woman&lt;/p&gt;
+&lt;p&gt;Letisha Smith (Cooking Up Statistics: The Science &amp;amp; The Art): I&amp;rsquo;m Every Woman - Chaka Khan&lt;/p&gt;
+
+&lt;p&gt;Spotify’s &lt;a href=&#34;https://open.spotify.com/playlist/0VAHe4mcJDB5iWBgypMq2X&#34; target=&#34;_blank&#34;&gt;Tech Ladies&lt;/a&gt; playlist also has a lot of empowering singles to choose from!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/img/2019-05-28-nyr-conference-tips/rladies.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
@@ -339,224 +487,6 @@
 &lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: AT&amp;amp;T NYC Data Science Research Center (33 Thomas Street New York, NY)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Reproducibility and Communication in R</title>
-      <link>/post/reproducibility-and-communication-in-r/</link>
-      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/reproducibility-and-communication-in-r/</guid>
-      <description>
-
-&lt;p&gt;This month it is our pleasure to have Noam Ross and our very own Ludmila Janda present on Reproducibility and Communication in R!&lt;/p&gt;
-
-&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/255925263/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Tuesday, November 6, 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: The New York Times&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;p&gt;6:30-6:45pm - General networking&lt;/p&gt;
-
-&lt;p&gt;6:45-6:55pm - R-Ladies New York Announcements&lt;/p&gt;
-
-&lt;p&gt;6:55-7:25pm - Reproducibility in an Office World: A Brief History of Failures and the Odd Success by Noam Ross&lt;/p&gt;
-
-&lt;p&gt;7:25-7:55pm A Data Odyssey: Communicating Results With Coworkers
-by Ludamila Janda&lt;/p&gt;
-
-&lt;p&gt;7:55-8:00pm R-Ladies Community announcement&lt;/p&gt;
-
-&lt;p&gt;8:00-8:30pm Networking&lt;/p&gt;
-
-&lt;h2 id=&#34;reproducibility-in-an-office-world-a-brief-history-of-failures-and-the-odd-success&#34;&gt;Reproducibility in an Office World: A Brief History of Failures and the Odd Success&lt;/h2&gt;
-
-&lt;p&gt;Many data scientists operate at the interface of two cultures with different tools and workflows - programmatic workflows (e.g., R Markdown) and WYSIWYG documents (e.g., Microsoft Word). The noisy interface between these can be an impediment to reproducibility, as well as a royal pain. I will discuss approaches I and others have tried in dealing with these issues, and why and how some have failed and succeeded. I&amp;rsquo;ll also demonstrate some tools, including packages officer and rvg and some rarely used feaures of rmarkdown that ease the flow when collaborating across the divide.&lt;/p&gt;
-
-&lt;p&gt;Noam Ross is a Senior Research Scientist at EcoHealth Alliance, a non-profit in NYC that researches the connections between human and wildlife health. Noam builds models to understand and predict disease circulation in wildlife and spillover into people. Noam is also editor for software peer review at rOpenSci, a developer collective that builds R packages and catalyzes communities to enable open research and data. He has a Ph.D. in ecology from the University of California-Davis. Follow him on twitter at @noamross.&lt;/p&gt;
-
-&lt;p&gt;Slides from Noam&amp;rsquo;s talk can be found on &lt;a href=&#34;https://github.com/noamross/2018-11-06-rladies-talk&#34; target=&#34;_blank&#34;&gt;Noam&amp;rsquo;s GitHub account&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;a-data-odyssey-communicating-results-with-coworkers&#34;&gt;A Data Odyssey: Communicating Results With Coworkers&lt;/h2&gt;
-
-&lt;p&gt;Often, data scientists are tasked with communicating their results with people in the workplace who do not share the same technical background. Bridging the gaps between parties can be a perilous journey. In this talk, I will discuss how I have attempted to navigate this tricky terrain and provide some pointers for clear language use and data visualization choices. I’ll demonstrate how I pass on insights through visualizations using packages such as ggridges and ggalluvial and how I use rmarkdown to craft reports and take my coworkers on data adventures.&lt;/p&gt;
-
-&lt;p&gt;Ludmila Janda is a Data Scientist at Amplify, a pioneer in K–12 education since 2000, leading the way in next-generation curriculum and assessment. Today, Amplify serves four million students in all 50 states. Luda’s work provides insights on student and teacher usage, student success, and Amplify’s broader impact. She is a proud RLady and has a Master’s in Public Policy from the University of North Carolina-Chapel Hill. Follow her on twitter at @ludmila_janda.&lt;/p&gt;
-
-&lt;p&gt;Slides from Ludmila&amp;rsquo;s talk can be found on &lt;a href=&#34;https://github.com/ljanda/rladiesnyc_talk_11_06_2018&#34; target=&#34;_blank&#34;&gt;Ludmila&amp;rsquo;s GitHub account&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Parallel Computing in R</title>
-      <link>/post/parallel-computing-in-r/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/parallel-computing-in-r/</guid>
-      <description>
-
-&lt;p&gt;We’re excited to host Jared Lander, Chief Data Scientist of Lander Analytics, the organizer of the New York Open Statistical Programming Meetup and the New York R Conference, and author of R for Everyone, to talk about parallel computing in R.&lt;/p&gt;
-
-&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/254762100/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Tuesday, November 6, 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Jared Lander&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: OppenheimerFunds&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;p&gt;6:30-7: Food &amp;amp; networking&lt;/p&gt;
-
-&lt;p&gt;7-7:10: Kick-off and announcements&lt;/p&gt;
-
-&lt;p&gt;7:10-7:45: Talk&lt;/p&gt;
-
-&lt;p&gt;7:45-8:30: Networking&lt;/p&gt;
-
-&lt;h2 id=&#34;talk&#34;&gt;Talk:&lt;/h2&gt;
-
-&lt;p&gt;Everyone wants their code to run faster and there are numerous ways to achieve this goal. We start by looking at popular packages &lt;code&gt;dplyr&lt;/code&gt;, &lt;code&gt;data.table&lt;/code&gt; and &lt;code&gt;purrr&lt;/code&gt; and the corresponding parallel implementations. We then turn our attention to writing simple C++ functions integrated into R, both sequentially and in parallel. We also build a &lt;code&gt;data.frame&lt;/code&gt; aggregation function, starting sequentially, ending in parallel. Throughout this talk we see how to speed up code by running in parallel, locally and across nodes, in R and C++, all within the friendly confines of RStudio.&lt;/p&gt;
-
-&lt;h2 id=&#34;about-jared&#34;&gt;About Jared:&lt;/h2&gt;
-
-&lt;p&gt;Jared Lander is the Chief Data Scientist of Lander Analytics a data science consultancy based in New York City, the Organizer of the New York Open Statistical Programming Meetup and the New York R Conference and an Adjunct Professor of Statistics at Columbia University. With a masters from Columbia University in statistics and a bachelors from Muhlenberg College in mathematics, he has experience in both academic research and industry. His work for both large and small organizations ranges from music and fund raising to finance and humanitarian relief efforts.&lt;/p&gt;
-
-&lt;p&gt;He specializes in data management, multilevel models, machine learning, generalized linear models, data management and statistical computing. He is the author of R for Everyone: Advanced Analytics and Graphics, a book about R Programming geared toward Data Scientists and Non-Statisticians alike.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Book club: R Packages by Hadley Wickham</title>
-      <link>/post/book-club-r-packages-by-hadley-wickham/</link>
-      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/book-club-r-packages-by-hadley-wickham/</guid>
-      <description>&lt;p&gt;Please join us for our next book club discussion! Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/254457098/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP. Bonus points if you try writing an R package and come to share your experience!&lt;/p&gt;
-
-&lt;p&gt;Date: Saturday, October 20, 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 2pm&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Book&lt;/strong&gt;: &lt;a href=&#34;http://r-pkgs.had.co.nz/&#34; target=&#34;_blank&#34;&gt;R Packages&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Author&lt;/strong&gt;: Hadley Wickham&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: &lt;a href=&#34;https://www.rizzolibookstore.com/&#34; target=&#34;_blank&#34;&gt;Rizzoli Bookstore&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learn OOP and discover cool finance packages in R</title>
-      <link>/post/learn-oop-and-discover-cool-finance-packages-in-r/</link>
-      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/learn-oop-and-discover-cool-finance-packages-in-r/</guid>
-      <description>
-
-&lt;p&gt;Two of our very own R-Ladies NYC board members will be speaking at our September Meetup!&lt;/p&gt;
-
-&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/254263203/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Tuesday, September 18, 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: Soumya Kalra and Gabriela Hempfling&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: AT&amp;amp;T NYC Data Science Research Center&lt;/p&gt;
-
-&lt;h2 id=&#34;details&#34;&gt;Details:&lt;/h2&gt;
-
-&lt;p&gt;For this event we will explore how to do OOP in R and learn the various use cases of the Performance Analytics Package in R&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;p&gt;6:30-6:45pm Introductions and Social&lt;/p&gt;
-
-&lt;p&gt;6:45-6:55pm R-Ladies New York Announcements&lt;/p&gt;
-
-&lt;p&gt;6:55-7:25pm Object Oriented Programming in R&lt;/p&gt;
-
-&lt;p&gt;7:25-7:55pm Performance Analytics with R&lt;/p&gt;
-
-&lt;p&gt;7:55-8:00pm Community Announcements&lt;/p&gt;
-
-&lt;p&gt;8:00-8:30pm Networking&lt;/p&gt;
-
-&lt;h3 id=&#34;object-oriented-programming-in-r-moved-due-to-technical-difficulties-in-august&#34;&gt;Object Oriented Programming in R (Moved due to technical difficulties in August)&lt;/h3&gt;
-
-&lt;p&gt;In this talk, Soumya will provide an introduction to using these programming techniques in workflows and project development. She will primarily focus on building functions, S3 classes, as well as the most recent R6 classes. She will also provide the resources she used in her learning journey.&lt;/p&gt;
-
-&lt;p&gt;Soumya is a quantitative analyst at the New York Federal Reserve where she focusing on developing models and tools as related to stress testing work. She is an organizer on the R-Ladies New York Board and on the committee for the R in Finance.&lt;/p&gt;
-
-&lt;h3 id=&#34;performance-analytics-in-r&#34;&gt;Performance Analytics in R&lt;/h3&gt;
-
-&lt;p&gt;Gabby will introduce the PerformanceAnalytics package: a tool for performance and risk analysis on financial data. She will cover how to work with financial time series data in R, and useful metrics such as annualized return, standard deviation, sharpe ratios etc.
-Link: &lt;a href=&#34;https://cran.r-project.org/web/packages/PerformanceAnalytics/vignettes/PA-charts.pdf&#34; target=&#34;_blank&#34;&gt;https://cran.r-project.org/web/packages/PerformanceAnalytics/vignettes/PA-charts.pdf&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Gabby is a Financial Planning &amp;amp; Analysis associate at Two Sigma Investments. She learned R at Columbia in a datamining course and first employed it as an economic consultant analyzing the performance of loans underlying residential mortgage backed securities at NERA economic consulting. She is an organizer on the R-Ladies New York Board.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Building Infrastructure with R</title>
-      <link>/post/building-infrastructure-with-r/</link>
-      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/building-infrastructure-with-r/</guid>
-      <description>
-
-&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/253219009/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page for more details and to RSVP.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Thursday, August 9, 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: Soumya Kalra and Emily Dodwell&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: The New York Times&lt;/p&gt;
-
-&lt;p&gt;For this event we will explore how to build tools and infrastructure with R.&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;p&gt;6:15-6:30pm Introductions and Social&lt;/p&gt;
-
-&lt;p&gt;6:30- 6:45 pm NYT announcements (Data, Tech, HR)&lt;/p&gt;
-
-&lt;p&gt;6:45-6:55pm R-Ladies New York Announcements&lt;/p&gt;
-
-&lt;p&gt;6:55-7:25pm Object Oriented Programming in R&lt;/p&gt;
-
-&lt;p&gt;7:25-7:55pm Big Data in R with Small Prototypes: Scaling&lt;/p&gt;
-
-&lt;p&gt;Research Workflows from [/Local] to [Cloud/Cluster]&lt;/p&gt;
-
-&lt;p&gt;7:55-8:00pm Community Announcements and News/Move to the 5th Floor for food/refreshments&lt;/p&gt;
-
-&lt;p&gt;8:00-8:15pm Networking.&lt;/p&gt;
-
-&lt;h3 id=&#34;object-oriented-programming-in-r&#34;&gt;Object Oriented Programming in R&lt;/h3&gt;
-
-&lt;p&gt;In this talk, Soumya will provide an introduction to using these programming techniques in workflows and project development. She will primarily focus on building functions, S3 classes, as well as the most recent R6 classes. She will also provide the resources she used in her learning journey.&lt;/p&gt;
-
-&lt;p&gt;Soumya is a quantitative analyst at the New York Federal Reserve where she focusing on developing models and tools as related to stress testing work. She is an organizer on the R-Ladies New York Board and on the committee for the R in Finance.&lt;/p&gt;
-
-&lt;h3 id=&#34;big-data-in-r-with-small-prototypes-scaling-research-workflows-from-local-to-cloud-cluster&#34;&gt;Big Data in R with Small Prototypes: Scaling Research Workflows from [/Local] to [Cloud/Cluster]&lt;/h3&gt;
-
-&lt;p&gt;In this talk motivated by a recent project, Emily will discuss the tools her team at AT&amp;amp;T Labs explored when their typical workflow to process a data set and build a machine learning model in R would not scale due to the size of the data. She will provide some considerations for the data scientist faced with such a challenge, as well as a brief introduction to sparklyr. Created by the RStudio team, this package provides a dplyr interface to Spark from R, and thereby enables straightforward access to Spark’s distributed machine learning algorithms in MLlib.&lt;/p&gt;
-
-&lt;p&gt;Emily is a Senior Inventive Scientist in the Statistics Research Department at AT&amp;amp;T Labs, where she currently focuses on predictive modeling for advertising applications and the creation of interactive tools for data analysis and visualization. She is a member of R Forwards &lt;a href=&#34;https://forwards.github.io/&#34; target=&#34;_blank&#34;&gt;https://forwards.github.io/&lt;/a&gt;, the R Foundation taskforce on women and other under-represented groups. Prior to joining AT&amp;amp;T Labs in 2015, Emily taught high school math for three years at Choate Rosemary Hall. She received her M.A. in statistics from Yale University and B.A. in mathematics from Smith College.&lt;/p&gt;
 </description>
     </item>
     
