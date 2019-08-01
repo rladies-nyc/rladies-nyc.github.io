@@ -4,8 +4,8 @@
     
     <url>
     
-      <loc>/post/book-club-how-not-to-be-wrong/</loc>
-      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+      <loc>/post/r-ladies-lighting-talks/</loc>
+      <lastmod>2019-07-31T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -14,7 +14,7 @@
     <url>
     
       <loc>/categories/</loc>
-      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+      <lastmod>2019-07-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -24,7 +24,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+      <lastmod>2019-07-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -34,8 +34,57 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+      <lastmod>2019-07-31T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/event/</loc>
+      <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/event/</loc>
+      <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/talk/</loc>
+      <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/talk/</loc>
+      <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/book-club-how-not-to-be-wrong/</loc>
+      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -54,26 +103,6 @@
     <url>
     
       <loc>/tags/bookclub/</loc>
-      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/event/</loc>
-      <lastmod>2019-07-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/event/</loc>
       <lastmod>2019-07-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -152,26 +181,6 @@
     
       <loc>/post/r-ladies-lighting-talks/</loc>
       <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/talk/</loc>
-      <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/talk/</loc>
-      <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

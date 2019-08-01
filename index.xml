@@ -6,8 +6,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Back to WoRk(flows)</title>
+      <link>/post/r-ladies-lighting-talks/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-lighting-talks/</guid>
+      <description>&lt;p&gt;Our speakers David Shilane and Madison Volpe will share tools and workflows to increase productivity and integrate R with Tableau.&lt;/p&gt;
+
+&lt;p&gt;Date: Monday, August 26, 2019&lt;/p&gt;
+
+&lt;p&gt;Time: 6:30pm - 8:30pm&lt;/p&gt;
+
+&lt;p&gt;Speakers: David Shilane and Madison Volpe&lt;/p&gt;
+
+&lt;p&gt;Host: AT&amp;amp;T NYC Data Science Research Center&lt;/p&gt;
+
+&lt;p&gt;Event Organizers: Gabriela Hempfling, Alejandra Gerosa&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/263601076/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Book Club Meeting</title>
@@ -461,32 +483,6 @@
 &lt;p&gt;Joyce Robbins, Ph.D., is Lecturer in Discipline in the Statistics Department at Columbia University, where she specializes in data visualization. She is a member of the R Forwards (R Foundation taskforce on women and other under-represented groups) teaching team, and elected to serve as publications officer of the Statistical Graphics Section of the American Statistical Association Section beginning in 2018. Robbins received her doctorate in sociology from Columbia University, her M.A. in sociology and anthropology from Tel Aviv University and her B.S.E. in civil engineering and operations research from Princeton University.&lt;/p&gt;
 
 &lt;p&gt;Slides from Joyce&amp;rsquo;s talk can be found at their &lt;a href=&#34;https://github.com/jtr13/codehelp/blob/master/GitHubWorkflow.pdf&#34; target=&#34;_blank&#34;&gt;GitHub page&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2018 End of Year Social</title>
-      <link>/post/2018-end-of-year-social/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-end-of-year-social/</guid>
-      <description>
-
-&lt;p&gt;Happy Holidays! For the end of the year we are looking to celebrate how far R-Ladies New York has come and thank all of you for your incredible support.&lt;/p&gt;
-
-&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/256736860/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page to RSVP.&lt;/p&gt;
-
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;We are doing this potluck style so &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1ytU6boa7oDAM3gujH0NRIy9ezS03P4Q4BWx6v6StIcY/edit?usp=sharing&#34; target=&#34;_blank&#34;&gt;sign up here&lt;/a&gt; to bring something to the party!&lt;/p&gt;
-
-&lt;p&gt;Dress in casual or holiday gear - we welcome it all!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Monday, December 10, 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: AT&amp;amp;T NYC Data Science Research Center (33 Thomas Street New York, NY)&lt;/p&gt;
 </description>
     </item>
     
