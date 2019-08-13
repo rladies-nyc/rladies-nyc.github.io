@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Build a Career in Data Science</title>
+      <link>/post/build-a-career-in-data-science/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/build-a-career-in-data-science/</guid>
+      <description>R-Ladies NYC is proud and excited that one of our members, Emily Robinson, is co-authoring a book with a fellow R-lady, Jacqueline Nolis! The book, Build a Career in Data Science, is available for pre-order, which comes with online access to all currently available chapters (1-9) access to the rest of the chapters as they come out. This book is a practical guide from two influential people in the R and data science communities and inculdes interviews from other data scientists.</description>
+    </item>
     
     <item>
       <title>Hex Sticker Result</title>

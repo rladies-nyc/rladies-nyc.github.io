@@ -6,8 +6,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Build a Career in Data Science</title>
+      <link>/post/build-a-career-in-data-science/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/build-a-career-in-data-science/</guid>
+      <description>&lt;p&gt;R-Ladies NYC is proud and excited that one of our members, &lt;a href=&#34;https://hookedondata.org/&#34; target=&#34;_blank&#34;&gt;Emily Robinson&lt;/a&gt;, is co-authoring a book with a fellow R-lady, &lt;a href=&#34;https://jnolis.com/writing.html&#34; target=&#34;_blank&#34;&gt;Jacqueline Nolis&lt;/a&gt;! The book, &lt;a href=&#34;bestbook.cool&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Build a Career in Data Science&lt;/em&gt;&lt;/a&gt;, is available for pre-order, which comes with online access to all currently available chapters (1-9) access to the rest of the chapters as they come out. This book is a practical guide from two influential people in the R and data science communities and inculdes interviews from other data scientists.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Back to WoRk(flows)</title>
@@ -453,36 +463,6 @@
 &lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt; 2:00pm&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt; Rizzoli Bookstore (1133 Broadway Ave)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Git with Joyce</title>
-      <link>/post/git-with-joyce/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/git-with-joyce/</guid>
-      <description>
-
-&lt;p&gt;We are kicking off this year with an introduction to Github by Joyce Robbins.&lt;/p&gt;
-
-&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/257698665/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page to RSVP.&lt;/p&gt;
-
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;This is a hands on workshop so please bring your laptop to follow along and please be prompt to make sure the workshop kicks off on time:)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: Wednesday, January 9, 2019&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt;: 6:30pm&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt;: Columbia University (1255 Amsterdam Ave, Room 903)&lt;/p&gt;
-
-&lt;h2 id=&#34;about-joyce&#34;&gt;About Joyce&lt;/h2&gt;
-
-&lt;p&gt;Joyce Robbins, Ph.D., is Lecturer in Discipline in the Statistics Department at Columbia University, where she specializes in data visualization. She is a member of the R Forwards (R Foundation taskforce on women and other under-represented groups) teaching team, and elected to serve as publications officer of the Statistical Graphics Section of the American Statistical Association Section beginning in 2018. Robbins received her doctorate in sociology from Columbia University, her M.A. in sociology and anthropology from Tel Aviv University and her B.S.E. in civil engineering and operations research from Princeton University.&lt;/p&gt;
-
-&lt;p&gt;Slides from Joyce&amp;rsquo;s talk can be found at their &lt;a href=&#34;https://github.com/jtr13/codehelp/blob/master/GitHubWorkflow.pdf&#34; target=&#34;_blank&#34;&gt;GitHub page&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
