@@ -6,8 +6,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Superlearner with sl3 and Parameterizing R Markdown Reports</title>
+      <link>/post/superlearner-rmarkdown/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/superlearner-rmarkdown/</guid>
+      <description>&lt;p&gt;Our speakers for the night will be Elizabeth Mauer and Kat Hoffman from Weill Cornell Medicine. Elizabeth will be talking about parameterized reporting in R Markdown. Kat will be discussing the Superlearner machine learning algorithm using the sl3 package.&lt;/p&gt;
+
+&lt;p&gt;Date: Tuesday, September 10, 2019&lt;/p&gt;
+
+&lt;p&gt;Time: 6:30pm - 8:30pm&lt;/p&gt;
+
+&lt;p&gt;Speakers: Elizabeth Mauer and Kat Hoffman&lt;/p&gt;
+
+&lt;p&gt;Host: Weill Cornell Medicine, 1300 York Ave&lt;/p&gt;
+
+&lt;p&gt;Event Organizers: Elizabeth Sweeney, Alejandra Gerosa&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/264137849/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Build a Career in Data Science</title>
@@ -21,10 +43,10 @@
     
     <item>
       <title>Back to WoRk(flows)</title>
-      <link>/post/r-ladies-lighting-talks/</link>
+      <link>/post/back-to-workflows/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/r-ladies-lighting-talks/</guid>
+      <guid>/post/back-to-workflows/</guid>
       <description>&lt;p&gt;Our speakers David Shilane and Madison Volpe will share tools and workflows to increase productivity and integrate R with Tableau.&lt;/p&gt;
 
 &lt;p&gt;Date: Monday, August 26, 2019&lt;/p&gt;
@@ -439,30 +461,6 @@
 &lt;p&gt;&lt;strong&gt;6:30-7:30pm&lt;/strong&gt;: Talks&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;7:30-8pm&lt;/strong&gt;: Networking&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Book club: Algorithms to live by</title>
-      <link>/post/book-club-algorithms-to-live-by/</link>
-      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/book-club-algorithms-to-live-by/</guid>
-      <description>
-
-&lt;p&gt;At our next book club meeting, we&amp;rsquo;ll discuss Algorithms to Live By, by Brian Christian and Tom Griffiths.&lt;/p&gt;
-
-&lt;p&gt;Visit our &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/257130300/&#34; target=&#34;_blank&#34;&gt;Meetup&lt;/a&gt; page to RSVP.&lt;/p&gt;
-
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;Please support our wonderful host bookstore, Rizzoli, by ordering the book directly from them &lt;a href=&#34;https://www.rizzolibookstore.com/algorithms-live-computer-science-human-decisions-0&#34; target=&#34;_blank&#34;&gt;through this link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt; Saturday, January 26, 2019&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Time&lt;/strong&gt; 2:00pm&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Host&lt;/strong&gt; Rizzoli Bookstore (1133 Broadway Ave)&lt;/p&gt;
 </description>
     </item>
     

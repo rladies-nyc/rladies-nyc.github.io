@@ -7,17 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>The Superlearner with sl3 and Parameterizing R Markdown Reports</title>
+      <link>/post/superlearner-rmarkdown/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/superlearner-rmarkdown/</guid>
+      <description>Our speakers for the night will be Elizabeth Mauer and Kat Hoffman from Weill Cornell Medicine. Elizabeth will be talking about parameterized reporting in R Markdown. Kat will be discussing the Superlearner machine learning algorithm using the sl3 package.
+Date: Tuesday, September 10, 2019
+Time: 6:30pm - 8:30pm
+Speakers: Elizabeth Mauer and Kat Hoffman
+Host: Weill Cornell Medicine, 1300 York Ave
+Event Organizers: Elizabeth Sweeney, Alejandra Gerosa
+Meetup page</description>
+    </item>
+    
+    <item>
       <title>Back to WoRk(flows)</title>
-      <link>/post/r-ladies-lighting-talks/</link>
+      <link>/post/back-to-workflows/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/r-ladies-lighting-talks/</guid>
+      <guid>/post/back-to-workflows/</guid>
       <description>Our speakers David Shilane and Madison Volpe will share tools and workflows to increase productivity and integrate R with Tableau.
 Date: Monday, August 26, 2019
 Time: 6:30pm - 8:30pm
