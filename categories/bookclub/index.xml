@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/bookclub/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book Club Meeting</title>
+      <link>/post/book-club-invisible-women/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/book-club-invisible-women/</guid>
+      <description>Join us to discuss Invisible Women: Data Bias in a World Designed for Men by Caroline Criado-Pérez
+Date: Saturday, November 9, 2019
+Time: 2:00pm
+Host: Rizzoli Bookstore, 1133 Broadway (between 25th &amp;amp; 26th)
+Meetup page</description>
+    </item>
     
     <item>
       <title>Book Club Meeting</title>

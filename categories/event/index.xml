@@ -7,10 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Thu, 22 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/event/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R in healthcare - Ensuring data quality and conducting survival analyses</title>
+      <link>/post/data-survival-flatiron/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-survival-flatiron/</guid>
+      <description>This Meetup features a triple-hitter of talks on R in medicine, biostats and health tech. Each speaker will talk for roughly 20 minutes about the topics below, before and after a half hour of socializing and snacks at Flatiron Health.
+Date: Thursday, November 14, 2019
+Time: 6:30pm - 8:30pm
+Speakers: Jacqueline Gutman, Jessica Streeter, Sam Adhikari
+Host: Flatiron Health, 233 Spring St
+Event Organizers: Brooke Watson, Rika Gorn
+Meetup page</description>
+    </item>
+    
+    <item>
+      <title>Book Club Meeting</title>
+      <link>/post/book-club-invisible-women/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/book-club-invisible-women/</guid>
+      <description>Join us to discuss Invisible Women: Data Bias in a World Designed for Men by Caroline Criado-Pérez
+Date: Saturday, November 9, 2019
+Time: 2:00pm
+Host: Rizzoli Bookstore, 1133 Broadway (between 25th &amp;amp; 26th)
+Meetup page</description>
+    </item>
+    
+    <item>
+      <title>Using R to Make Psychological Scales and Data Dictionaries</title>
+      <link>/post/scales-dictionaries/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/scales-dictionaries/</guid>
+      <description>Our speakers for the night will be Emily H Ho from Fordham and Samuel Crane from Amplify. Emily will be talking about working with psychological scales in R. Samuel will be talking about building a data dictionary using blogdown.
+Date: Tuesday, October 22, 2019
+Time: 6:30pm - 8:30pm
+Speakers: Emily H Ho and Samuel Crane
+Host: Amplify, 55 Washington St
+Event Organizers: Ludmila Janda, Erin Grand
+Meetup page</description>
+    </item>
     
     <item>
       <title>The Superlearner with sl3 and Parameterizing R Markdown Reports</title>

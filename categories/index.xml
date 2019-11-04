@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Thu, 22 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>event</title>
       <link>/categories/event/</link>
-      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/event/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>talk</title>
       <link>/categories/talk/</link>
-      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookclub</title>
+      <link>/categories/bookclub/</link>
+      <pubDate>Tue, 22 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/bookclub/</guid>
       <description></description>
     </item>
     
@@ -36,15 +45,6 @@
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bookclub</title>
-      <link>/categories/bookclub/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/bookclub/</guid>
       <description></description>
     </item>
     
