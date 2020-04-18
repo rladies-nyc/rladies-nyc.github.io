@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bookclub on R-Ladies NYC</title>
@@ -57,7 +57,7 @@ Meetup page</description>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/book-club-algorithms-to-live-by/</guid>
-      <description>At our next book club meeting, we&amp;rsquo;ll discuss Algorithms to Live By, by Brian Christian and Tom Griffiths.
+      <description>At our next book club meeting, we&#39;ll discuss Algorithms to Live By, by Brian Christian and Tom Griffiths.
 Visit our Meetup page to RSVP.
 Details Please support our wonderful host bookstore, Rizzoli, by ordering the book directly from them through this link
 Date Saturday, January 26, 2019
@@ -85,7 +85,7 @@ Host: Rizzoli Bookstore</description>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/book-club-artificial-unintelligence/</guid>
-      <description>Please join us for our next book club discussion! This book club event will include a very special appearance by the author, Meredith Broussard, so don&amp;rsquo;t miss out. Visit our Meetup page for more details and to RSVP.
+      <description>Please join us for our next book club discussion! This book club event will include a very special appearance by the author, Meredith Broussard, so don&#39;t miss out. Visit our Meetup page for more details and to RSVP.
 Date: Saturday, July 14, 2018
 Time: 11am
 Book: Artificial Intelligence: How Computers Misunderstand the World
@@ -145,7 +145,7 @@ Host: Rizzoli Bookstore</description>
 Date: Saturday, June 17, 2017
 Time: 11am
 Book: Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy
-Author: Cathy O&amp;rsquo;Neil
+Author: Cathy O&#39;Neil
 Host: Rizzoli Bookstore</description>
     </item>
     

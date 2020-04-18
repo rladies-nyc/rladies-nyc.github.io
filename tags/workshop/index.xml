@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>workshop on R-Ladies NYC</title>
@@ -20,7 +20,7 @@
       <guid>/post/r-package-workshop/</guid>
       <description>Bring your laptop and come out to our next workshop to learn about building your very own R package!
 Visit our Meetup page to RSVP.
-Details Sebastian&amp;rsquo;s workshop will focus on R package development from the ground up. We will cover package structure, set-up, creating functions, documentation, testing, dependencies, sharing the package with others, package vignettes, hex stickers, and other methods. An example package will be developed during the workshop so attendees can follow along and create their own.</description>
+Details Sebastian&#39;s workshop will focus on R package development from the ground up. We will cover package structure, set-up, creating functions, documentation, testing, dependencies, sharing the package with others, package vignettes, hex stickers, and other methods. An example package will be developed during the workshop so attendees can follow along and create their own.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@ About Joyce Joyce Robbins, Ph.D., is Lecturer in Discipline in the Statistics De
       
       <guid>/post/introduction-to-shiny-apps-using-nba-data/</guid>
       <description>Come out for our May event for a tutorial on Shiny! Julia Wrobel, a PhD candidate in biostatistics at Columbia University, will be teaching us to make and deploy Shiny apps using NBA data.
-The materials for this talk can be found on Julia&amp;rsquo;s website.
+The materials for this talk can be found on Julia&#39;s website.
 Bring your laptops so that you can code as you go!
 Visit our Meetup page for more details and to RSVP.
 Date: Tuesday, May 8, 2018</description>
@@ -59,7 +59,7 @@ Date: Tuesday, May 8, 2018</description>
       <guid>/post/workshop-functional-programming-with-purrr/</guid>
       <description>Join us for our first R Ladies NYC event of 2018!
 Joyce Robbins presents a workshop on the purrr package, a complete and coherent packae for working with functions and vectors in R. Visit our Meetup page for more details and to RSVP.
-Joyce&amp;rsquo;s GitHub repo for this talk can be found here.
+Joyce&#39;s GitHub repo for this talk can be found here.
 Date: Wednesday, January 10, 2018
 Time: 6:30pm
 Instructor: Joyce Robbins
@@ -73,7 +73,7 @@ Host: Schapiro Center Columbia University</description>
       
       <guid>/post/data-visualization-workshop-part-1/</guid>
       <description>Joyce Robbins presents a workshop on creating heatmaps in R, and other more general data visualization tips and tricks. Visit our Meetup page for more details and to RSVP.
-Joyce&amp;rsquo;s GitHub repo for this talk can be found here.
+Joyce&#39;s GitHub repo for this talk can be found here.
 Date: Thursday, August 17, 2017
 Time: 7pm
 Instructor: Joyce Robbins

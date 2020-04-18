@@ -5,8 +5,70 @@
     <url>
     
       <loc>/categories/</loc>
-      <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/event/</loc>
+      <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/event/</loc>
+      <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/r-ladies-code-llaboration-hangout/</loc>
+      <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/talk/</loc>
+      <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/talk/</loc>
+      <lastmod>2020-01-13T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -16,66 +78,6 @@
     
       <loc>/post/eoy-celebration-jenny-bryan/</loc>
       <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/event/</loc>
-      <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/event/</loc>
-      <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/talk/</loc>
-      <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/talk/</loc>
-      <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -101,7 +103,7 @@
     
     <url>
     
-      <loc>/post/scales-dictionaries/</loc>
+      <loc>/tags/bookclub/</loc>
       <lastmod>2019-10-22T00:00:00+00:00</lastmod>
     </url>
     
@@ -112,7 +114,6 @@
     
       <loc>/categories/bookclub/</loc>
       <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -120,9 +121,8 @@
     
     <url>
     
-      <loc>/tags/bookclub/</loc>
+      <loc>/post/scales-dictionaries/</loc>
       <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -139,18 +139,8 @@
     
     <url>
     
-      <loc>/post/build-a-career-in-data-science/</loc>
-      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/categories/blog/</loc>
       <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -160,7 +150,15 @@
     
       <loc>/tags/blog/</loc>
       <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/build-a-career-in-data-science/</loc>
+      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -195,18 +193,8 @@
     
     <url>
     
-      <loc>/post/summer-social/</loc>
-      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/categories/social/</loc>
       <lastmod>2019-06-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -216,7 +204,15 @@
     
       <loc>/tags/social/</loc>
       <lastmod>2019-06-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/summer-social/</loc>
+      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -296,9 +292,8 @@
     
     <url>
     
-      <loc>/categories/workshop/</loc>
+      <loc>/tags/workshop/</loc>
       <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -306,9 +301,8 @@
     
     <url>
     
-      <loc>/tags/workshop/</loc>
+      <loc>/categories/workshop/</loc>
       <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -543,7 +537,6 @@
     
       <loc>/categories/datadive/</loc>
       <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -553,7 +546,6 @@
     
       <loc>/tags/datadive/</loc>
       <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -724,7 +716,6 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <priority>0</priority>
     </url>
     
   

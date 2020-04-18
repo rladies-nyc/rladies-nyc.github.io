@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>talk on R-Ladies NYC</title>
@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R-Ladies Code-llaboration Hangout</title>
+      <link>/post/r-ladies-code-llaboration-hangout/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-code-llaboration-hangout/</guid>
+      <description>We&#39;ll kick off the year with a hands-on working session where we&#39;ll work together on our own projects or tutorials.
+Come in curious about a subject or looking to make progress on a project you&#39;re working on!
+We&#39;ll divide ourselves into groups who&#39;ll be working on similar topics, and we&#39;ll have prompts and tutorials at hand for those who don&#39;t have a particular project in mind.
+We believe that by collaborating with other R-Ladies who share your curiosity you’ll get much further than you would at home with google, and that even if you don’t have a set goal you’ll learn through sharing and receiving tips and tricks.</description>
+    </item>
     
     <item>
       <title>End-of-Year Celebration with Jenny Bryan</title>
@@ -110,7 +122,7 @@ Meetup page</description>
       
       <guid>/post/lightning-talk-submissions-request/</guid>
       <description>R-Ladies NYC are excited to be hosting an evening of lightning talks on Wednesday June 19! We held this event last year and it was a tremendous success, so we are really excited about the event this year!
-Lighting talks are five minute talks. You can talk about anything R, Tech, and/or Data Science related. Looking for ideas? How about talking about a cool package you found, how you use R in your company, a favorite learning resource, your journey into Data Science, or a side project you&amp;rsquo;ve been working on?</description>
+Lighting talks are five minute talks. You can talk about anything R, Tech, and/or Data Science related. Looking for ideas? How about talking about a cool package you found, how you use R in your company, a favorite learning resource, your journey into Data Science, or a side project you&#39;ve been working on?</description>
     </item>
     
     <item>
@@ -139,7 +151,7 @@ See our Meetup page to RSVP.
 Details Date Tuesday, February 12, 2019
 Time 6:00pm
 Host WeWork (205 Hudson S)
-Amanda&amp;rsquo;s talk will focus on the package &amp;lsquo;drake&amp;rsquo;. Drake is a package designed to make designing and executing analysis pipelines easier and more reproducible. In this talk Amanda will run through an example of how drake can be used to manage an analysis workflow.</description>
+Amanda&#39;s talk will focus on the package &amp;lsquo;drake&amp;rsquo;. Drake is a package designed to make designing and executing analysis pipelines easier and more reproducible. In this talk Amanda will run through an example of how drake can be used to manage an analysis workflow.</description>
     </item>
     
     <item>
@@ -231,7 +243,7 @@ Talks and speakers:
       
       <guid>/post/introduction-to-shiny-apps-using-nba-data/</guid>
       <description>Come out for our May event for a tutorial on Shiny! Julia Wrobel, a PhD candidate in biostatistics at Columbia University, will be teaching us to make and deploy Shiny apps using NBA data.
-The materials for this talk can be found on Julia&amp;rsquo;s website.
+The materials for this talk can be found on Julia&#39;s website.
 Bring your laptops so that you can code as you go!
 Visit our Meetup page for more details and to RSVP.
 Date: Tuesday, May 8, 2018</description>
@@ -243,7 +255,7 @@ Date: Tuesday, May 8, 2018</description>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/tidy-evaluation-programming-with-ggplot2-and-dplyr/</guid>
-      <description>For this month&amp;rsquo;s meetup we have a very special guest : Hadley Wickham!
+      <description>For this month&#39;s meetup we have a very special guest : Hadley Wickham!
 Visit our Meetup page for more details and to RSVP.
 Date: Thursday, April 19, 2018
 Time: 6:30pm
@@ -258,7 +270,7 @@ Host: Two Sigma</description>
       
       <guid>/post/parallelization-foreach-and-missing-data/</guid>
       <description>Come out to our March event to hear talks from two great R Ladies!
-First we&amp;rsquo;ll learn about parallelization of simulations with the foreach R package, with applications to progression free survival assessed using electronic health records. Then we&amp;rsquo;ll get an introduction to methods for handling missing data in R.
+First we&#39;ll learn about parallelization of simulations with the foreach R package, with applications to progression free survival assessed using electronic health records. Then we&#39;ll get an introduction to methods for handling missing data in R.
 Visit our Meetup page for more details and to RSVP.
 Date: Tuesday, March 20, 2018
 Time: 6:30pm
@@ -282,7 +294,7 @@ Speakers: Elizabeth Sweeney and Mine Dogucu</description>
       <guid>/post/r-in-the-world-of-education/</guid>
       <description>Join us for our last event of 2017!
 Erin Grand will speak about how she uses R in the World of Eduction. Visit our Meetup for more details and to RSVP.
-Erin&amp;rsquo;s GitHub repo for this event can be found here.
+Erin&#39;s GitHub repo for this event can be found here.
 Date: Tuesday, December 12, 2017
 Time: 6:30pm
 Speaker: Erin Grand
