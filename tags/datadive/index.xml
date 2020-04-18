@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>datadive on R-Ladies NYC</title>
@@ -18,7 +18,7 @@
       <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/data-dive-night-with-data-for-democracy/</guid>
-      <description>Let&#39;s get together with our laptops and R skills and code to continue to explore Medicare spending data. Visit our Meetup page for more details and to RSVP.
+      <description>Let&amp;rsquo;s get together with our laptops and R skills and code to continue to explore Medicare spending data. Visit our Meetup page for more details and to RSVP.
 Date: Tuesday, October 24, 2017
 Time: 6:30pm
 Host: Quartet Health</description>

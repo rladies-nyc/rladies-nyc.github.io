@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.62.2" />
+  <meta name="generator" content="Hugo 0.56.3" />
   <meta name="author" content="R-Ladies NYC">
   
 
@@ -295,18 +295,32 @@
 
 
       <div class="article-style" itemprop="articleBody">
-        <p><em>Thank you so much to Anisha BharathSingh, who originally wrote this post for her blog, found <a href="https://journeytodatascientist.blog/2019/05/24/data-science-and-fantasy-baseball/">here</a>. We are reposting her post with her consent. If you are an R-Lady interested in writing a blog post or cross-posting a blog post on your own blog, please let us know (via email <a href="mailto:nyc@rladies.org">nyc@rladies.org</a> or via DM on twitter @RLadiesNYC)!</em></p>
+        
+
+<p><em>Thank you so much to Anisha BharathSingh, who originally wrote this post for her blog, found <a href="https://journeytodatascientist.blog/2019/05/24/data-science-and-fantasy-baseball/" target="_blank">here</a>. We are reposting her post with her consent. If you are an R-Lady interested in writing a blog post or cross-posting a blog post on your own blog, please let us know (via email nyc@rladies.org or via DM on twitter @RLadiesNYC)!</em></p>
+
 <p>On Thursday, May 23, I attended my first R-Ladies NYC meetup! R-Ladies NYC is an organization that promotes gender diversity amongst the R community by organizing a series of events (including this meetup) to support women who want to learn R or want to share their experiences as R programmers.</p>
+
 <h3 id="drafting-a-fantasy-baseball-team-with-r">Drafting a Fantasy Baseball Team with R</h3>
+
 <p>This meetup included an interesting take on data science – using R to draft a fantasy baseball team! This was presented by Angeline Protacio, a self-employed data scientist at Protacio Analytics LLC.</p>
+
 <p>Outside of work, Angeline spends her time playing fantasy baseball. For those not familiar with fantasy baseball, as Angeline explained, you create your own fantasy baseball team with real players from any existing team. Each day, you decide what your lineup will be, and how well your team does depends on each players actual performance that day.</p>
-<p>Angeline wanted to use her data science skills to draft a competitive fantasy baseball team. To do so, Angeline used a series of <a href="http://m.mlb.com/glossary/standard-stats">player scoring categories</a> including: R, HR, RBI, SO, SB, OPS, WAR. She first took a look at how a player’s position affected their scoring categories with ggplot visualizations. From this, she found that outfielders had better offensive stats and suggests to draft your outfielders first.</p>
+
+<p>Angeline wanted to use her data science skills to draft a competitive fantasy baseball team. To do so, Angeline used a series of <a href="http://m.mlb.com/glossary/standard-stats" target="_blank">player scoring categories</a> including: R, HR, RBI, SO, SB, OPS, WAR. She first took a look at how a player’s position affected their scoring categories with ggplot visualizations. From this, she found that outfielders had better offensive stats and suggests to draft your outfielders first.</p>
+
 <p><strong>Create a Metric Comparing Overall Performance for Players</strong></p>
+
 <p>Next, in order to determine which specific players to draft, Angeline tried looking for a summary statistic of all scoring categories to compare all players to each other, but could not find any. While there is the WAR (Wins Above Replacement) scoring category that summarizes a players contribution to their team, this only does so with respect to being substituted by a replacement player.</p>
+
 <p>This led her to creating her own metric. With the help of the tidyverse package she: 1) filtered for players who had an average plate appearance above 300; 2) selected player id, position, Name, Team and all scoring categories; and 3) mutated her data frame with the players information to include a z-score for each scoring category.</p>
+
 <p>This z-score is used to determine how much better a player performed than the mean for that category. Summing these z-scores provided an overall performance metric for each player in comparison to all other players.</p>
+
 <p><strong>Top MLB Players of 2018</strong></p>
+
 <p>Using her new metric, Angeline arranged her new data frame in a descending order to find the Top 5 MLB players for 2018:</p>
+
 <ol>
 <li>Mike Trout (Angels) – total z-score: 11.889</li>
 <li>Giancarlo Stanton (Yankees) – total z-score: 11.869</li>
@@ -314,7 +328,9 @@
 <li>Bryce Harper (Phillies) – total z-score: 8.646</li>
 <li>Anthony Rizzo (Cubs) – total z-score: 8.343</li>
 </ol>
-<p><a href="https://github.com/angelinepro/rladiesnyc_may2019">Click Here</a> for the repository with all of Angeline’s code.</p>
+
+<p><a href="https://github.com/angelinepro/rladiesnyc_may2019" target="_blank">Click Here</a> for the repository with all of Angeline’s code.</p>
+
 <p>While this only accounts for one part of drafting a fantasy baseball team, this just goes to show that you can use data science for pretty much anything!</p>
 
       </div>
@@ -367,7 +383,7 @@
   <div class="container">
     <p class="powered-by">
 
-      © 2017 R-Ladies NYC &middot; 
+      &copy; 2017 R-Ladies NYC &middot; 
 
       Powered by the
       <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
