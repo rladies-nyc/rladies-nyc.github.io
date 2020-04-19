@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R-Ladies NYC on R-Ladies NYC</title>
@@ -6,8 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>R-Ladies Code-llaboration Hangout</title>
+      <link>/post/r-ladies-code-llaboration-hangout/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-code-llaboration-hangout/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ll kick off the year with a hands-on working session where we&amp;rsquo;ll work together on our own projects or tutorials.&lt;/p&gt;
+
+&lt;p&gt;Come in curious about a subject or looking to make progress on a project you&amp;rsquo;re working on!&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll divide ourselves into groups who&amp;rsquo;ll be working on similar topics, and we&amp;rsquo;ll have prompts and tutorials at hand for those who don&amp;rsquo;t have a particular project in mind.&lt;/p&gt;
+
+&lt;p&gt;We believe that by collaborating with other R-Ladies who share your curiosity you’ll get much further than you would at home with google, and that even if you don’t have a set goal you’ll learn through sharing and receiving tips and tricks.&lt;/p&gt;
+
+&lt;p&gt;All experience levels welcome!&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll have five groups, for those working on projects related to:
+1. Making your website with R and blogdown
+2. Building a package
+3. Tidy Tuesday
+4. Forecasting with time series data
+5. Everything else!&lt;/p&gt;
+
+&lt;p&gt;Thank you to AT&amp;amp;T for hosting us and the R Conference and Lander Analytics for sponsoring pizza.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/267543818/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>End-of-Year Celebration with Jenny Bryan</title>
@@ -411,26 +441,6 @@
 &lt;p&gt;Host: Rizzoli Bookstore, 1133 Broadway (between 25th &amp;amp; 26th)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/261214466/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Request for 2019 Lightning Talk Submissions</title>
-      <link>/post/lightning-talk-submissions-request/</link>
-      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/lightning-talk-submissions-request/</guid>
-      <description>&lt;p&gt;R-Ladies NYC are excited to be hosting an evening of lightning talks on Wednesday June 19! We held this event last year and it was a tremendous success, so we are really excited about the event this year!&lt;/p&gt;
-
-&lt;p&gt;Lighting talks are five minute talks. You can talk about anything R, Tech, and/or Data Science related. Looking for ideas? How about talking about a cool package you found, how you use R in your company, a favorite learning resource, your journey into Data Science, or a side project you&amp;rsquo;ve been working on?&lt;/p&gt;
-
-&lt;p&gt;We would especially love to hear from people who&amp;rsquo;ve never presented at a meetup or conference before and/or those who still don&amp;rsquo;t feel confident public speaking. A lightning talk can be a great way to start out speaking, as it&amp;rsquo;s quick, low-prep, and fun!&lt;/p&gt;
-
-&lt;p&gt;Interested in proposing a talk but want to brainstorm ideas, get feedback, or some encouragement? We&amp;rsquo;re here to help! You can join the #lightningtalks channel in our slack channel or email nyc@rladies.org. We would be happy to set up a time to talk with you!&lt;/p&gt;
-
-&lt;p&gt;To celebrate the diversity in the R Community, we&amp;rsquo;re limiting presenters to those who identify as a minority gender (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSeJom9L9SBqYPr0gU_GVwPXPvYqv167tLafrv2SaBJYvXJK7Q/viewform&#34; target=&#34;_blank&#34;&gt;Please submit talk proposals here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -7,26 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>event</title>
-      <link>/tags/event/</link>
-      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/event/</guid>
-      <description></description>
+      <guid>/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
-      <title>talk</title>
-      <link>/tags/talk/</link>
-      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <title>blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/talk/</guid>
+      <guid>/tags/blog/</guid>
       <description></description>
     </item>
     
@@ -40,11 +40,20 @@
     </item>
     
     <item>
-      <title>blog</title>
-      <link>/tags/blog/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      <title>datadive</title>
+      <link>/tags/datadive/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/blog/</guid>
+      <guid>/tags/datadive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>event</title>
+      <link>/tags/event/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/event/</guid>
       <description></description>
     </item>
     
@@ -58,30 +67,21 @@
     </item>
     
     <item>
+      <title>talk</title>
+      <link>/tags/talk/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>workshop</title>
       <link>/tags/workshop/</link>
       <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/workshop/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>datadive</title>
-      <link>/tags/datadive/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/datadive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
   </channel>

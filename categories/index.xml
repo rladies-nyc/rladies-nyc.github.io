@@ -7,26 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>event</title>
-      <link>/categories/event/</link>
-      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <title>blog</title>
+      <link>/categories/blog/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/event/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>/categories/talk/</link>
-      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/talk/</guid>
+      <guid>/categories/blog/</guid>
       <description></description>
     </item>
     
@@ -40,11 +30,20 @@
     </item>
     
     <item>
-      <title>blog</title>
-      <link>/categories/blog/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      <title>datadive</title>
+      <link>/categories/datadive/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/blog/</guid>
+      <guid>/categories/datadive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>event</title>
+      <link>/categories/event/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/event/</guid>
       <description></description>
     </item>
     
@@ -58,20 +57,20 @@
     </item>
     
     <item>
+      <title>talk</title>
+      <link>/categories/talk/</link>
+      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>workshop</title>
       <link>/categories/workshop/</link>
       <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>datadive</title>
-      <link>/categories/datadive/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/datadive/</guid>
       <description></description>
     </item>
     

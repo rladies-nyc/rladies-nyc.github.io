@@ -1,12 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     
     <url>
     
-      <loc>/categories/</loc>
-      <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
+      <loc>/post/r-ladies-code-llaboration-hangout/</loc>
+      <lastmod>2020-01-13T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -16,66 +16,6 @@
     
       <loc>/post/eoy-celebration-jenny-bryan/</loc>
       <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/event/</loc>
-      <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/event/</loc>
-      <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/talk/</loc>
-      <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/talk/</loc>
-      <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -110,26 +50,6 @@
     
     <url>
     
-      <loc>/categories/bookclub/</loc>
-      <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/bookclub/</loc>
-      <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/superlearner-rmarkdown/</loc>
       <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     </url>
@@ -141,26 +61,6 @@
     
       <loc>/post/build-a-career-in-data-science/</loc>
       <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/blog/</loc>
-      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/blog/</loc>
-      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -197,26 +97,6 @@
     
       <loc>/post/summer-social/</loc>
       <lastmod>2019-06-29T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/social/</loc>
-      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/social/</loc>
-      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -289,26 +169,6 @@
     
       <loc>/post/r-package-workshop/</loc>
       <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/workshop/</loc>
-      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/workshop/</loc>
-      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -541,26 +401,6 @@
     
     <url>
     
-      <loc>/categories/datadive/</loc>
-      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/datadive/</loc>
-      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/book-club-truth-or-truthiness/</loc>
       <lastmod>2017-09-30T00:00:00+00:00</lastmod>
     </url>
@@ -652,7 +492,6 @@
     <url>
     
       <loc>/post/2017-02-21-a-focus-on-health/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -661,7 +500,6 @@
     <url>
     
       <loc>/post/2019-04-17-getting-into-data-science/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -670,7 +508,6 @@
     <url>
     
       <loc>/post/_book/background-remixing-packages-in-r/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -679,7 +516,6 @@
     <url>
     
       <loc>/post/_book/javascript-webscraping-in-r/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -688,7 +524,6 @@
     <url>
     
       <loc>/post/_book/maintaining-an-open-source-package-in-r/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -697,7 +532,6 @@
     <url>
     
       <loc>/post/_book/organizing-an-r-package/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -706,7 +540,6 @@
     <url>
     
       <loc>/post/_book/remixing-the-beep-function/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -715,6 +548,14 @@
     <url>
     
       <loc>/post/_book/wrapping-it-all-into-a-package/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -724,6 +565,166 @@
     <url>
     
       <loc>/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/blog/</loc>
+      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/blog/</loc>
+      <lastmod>2019-08-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/bookclub/</loc>
+      <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/bookclub/</loc>
+      <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/datadive/</loc>
+      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/datadive/</loc>
+      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/event/</loc>
+      <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/event/</loc>
+      <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/social/</loc>
+      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/social/</loc>
+      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/talk/</loc>
+      <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/talk/</loc>
+      <lastmod>2020-01-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/workshop/</loc>
+      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/workshop/</loc>
+      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
