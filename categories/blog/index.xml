@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resources for self-guided learning</title>
+      <link>/post/resources-for-self-guided-learning/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/resources-for-self-guided-learning/</guid>
+      <description>As New Yorkers do all we can to stay well in the times of coronavirus, all of our routines have changed. For some of us, this may mean more time devoted to strengthening our data skills. If this is you, here is a collection of resources that can get you up and running with learning a new skill in R. These were originally compiled for the R-Ladies NYC Code-llaboration Hangout back in January, and are organized by topic: Tidy Tuesday, Building a Package, Building a Website, Time Series Analysis and Everything Else.</description>
+    </item>
     
     <item>
       <title>Build a Career in Data Science</title>

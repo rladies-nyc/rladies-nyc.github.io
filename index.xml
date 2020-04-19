@@ -11,6 +11,109 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Resources for self-guided learning</title>
+      <link>/post/resources-for-self-guided-learning/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/resources-for-self-guided-learning/</guid>
+      <description>
+
+&lt;p&gt;As New Yorkers do all we can to stay well in the times of coronavirus, all of our routines have changed. For some of us, this may mean more time devoted to strengthening our data skills. If this is you, here is a collection of resources that can get you up and running with learning a new skill in R. These were originally compiled for the R-Ladies NYC Code-llaboration Hangout back in January, and are organized by topic: &lt;a href=&#34;#tidy-tuesday&#34;&gt;Tidy Tuesday&lt;/a&gt;, &lt;a href=&#34;#building-a-package&#34;&gt;Building a Package&lt;/a&gt;, &lt;a href=&#34;#building-a-website&#34;&gt;Building a Website&lt;/a&gt;, &lt;a href=&#34;#forecasting-and-time-series-analysis&#34;&gt;Time Series Analysis&lt;/a&gt; and &lt;a href=&#34;#everything-else&#34;&gt;Everything Else&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;tidy-tuesday&#34;&gt;Tidy Tuesday&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Introduction, guidelines and datasets: &lt;a href=&#34;https://github.com/rfordatascience/tidytuesday&#34; target=&#34;_blank&#34;&gt;Official Repo for the #tidytuesday project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The&lt;/em&gt; book on how to transform and visualize data with R: &lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slides from Luda Janda’s ggplot talk at the NYC Open Statistical Programming Meetup: &lt;a href=&#34;https://raw.githack.com/ljanda/nyhackr_talk_2019_09_19/master/ny_hackr_talk_2019_09_19.html#1&#34; target=&#34;_blank&#34;&gt;the ggplot glow-up&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Other dataviz and ggplot resources:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html&#34; target=&#34;_blank&#34;&gt;Data carpentry&amp;rsquo;s Data Visualization with ggplot2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://r-statistics.co/ggplot2-Tutorial-With-R.html&#34; target=&#34;_blank&#34;&gt;How to make any plot in ggplot2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;building-a-package&#34;&gt;Building a Package&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tutorial: &lt;a href=&#34;http://raw.githack.com/Seborinos/rladiesnyc_package_workshop/master/rladiesnyc_package_workshop.html#1&#34; target=&#34;_blank&#34;&gt;Slides from Sebastian Teran Hidalgo’s R-Ladies talk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Other resources:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://r-mageddon.netlify.com/post/writing-an-r-package-from-scratch/&#34; target=&#34;_blank&#34;&gt;Another tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://r-pkgs.had.co.nz/&#34; target=&#34;_blank&#34;&gt;Hadley Wickham&amp;rsquo;s book on R packages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html&#34; target=&#34;_blank&#34;&gt;Understanding roxygen2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;About writing good functions
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stat545.com/functions-part1.html&#34; target=&#34;_blank&#34;&gt;Jenny Byran&amp;rsquo;s wisdom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://r4ds.had.co.nz/functions.html&#34; target=&#34;_blank&#34;&gt;Functions in Hadley Wickham&amp;rsquo;s R for Data Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://swcarpentry.github.io/r-novice-inflammation/02-func-R/&#34; target=&#34;_blank&#34;&gt;Creating Functions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;building-a-website&#34;&gt;Building a Website&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tutorial: &lt;a href=&#34;https://www.storybench.org/how-to-build-a-website-with-blogdown-in-r/&#34; target=&#34;_blank&#34;&gt;How to build a website with Blogdown in R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Other resources:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;THE&lt;/em&gt; book about blogdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://alison.rbind.io/post/2019-03-04-hugo-troubleshooting/&#34; target=&#34;_blank&#34;&gt;Excellent troubleshooting tips&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html#personal_website&#34; target=&#34;_blank&#34;&gt;Another way of building websites with r (with rmarkdown and github hosting)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Additional reference by Alison Hill:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/&#34; target=&#34;_blank&#34;&gt;Up &amp;amp; Running with blogdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://alison.rbind.io/post/2019-02-21-hugo-page-bundles/&#34; target=&#34;_blank&#34;&gt;A Spoonful of Hugo: Page Bundles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://alison.rbind.io/post/2019-02-19-hugo-netlify-toml/&#34; target=&#34;_blank&#34;&gt;A Spoonful of Hugo: The netlify.toml File&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://alison.rbind.io/post/2019-02-19-hugo-archetypes/&#34; target=&#34;_blank&#34;&gt;A Spoonful of Hugo: Archetypes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;forecasting-and-time-series-analysis&#34;&gt;Forecasting and Time Series Analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Intro to Time Series Forecasting ARIMA Modeling:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/&#34; target=&#34;_blank&#34;&gt;A Complete Tutorial on Time Series Modeling in R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pluralsight.com/guides/time-series-forecasting-using-r&#34; target=&#34;_blank&#34;&gt;Time Series Forecasting Using R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://r-statistics.co/Time-Series-Forecasting-With-R.html&#34; target=&#34;_blank&#34;&gt;Time Series Forecasting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html&#34; target=&#34;_blank&#34;&gt;Using R for Time Series Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/c/web-traffic-time-series-forecasting&#34; target=&#34;_blank&#34;&gt;Test out your skills with this Kaggle competition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://otexts.com/fpp3/tsibble-objects.html&#34; target=&#34;_blank&#34;&gt;tsibble Objects&lt;/a&gt; (bonus link, thanks Emily Robinson!)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;everything-else&#34;&gt;Everything Else&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Getting started:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stat545.com/install.html&#34; target=&#34;_blank&#34;&gt;Jenny Bryan&amp;rsquo;s class on &lt;em&gt;Data wrangling, exploration, and analysis with R&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34;&gt;Hadley Wickham &amp;amp; Garrett Grolemund&amp;rsquo;s &lt;em&gt;R for Data Science&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ourcodingclub.github.io/2016/11/13/intro-to-r.html&#34; target=&#34;_blank&#34;&gt;Getting Started with R and RStiudio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://happygitwithr.com/&#34; target=&#34;_blank&#34;&gt;Working with Git and github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Maps
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html&#34; target=&#34;_blank&#34;&gt;With tmap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.littlemissdata.com/blog/maps&#34; target=&#34;_blank&#34;&gt;With Google&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rstudio.github.io/leaflet/&#34; target=&#34;_blank&#34;&gt;With leaflet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text mining&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>timetrackR and gtsummary</title>
       <link>/post/timetrackr-and-gtsummary/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
@@ -360,113 +463,6 @@
 &lt;p&gt;Event Organizers: Brooke Watson, Elizbeth Sweeny&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/262079485/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>NYR 2019 Speaker Experience and Tips</title>
-      <link>/post/2019-nyr-conference-tips/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2019-nyr-conference-tips/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;/img/2019-05-28-nyr-conference-tips/stickers.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The New York R conference attracts a diverse yet technical audience which means the bar is high for all invited speakers. This year, over half the speakers were women, including several R-Ladies NYC members. It was such a fun and good experience that we decided to collaborate and write a blog post to encourage others to speak at conferences and provide some tips.&lt;/p&gt;
-
-&lt;p&gt;Speakers: Ludmila Janda, Emily Robinson, Emily Dodwell, Gabriela Hempfling, Elizabeth Sweeny, Soumya Kalra, Brooke Watson, Amanda Dobbyn, Letisha Smith&lt;/p&gt;
-
-&lt;h3 id=&#34;tips-on-speaking&#34;&gt;Tips on Speaking&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Summarize your talk to someone you know well but isn’t too familiar with the subject matter&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Practice a couple times. If your team at work is willing, schedule time to give your talk several days or a week before the conference. Ludmila’s team listened to her talk twice!&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Take deep breaths before you get on stage&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;If anyone raises their hand and then starts talking in the middle of your talk just say “I’m sorry we aren’t taking any questions” and keep it moving! Don’t let them get you out of your flow&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Some people look like they’re frowning when they’re trying to listen. Don’t be distracted by reading too much into their expressions&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Have fun on stage and don’t get embarrassed during your walk out song&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Use the speakers&amp;rsquo; lounge to prepare and decompress&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Lightning talks can be a great way to practice! They are five minute talks in front of a smaller audience that can help you get the format down and trial run an idea. &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSeJom9L9SBqYPr0gU_GVwPXPvYqv167tLafrv2SaBJYvXJK7Q/viewform&#34; target=&#34;_blank&#34;&gt;You can submit a talk for the upcoming R-Ladies NYC lightning talks event here!&lt;/a&gt; &lt;a href=&#34;http://www.rladiesnyc.org/post/lightning-talks-roundup/&#34; target=&#34;_blank&#34;&gt;Last year&amp;rsquo;s lightning talks can be found here&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://hookedondata.org/giving-your-first-data-science-talk/&#34; target=&#34;_blank&#34;&gt;More tips from Emily Robinson on her blog&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Feel free to reach out to R-ladies for support and feedback before giving a talk&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;slides&#34;&gt;Slides&lt;/h3&gt;
-
-&lt;p&gt;Often, one of the hardest things about giving a talk is getting yourself to start preparing your slides. Sometimes, it can feel hard to even choose what to use to make the slides. Therefore, we are including a section on what we used to make our slides.&lt;/p&gt;
-
-&lt;p&gt;Powerpoint:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;As timeless as Michael Scott, there’s no shame in “Powerpoint, Powerpoint, Powerpoint”&lt;/li&gt;
-&lt;li&gt;Can be helpful even if you want to just storyboard the idea first&lt;/li&gt;
-&lt;li&gt;Used by: Gabriela, Emily R, Elizabeth&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Keynote:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Powerpoint for Millenials™&lt;/li&gt;
-&lt;li&gt;Rumored to be used by Hadley Wickham&lt;/li&gt;
-&lt;li&gt;Used by: Brooke&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Xaringan:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Cool newish package in R!&lt;/li&gt;
-&lt;li&gt;Benefits: you can easily make your slides in R and immediately see updates to the slides, easily incorporate talk notes, includes a presentation mode with a timer, formats slides very easily and nicely, allows you to experiment with interesting themes&lt;/li&gt;
-&lt;li&gt;Drawbacks: Has a bit of learning curve, can be a bit buggy (sometimes having the immediate viewing of changes on can really slow down ability to edit the slides), it was a bit hard to deal with unmirroring the display and dragging one set of slides to the big screen, not as easy as using presenter mode in something like powerpoint, but if you don’t need notes there is no need to worry about this&lt;/li&gt;
-&lt;li&gt;Used by: Ludmila, Amanda, and Soumya&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Google Slides:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Benefits: Google slides makes it very easy to create beautiful slides with the Explore feature. If you type text or paste an image on the slide, Google will automatically recommend 10 ways to better format the slide. Plus, using the Google Slides app makes it very easy to practice your presentation during your commute&lt;/li&gt;
-&lt;li&gt;Drawback: While Google supports version control with the Version History feature, it does not allow reproducible research&lt;/li&gt;
-&lt;li&gt;Used by: Letisha&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;walk-out-music&#34;&gt;Walk out Music&lt;/h3&gt;
-
-&lt;p&gt;NYR has a fun tradition of letting the speaker pick a song to walk out to, but this can feel like a &lt;strong&gt;big&lt;/strong&gt; decision. It&amp;rsquo;s worth noting that the song only plays for about 10 - 20 seconds and it might not start right where you would want it to, even if you give a specific time to start the song. These were our walk out songs this year:&lt;/p&gt;
-
-&lt;p&gt;Ludmila Janda (Building the Tidyverse From Scratch: Teaching Data Cleaning and Visualization with R-inspired Custom Scratch Blocks): Mi Gente - J Balvin, Willy William, Beyonce&lt;/p&gt;
-
-&lt;p&gt;Emily Dodwell (From Tangled Lassos to Boosted Trees: Iterative Research in Practice): Run the World (Girls) - Beyonce&lt;/p&gt;
-
-&lt;p&gt;Emily Robinson (Everything You Wanted to Know About Making R Packages but Were Afraid to Ask): Mrs. Robinson, Simon &amp;amp; Garfunkel&lt;/p&gt;
-
-&lt;p&gt;Gabriela Hempfling (I’ll Have What She’s Having (and Other Models of Consumer Behavior): Bad Bad News - Leon Bridges&lt;/p&gt;
-
-&lt;p&gt;Elizabeth Sweeny (Neuroimaging Analysis in R): Insane in the Brain - Cypress Hill&lt;/p&gt;
-
-&lt;p&gt;Soumya Kalra (Becoming a better finance practitioner): Forget my name - Danko Jones&lt;/p&gt;
-
-&lt;p&gt;Brooke Watson (Using R to defend immigrant&amp;rsquo;s rights at the ACLU): Freedom - Beyonce&lt;/p&gt;
-
-&lt;p&gt;Amanda Dobbyn (This Talk is on Fire: Using Twitter and Google to Track Fires in NYC): We Didn’t Start the Fire, Billy Joel&lt;/p&gt;
-
-&lt;p&gt;Letisha Smith (Cooking Up Statistics: The Science &amp;amp; The Art): I&amp;rsquo;m Every Woman - Chaka Khan&lt;/p&gt;
-
-&lt;p&gt;Spotify’s &lt;a href=&#34;https://open.spotify.com/playlist/0VAHe4mcJDB5iWBgypMq2X&#34; target=&#34;_blank&#34;&gt;Tech Ladies&lt;/a&gt; playlist also has a lot of empowering singles to choose from!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2019-05-28-nyr-conference-tips/rladies.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
