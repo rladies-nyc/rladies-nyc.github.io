@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>timetrackR and gtsummary</title>
+      <link>/post/timetrackr-and-gtsummary/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/timetrackr-and-gtsummary/</guid>
+      <description>Our speakers for the night will be Jessica Lavery and Margie Hannum from Memorial Sloan Kettering Cancer Center. Jessica will be talking about the timetrackR app. Margie will be discussing the gtsummary package.
+Agenda: 6:30-6:55 pm Introductions and Social Time
+6:55-7 pm R-Ladies New York Announcements
+7-7:10 Sponsor Message from IBM Developer New York
+7:10-7:40 It&amp;rsquo;s Time to Shine with timetrackR App, Jessica Lavery
+7:40-8:10 Creating publication-ready and reproducible analytical tables with gtsummary, Margie Hannum</description>
+    </item>
     
     <item>
       <title>R-Ladies Code-llaboration Hangout</title>
