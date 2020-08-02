@@ -11,6 +11,80 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Q&amp;A with Authors of &#34;Build a Career in Data Science&#34;</title>
+      <link>/post/q-a-authors-build-a-career/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/q-a-authors-build-a-career/</guid>
+      <description>
+
+&lt;p&gt;Authors of &amp;ldquo;Build a Career in Data Science&amp;rdquo; Emily Robinson and Jacqueline Nolis will read selections from their book and discuss why they were meaningful and what thinking went into making it. In this session you’ll learn about some of the higher-level thinking that went into designing a book to help people excel in their data science careers, as well as hear stories from Emily and Jacqueline’s pasts that ended up shaping the narrative. After Emily and Jacqueline discuss their book, the floor will open so anyone can ask their data science career questions!&lt;/p&gt;
+
+&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page and sent to all attendees at noon on the day of the event.&lt;/p&gt;
+
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
+
+&lt;p&gt;7-7:05 pm: R-Ladies NYC Announcements&lt;/p&gt;
+
+&lt;p&gt;7:05-7:40: Emily &amp;amp; Jacqueline talk about their book&lt;/p&gt;
+
+&lt;p&gt;7:40-8:15: Audience Q&amp;amp;A&lt;/p&gt;
+
+&lt;p&gt;8:15-8:20: Wrap-up&lt;/p&gt;
+
+&lt;h2 id=&#34;speaker-bios&#34;&gt;&lt;strong&gt;Speaker Bios&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Emily Robinson is a senior data scientist at Warby Parker, where she works on a centralized team tackling some of the company&amp;rsquo;s projects. She previously worked at DataCamp, where she built and ran their experimentation analytics system, and at Etsy, where she worked with their search team.&lt;/p&gt;
+
+&lt;p&gt;Dr. Jacqueline Nolis is a principal data scientist at Brightloom where she creates models to help restaurants and retailers improve the customer experience. She has a PhD in Industrial Engineering, and has over a decade of experience with helping companies use data, ranking from DSW to Airbnb. For fun Jacqueline likes to use data science for humor—like using deep learning to generate offensive license plates.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/271928063/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leading R Trainings &amp; Prototyping with flexdashboards</title>
+      <link>/post/leading-trainings-prototyping/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/leading-trainings-prototyping/</guid>
+      <description>
+
+&lt;p&gt;Our very own R-Ladies NYC board members Erin Grand and Kaelen Medeiros will give two short talks this month on leading R trainings for coworkers and flexdashboard!&lt;/p&gt;
+
+&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page and sent to all attendees at noon on the day of the event.&lt;/p&gt;
+
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
+
+&lt;p&gt;7-7:05 pm: R-Ladies NYC Announcements&lt;/p&gt;
+
+&lt;p&gt;7:05-7:30: &amp;ldquo;Leading R Trainings for Coworkers&amp;rdquo; by Erin Grand&lt;/p&gt;
+
+&lt;p&gt;7:30-7:55: &amp;ldquo;flexdashboard for Prototyping and Profit&amp;rdquo; by Kaelen Medeiros&lt;/p&gt;
+
+&lt;p&gt;7:55-8:15: Questions and wrap-up&lt;/p&gt;
+
+&lt;h2 id=&#34;title-leading-r-trainings-for-coworkers&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt; Leading R Trainings for Coworkers&lt;/h2&gt;
+
+&lt;h2 id=&#34;presenter-erin-grand&#34;&gt;&lt;strong&gt;Presenter:&lt;/strong&gt; Erin Grand&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Erin has lead a set of 6+ R trainings for her coworkers ranging from &amp;ldquo;Introduction to Tidyverse&amp;rdquo; to &amp;ldquo;Using SQL and R Together.&amp;rdquo; Leading such trainings, while using many of the same teaching skills, offer different challenges from teaching in a workshop or classroom setting. Erin will discuss the Why&amp;rsquo;s, How&amp;rsquo;s, and Best Practices she&amp;rsquo;s learned over the past few years of leading trainings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; Erin works as a Data Scientist at Uncommon Schools where she trains coworkers in R as well as maintaining two R packages. Prior to Uncommon, she worked as a Data Scientist at Crisis Text Line, and a software programmer at NASA while completing her Data Science Masters at Columbia University. Before data science, Erin researched star formation and taught introductory courses in astronomy and physics at the University of Maryland.&lt;/p&gt;
+
+&lt;h2 id=&#34;title-flexdashboard-for-prototyping-and-profit&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt; flexdashboard for Prototyping and Profit&lt;/h2&gt;
+
+&lt;h2 id=&#34;presenter-kaelen-medeiros&#34;&gt;&lt;strong&gt;Presenter:&lt;/strong&gt; Kaelen Medeiros&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The flexdashboard package allows you to build Shiny dashboards quickly using a RMarkdown document. This is advantageous in situations where you need to prototype a data product (often a dashboard or interactive report) and need to sell stakeholders on the value of the product built. Kaelen will talk about the basics of using flexdashboard and then give tips on utilizing it to build data product MVPs (minimum viable products) to communicate vision to stakeholders, plus discuss flexdashboard extensions and how to go about converting your flexdash to a Shiny dashboard (if you&amp;rsquo;re ready or even need to!)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; Kaelen is a data scientist at Medidata Solutions where they work as an R programmer on the microservices team. They&amp;rsquo;ve also worked at Spring Health, DataCamp, HERE Technologies, and have done a fair amount of R and Shiny consulting on the side. Kaelen was at various times a film theorist, preschool teacher, test prep tutor, videographer, and nanny before getting a MS in biostatistics from LSU Health Sciences Center in 2016 and starting to work as a statistician and data scientist. They have a cat named Scully and enjoy talking about podcats, aliens, data, and would love to see a photo of your pet if you&amp;rsquo;re sharing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/271374747/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mappy Hour with R-Ladies: Spatial Data Analysis in R</title>
       <link>/post/mappy-hour/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
@@ -31,8 +105,6 @@
 &lt;p&gt;7:30-7:55: &amp;ldquo;How to Be a Resilient Geospatial R useR: First Steps, Learning More, and the Spatial R-Ladies Community&amp;rdquo; by Angela Li&lt;/p&gt;
 
 &lt;p&gt;7:55-8:15: Questions and wrap-up&lt;/p&gt;
-
-&lt;p&gt;6:30-6:55 pm Introductions and Social Time&lt;/p&gt;
 
 &lt;h2 id=&#34;title-uncharted-territory-an-introduction-to-making-clear-and-accurate-maps&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt; Uncharted Territory: An Introduction to Making Clear and Accurate Maps&lt;/h2&gt;
 
@@ -431,58 +503,6 @@
 &lt;p&gt;Host: Rizzoli Bookstore, 1133 Broadway (between 25th &amp;amp; 26th)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/263376046/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hex Sticker Result</title>
-      <link>/post/hex-sticker-result/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/hex-sticker-result/</guid>
-      <description>&lt;p&gt;The R-Ladies NYC call for a hex sticker design produced three creative and unique submissions. We would like to thank Ayanthi Gunawardana, Kat Hoffman, and Ludmila Janda for their involvement with the R-Ladies NYC community and time spent crafting their designs! Below, each of these R-Ladies shares her inspiration behind her design:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2019-07-03-hex-sticker-result/ayanthi.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/HoneyBadger88&#34; target=&#34;_blank&#34;&gt;Ayanthi Gunawardana&lt;/a&gt;: My goal was the keep the logo and colors as simple as possible to ensure it could be scaled to any size. I saw the negative space in the bottom of the &amp;ldquo;R&amp;rdquo; and immediately knew I wanted to use it creatively for the logo. I picked NYC landmarks that would fit in that space and ordered them in decreasing height to make sure it still looked like the letter &amp;ldquo;R&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2019-07-03-hex-sticker-result/kat.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/Rkatlady&#34; target=&#34;_blank&#34;&gt;Kat Hoffman&lt;/a&gt;: I moved to New York last August and immediately realized one of my favorite activities—besides attending R-Ladies events, of course!—was walking around the city to look at all the amazing street art. I tried to emulate this urban uniqueness in my design while emphasizing inclusivity (rainbow color scheme) and iconic NYC (Statue of Liberty crown over “Ladies”). I really enjoyed learning Adobe Illustrator to make my submission, and I am looking forward to representing R-Ladies in ggplot form on my laptop soon!&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2019-07-03-hex-sticker-result/luda.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/ludmila_janda&#34; target=&#34;_blank&#34;&gt;Ludmila Janda&lt;/a&gt;: I was inspired by our city and wanted to find a way use data and R for the sticker so I got the heights of several iconic structures and their spires and made a graph with ggplot. Then I used google drawings to make buildings and laid them over the graph to make the final image, which I used with the &lt;a href=&#34;https://github.com/GuangchuangYu/hexSticker&#34; target=&#34;_blank&#34;&gt;hexSticker package&lt;/a&gt; for the final product. Many thanks to Guangchuang Yu for quickly closing my issue (#62) for his package in order to let the URL angle vary as parameter - I used that for the &amp;ldquo;NYC&amp;rdquo; part of the logo.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;Congratulations to Ludmila Janda! Her design was chosen as the winner in a tight Twitter poll on June 20th. Please join us at future R-Ladies NYC events for your opportunity to snag a new hex sticker and represent our chapter!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/2019-07-03-hex-sticker-result/poll.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Summer Social</title>
-      <link>/post/summer-social/</link>
-      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/summer-social/</guid>
-      <description>&lt;p&gt;Come hang out with R-Ladies at the Royale Bar outdoor patio for an afternoon social full of fun, board games, and splendid R conversation!&lt;/p&gt;
-
-&lt;p&gt;Drinks and food will be available for purchase. Collaborative, multi-player and two-player table games will be provided, but feel free to bring your own!&lt;/p&gt;
-
-&lt;p&gt;Date: Saturday, July 13, 2019&lt;/p&gt;
-
-&lt;p&gt;Time: 2:00pm - 5:00pm&lt;/p&gt;
-
-&lt;p&gt;Location: Royale, 157 Loisaida Ave, New York, NY, 10009&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/262478374/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
