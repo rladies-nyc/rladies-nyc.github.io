@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mappy Hour with R-Ladies: Spatial Data Analysis in R</title>
+      <link>/post/mappy-hour/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mappy-hour/</guid>
+      <description>Our very own Ayanthi Gunawardana and R-Ladies Chicago board member Angela Li join us this month to talk spatial statistics in R!
+This event will be hosted over Zoom, and a link will be sent to all attendees at noon on the day of the event.
+Agenda: 7-7:05 pm: R-Ladies NYC Announcements
+7:05-7:30: &amp;ldquo;Uncharted Territory: An Introduction to Making Clear and Accurate Maps&amp;rdquo; by Ayanthi Gunawardana
+7:30-7:55: &amp;ldquo;How to Be a Resilient Geospatial R useR: First Steps, Learning More, and the Spatial R-Ladies Community&amp;rdquo; by Angela Li</description>
+    </item>
+    
+    <item>
+      <title>All About Blogs</title>
+      <link>/post/all-about-blogs/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/all-about-blogs/</guid>
+      <description>We&amp;rsquo;re so excited to have Angeline, Anisha, Emily, and Sharla talk about their experience with sharing their work through blog posts and twitter! Please email us at nyc@rladies.org with your question(s) for our amazing panelists to address, or submit them below in the comments.
+This event will be hosted over Zoom. A link will be sent to all attendees at noon on the day of the event.
+Panelist Bios Emily Robinson Emily Robinson is a senior data scientist at Warby Parker, where she works on a centralized team tackling some of the company’s biggest projects.</description>
+    </item>
     
     <item>
       <title>timetrackR and gtsummary</title>

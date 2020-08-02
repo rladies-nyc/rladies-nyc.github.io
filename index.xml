@@ -11,6 +11,94 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Mappy Hour with R-Ladies: Spatial Data Analysis in R</title>
+      <link>/post/mappy-hour/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mappy-hour/</guid>
+      <description>
+
+&lt;p&gt;Our very own Ayanthi Gunawardana and R-Ladies Chicago board member Angela Li join us this month to talk spatial statistics in R!&lt;/p&gt;
+
+&lt;p&gt;This event will be hosted over Zoom, and a link will be sent to all attendees at noon on the day of the event.&lt;/p&gt;
+
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
+
+&lt;p&gt;7-7:05 pm: R-Ladies NYC Announcements&lt;/p&gt;
+
+&lt;p&gt;7:05-7:30: &amp;ldquo;Uncharted Territory: An Introduction to Making Clear and Accurate Maps&amp;rdquo; by Ayanthi Gunawardana&lt;/p&gt;
+
+&lt;p&gt;7:30-7:55: &amp;ldquo;How to Be a Resilient Geospatial R useR: First Steps, Learning More, and the Spatial R-Ladies Community&amp;rdquo; by Angela Li&lt;/p&gt;
+
+&lt;p&gt;7:55-8:15: Questions and wrap-up&lt;/p&gt;
+
+&lt;p&gt;6:30-6:55 pm Introductions and Social Time&lt;/p&gt;
+
+&lt;h2 id=&#34;title-uncharted-territory-an-introduction-to-making-clear-and-accurate-maps&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt; Uncharted Territory: An Introduction to Making Clear and Accurate Maps&lt;/h2&gt;
+
+&lt;h2 id=&#34;presenter-ayanthi-gunawardana&#34;&gt;&lt;strong&gt;Presenter:&lt;/strong&gt; Ayanthi Gunawardana&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Over the course of a decade, maps have gone from folded paper booklets inside the glove compartment of a car to having a map of the entire world inside everyone’s smartphone. As more spatial data becomes available, maps are no longer simple representations of places on Earth; maps now include visualizations of a wide range of newly available spatial datasets. We collect more and more data with location information, but does this mean that this information belongs on a map? I will cover some basic principles of good cartography and what to keep in mind when creating a map.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; Ayanthi is a Data and Research Analyst at the New York City Department of Transportation, where she analyzes car crash data to inform street safety projects and street redesign. Ayanthi has a Masters in City and Regional Planning from Rutgers University, which sparked her interest in maps and data. When she&amp;rsquo;s not looking at maps, you can find Ayanthi at Brazilian Jiu Jitsu class (pre pandemic) or cooking something spicy (all the time).&lt;/p&gt;
+
+&lt;h2 id=&#34;title-how-to-be-a-resilient-geospatial-r-user-first-steps-learning-more-and-the-spatial-r-ladies-community&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt; How to Be a Resilient Geospatial R useR: First Steps, Learning More, and the Spatial R-Ladies Community&lt;/h2&gt;
+
+&lt;h2 id=&#34;presenter-angela-li&#34;&gt;&lt;strong&gt;Presenter:&lt;/strong&gt; Angela Li&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Learning to work with geospatial data in R can be challenging, but the right resources and open-source community can help whether you’re starting out with spatial data or moving your spatial analysis workflow to R. I’ll cover how you can get started with geospatial analysis in R, common questions and challenges I’ve seen, and where you can turn when you get stuck. I’ll draw insights from my experiences working 1-on-1 with researchers, teaching and assisting with spatial R workshops, and fielding questions from the #rspatialchat Twitter hashtag. Finally, I’ll discuss next steps for R-Ladies in the #rspatial community and talk about how we can help each other become better spatial data practitioners together.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; Angela is a researcher and the R Spatial Advocate at the Center for Spatial Data Science at the University of Chicago. She has a background in spatial analysis, econometrics, and public policy. Prior to her current position, she worked at a startup focused on mobility and conducted research on housing and demolition in Detroit. She is currently researching the opioid epidemic in America, working with public health experts to better understand access to treatment. She is passionate about creating opportunities for underrepresented minorities to advance their data science and spatial thinking skills, starting R-Ladies Chicago and the #rspatialchat hashtag on Twitter, among other projects. She is a huge fan of the New York Times crossword.&lt;/p&gt;
+
+&lt;p&gt;Angela’s website is &lt;a href=&#34;angela-li.github.io&#34; target=&#34;_blank&#34;&gt;angela-li.github.io&lt;/a&gt;. You can also find her on Github at &lt;a href=&#34;https://github.com/angela-li&#34; target=&#34;_blank&#34;&gt;@angela-li&lt;/a&gt; and Twitter &lt;a href=&#34;https://twitter.com/CivicAngela&#34; target=&#34;_blank&#34;&gt;@CivicAngela&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/270611485/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>All About Blogs</title>
+      <link>/post/all-about-blogs/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/all-about-blogs/</guid>
+      <description>
+
+&lt;p&gt;We&amp;rsquo;re so excited to have Angeline, Anisha, Emily, and Sharla talk about their experience with sharing their work through blog posts and twitter! Please email us at &lt;a href=&#34;mailto:nyc@rladies.org&#34; target=&#34;_blank&#34;&gt;nyc@rladies.org&lt;/a&gt; with your question(s) for our amazing panelists to address, or submit them below in the comments.&lt;/p&gt;
+
+&lt;p&gt;This event will be hosted over Zoom. A link will be sent to all attendees at noon on the day of the event.&lt;/p&gt;
+
+&lt;h2 id=&#34;panelist-bios&#34;&gt;Panelist Bios&lt;/h2&gt;
+
+&lt;h3 id=&#34;emily-robinson&#34;&gt;Emily Robinson&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Emily Robinson&lt;/strong&gt; is a senior data scientist at Warby Parker, where she works on a centralized team tackling some of the company’s biggest projects. She is the author of the book &lt;a href=&#34;datascicareer.com&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;Build a Career in Data Science&amp;rdquo;&lt;/a&gt;, a guide to all the non-technical skills and knowledge you need to get into and succeed in data science, with &lt;a href=&#34;https://jnolis.com/&#34; target=&#34;_blank&#34;&gt;Jacqueline Nolis&lt;/a&gt;. She regularly gives talks and writes on her blog, &lt;a href=&#34;hookedondata.org&#34; target=&#34;_blank&#34;&gt;hookedondata.org&lt;/a&gt;, about A/B testing, programming in R, career advice, and more.&lt;/p&gt;
+
+&lt;p&gt;Emily&amp;rsquo;s website is &lt;a href=&#34;https://hookedondata.org&#34; target=&#34;_blank&#34;&gt;https://hookedondata.org&lt;/a&gt;. You can also find her on &lt;a href=&#34;https://github.com/robinsones&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/robinson_es&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;anisha-bharathsingh&#34;&gt;Anisha BharathSingh&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Anisha BharathSingh&lt;/strong&gt; is currently an SEO Analyst at Omnicom Media Group, with over 2.5 years in Digital Marketing. Last year, she started learning R in order to improve her data skills and learn about data science. In addition to that, she started a blog to showcase the data + R skills that she has been learning along with writing about data-related Meetups and books.&lt;/p&gt;
+
+&lt;p&gt;Anisha&amp;rsquo;s blog is &lt;a href=&#34;https://journeytodatascientist.blog/&#34; target=&#34;_blank&#34;&gt;https://journeytodatascientist.blog/&lt;/a&gt;. You can also find her on &lt;a href=&#34;https://github.com/AnishaB95&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/thesparemoments&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;angeline-protacio&#34;&gt;Angeline Protacio&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Angeline&lt;/strong&gt; is a data scientist at Protacio Analytics LLC, consulting on projects spanning different disciplines. She is currently growing her data science expertise through the data science bootcamp program at Metis. Her background is in epidemiology and genetics and has experience working with data relating to mental health, breast cancer risk, and environmental risk factors. She spends her free time trying to win at fantasy baseball (with data) and practicing French.&lt;/p&gt;
+
+&lt;p&gt;Angeline&amp;rsquo;s website is &lt;a href=&#34;https://www.angelineprotacio.com&#34; target=&#34;_blank&#34;&gt;https://www.angelineprotacio.com&lt;/a&gt;. You can also find her on &lt;a href=&#34;https://github.com/angelinepro&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/dataangeline&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;sharla-gelfand&#34;&gt;Sharla Gelfand&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Sharla Gelfand&lt;/strong&gt; is a freelance R developer focusing on package development and reproducible reporting workflows. She is a long-time R user and co-organizer of the Toronto R-Ladies chapter and frequently shares old and new favourite #rstats functions via the hashtag #TwoFunctionsMostDays on Twitter.&lt;/p&gt;
+
+&lt;p&gt;Sharla&amp;rsquo;s blog is &lt;a href=&#34;https://sharla.party&#34; target=&#34;_blank&#34;&gt;https://sharla.party&lt;/a&gt;. You can also find her on &lt;a href=&#34;https://github.com/sharlagelfand&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/sharlagelfand&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/270210924/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Resources for self-guided learning</title>
       <link>/post/resources-for-self-guided-learning/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
@@ -395,74 +483,6 @@
 &lt;p&gt;Location: Royale, 157 Loisaida Ave, New York, NY, 10009&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/262478374/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Data Science and Fantasy Baseball?</title>
-      <link>/post/data-science-and-fantasy-baseball/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/data-science-and-fantasy-baseball/</guid>
-      <description>
-
-&lt;p&gt;&lt;em&gt;Thank you so much to Anisha BharathSingh, who originally wrote this post for her blog, found &lt;a href=&#34;https://journeytodatascientist.blog/2019/05/24/data-science-and-fantasy-baseball/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. We are reposting her post with her consent. If you are an R-Lady interested in writing a blog post or cross-posting a blog post on your own blog, please let us know (via email nyc@rladies.org or via DM on twitter @RLadiesNYC)!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;On Thursday, May 23, I attended my first R-Ladies NYC meetup! R-Ladies NYC is an organization that promotes gender diversity amongst the R community by organizing a series of events (including this meetup) to support women who want to learn R or want to share their experiences as R programmers.&lt;/p&gt;
-
-&lt;h3 id=&#34;drafting-a-fantasy-baseball-team-with-r&#34;&gt;Drafting a Fantasy Baseball Team with R&lt;/h3&gt;
-
-&lt;p&gt;This meetup included an interesting take on data science – using R to draft a fantasy baseball team! This was presented by Angeline Protacio, a self-employed data scientist at Protacio Analytics LLC.&lt;/p&gt;
-
-&lt;p&gt;Outside of work, Angeline spends her time playing fantasy baseball. For those not familiar with fantasy baseball, as Angeline explained, you create your own fantasy baseball team with real players from any existing team. Each day, you decide what your lineup will be, and how well your team does depends on each players actual performance that day.&lt;/p&gt;
-
-&lt;p&gt;Angeline wanted to use her data science skills to draft a competitive fantasy baseball team. To do so, Angeline used a series of &lt;a href=&#34;http://m.mlb.com/glossary/standard-stats&#34; target=&#34;_blank&#34;&gt;player scoring categories&lt;/a&gt; including: R, HR, RBI, SO, SB, OPS, WAR. She first took a look at how a player’s position affected their scoring categories with ggplot visualizations. From this, she found that outfielders had better offensive stats and suggests to draft your outfielders first.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Create a Metric Comparing Overall Performance for Players&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Next, in order to determine which specific players to draft, Angeline tried looking for a summary statistic of all scoring categories to compare all players to each other, but could not find any. While there is the WAR (Wins Above Replacement) scoring category that summarizes a players contribution to their team, this only does so with respect to being substituted by a replacement player.&lt;/p&gt;
-
-&lt;p&gt;This led her to creating her own metric. With the help of the tidyverse package she: 1) filtered for players who had an average plate appearance above 300; 2) selected player id, position, Name, Team and all scoring categories; and 3) mutated her data frame with the players information to include a z-score for each scoring category.&lt;/p&gt;
-
-&lt;p&gt;This z-score is used to determine how much better a player performed than the mean for that category. Summing these z-scores provided an overall performance metric for each player in comparison to all other players.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Top MLB Players of 2018&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Using her new metric, Angeline arranged her new data frame in a descending order to find the Top 5 MLB players for 2018:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Mike Trout (Angels) – total z-score: 11.889&lt;/li&gt;
-&lt;li&gt;Giancarlo Stanton (Yankees) – total z-score: 11.869&lt;/li&gt;
-&lt;li&gt;Nolan Arenado (Rockies) – total z-score: 8.766&lt;/li&gt;
-&lt;li&gt;Bryce Harper (Phillies) – total z-score: 8.646&lt;/li&gt;
-&lt;li&gt;Anthony Rizzo (Cubs) – total z-score: 8.343&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/angelinepro/rladiesnyc_may2019&#34; target=&#34;_blank&#34;&gt;Click Here&lt;/a&gt; for the repository with all of Angeline’s code.&lt;/p&gt;
-
-&lt;p&gt;While this only accounts for one part of drafting a fantasy baseball team, this just goes to show that you can use data science for pretty much anything!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies Lightning Talks</title>
-      <link>/post/r-ladies-lighting-talks/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/r-ladies-lighting-talks/</guid>
-      <description>&lt;p&gt;We are hosting a very special event - lightning talks from the R-Ladies community! Come out to hear a variety of R &amp;amp; Data Science talks.&lt;/p&gt;
-
-&lt;p&gt;Date: Wednesday, June 19, 2019&lt;/p&gt;
-
-&lt;p&gt;Time: 6:00pm - 9:00pm&lt;/p&gt;
-
-&lt;p&gt;Speakers: A whole lot of R ladies!&lt;/p&gt;
-
-&lt;p&gt;Host: OppenheimerFunds&lt;/p&gt;
-
-&lt;p&gt;Event Organizers: Brooke Watson, Elizbeth Sweeny&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/262079485/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
