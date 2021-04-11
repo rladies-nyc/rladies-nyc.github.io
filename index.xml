@@ -11,6 +11,28 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>R-Ladies NYC networking social event</title>
+      <link>/post/networking-social-event/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/networking-social-event/</guid>
+      <description>
+
+&lt;p&gt;Though we&amp;rsquo;ll be remote at least through the end of 2020, R-Ladies NYC doesn&amp;rsquo;t want to lose the magic of meetups, where we get to network, socialize, meet new people, and make connections. For our August meetup, we&amp;rsquo;ll be hosting a networking social event where we&amp;rsquo;ll utilize breakout rooms to allow participants to connect (or re-connect) with other members of our community in smaller groups.&lt;/p&gt;
+
+&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page and sent to all attendees at noon on the day of the event.&lt;/p&gt;
+
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
+
+&lt;p&gt;7-7:10: Welcome and R-Ladies NYC Announcements&lt;/p&gt;
+
+&lt;p&gt;7:10-8:30: Breakout room chats (3-5 people, and we&amp;rsquo;ll provide some topics if that helps!)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/272538491/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Q&amp;A with Authors of &#34;Build a Career in Data Science&#34;</title>
       <link>/post/q-a-authors-build-a-career/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
@@ -485,24 +507,6 @@
 &lt;p&gt;Event Organizers: Gabriela Hempfling, Alejandra Gerosa&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/263601076/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Book Club Meeting</title>
-      <link>/post/book-club-how-not-to-be-wrong/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/book-club-how-not-to-be-wrong/</guid>
-      <description>&lt;p&gt;Join us to discuss &lt;a href=&#34;https://kieranhealy.org/publications/dataviz/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Data Visualization: A Practical Introduction&lt;/em&gt;&lt;/a&gt; by Kieran Healy&lt;/p&gt;
-
-&lt;p&gt;Date: Saturday, August 31, 2019&lt;/p&gt;
-
-&lt;p&gt;Time: 2:00pm&lt;/p&gt;
-
-&lt;p&gt;Host: Rizzoli Bookstore, 1133 Broadway (between 25th &amp;amp; 26th)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/263376046/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
