@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on R-Ladies NYC</title>
@@ -7,9 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>event</title>
+      <link>/categories/event/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/event/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>talk</title>
+      <link>/categories/talk/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>blog</title>
@@ -30,24 +45,6 @@
     </item>
     
     <item>
-      <title>datadive</title>
-      <link>/categories/datadive/</link>
-      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/datadive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>event</title>
-      <link>/categories/event/</link>
-      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/event/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>social</title>
       <link>/categories/social/</link>
       <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
@@ -57,20 +54,20 @@
     </item>
     
     <item>
-      <title>talk</title>
-      <link>/categories/talk/</link>
-      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>workshop</title>
       <link>/categories/workshop/</link>
       <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datadive</title>
+      <link>/categories/datadive/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/datadive/</guid>
       <description></description>
     </item>
     

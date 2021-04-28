@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on R-Ladies NYC</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resources for self-guided learning</title>
       <link>/post/resources-for-self-guided-learning/</link>
@@ -76,7 +72,7 @@ First and foremost, I want to thank RLadiesNYC for the scholarship which allowed
       <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/scraping-javascript-websites-in-r/</guid>
-      <description>Background: remixing packages in R Javascript webscraping in R Download PhantomJS using homebrew Writing scrape.js Scraping TheRapBoard.com Extracting audio files Downloading mp3s  Organizing an R package Converting mp3s to wavs Cleaning up and filtering .wav file names Tidying file names Renaming file paths from within R  Remixing the beep() function Wrapping it all into a package Maintaining an open source package in R   Background: remixing packages in R Open source software is made for remixing.</description>
+      <description>Background: remixing packages in RJavascript webscraping in RDownload PhantomJS using homebrewWriting scrape.jsScraping TheRapBoard.comExtracting audio filesDownloading mp3sOrganizing an R packageConverting mp3s to wavsCleaning up and filtering .wav file namesTidying file namesRenaming file paths from within RRemixing the beep() functionWrapping it all into a packageMaintaining an open source package in RBackground: remixing packages in ROpen source software is made for remixing.</description>
     </item>
     
     <item>

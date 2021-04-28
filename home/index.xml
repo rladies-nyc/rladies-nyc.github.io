@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on R-Ladies NYC</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>/home/about/</link>
@@ -47,7 +43,8 @@ Join the R-Ladies NYC Slack team! Email nyc@rladies.org to request an invitation
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/board/</guid>
-      <description>Meet our board members Emily Dodwell (Organizer) Emily Dodwell is a Principal Inventive Scientist in the Data Science and AI Research organization at AT&amp;amp;T Labs, where she currently focuses on predictive modeling for advertising applications, the creation of interactive tools for data analysis and visualization, and research concerning ethics and fairness in machine learning. Emily is an R enthusiast committed to promoting gender diversity in the community, and she is a member of Forwards, the R Foundation task force on women and other underrepresented groups.</description>
+      <description>Meet our board members Emily Dodwell (Organizer) &amp;lt;img src=&amp;quot;/img/emilyd.jpg&amp;quot; style=&amp;ldquo;width:20%&amp;quot;;/&amp;gt;
+Emily Dodwell is a Principal Inventive Scientist in the Data Science and AI Research organization at AT&amp;amp;T Labs, where she currently focuses on predictive modeling for advertising applications, the creation of interactive tools for data analysis and visualization, and research concerning ethics and fairness in machine learning. Emily is an R enthusiast committed to promoting gender diversity in the community, and she is a member of Forwards, the R Foundation task force on women and other underrepresented groups.</description>
     </item>
     
     <item>
@@ -74,7 +71,7 @@ Join the R-Ladies NYC Slack team! Email nyc@rladies.org to request an invitation
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/home/sponsors/</guid>
-      <description></description>
+      <description>&amp;lt;img src=&amp;quot;/img/RConsortium_Horizontal_Pantone.png&amp;quot; style=&amp;ldquo;width:60%&amp;quot;;/&amp;gt;</description>
     </item>
     
   </channel>
