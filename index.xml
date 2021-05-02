@@ -11,6 +11,43 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>R-Ladies NYC Lightning Talks</title>
+      <link>/post/lightning-talks/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lightning-talks/</guid>
+      <description>
+
+&lt;p&gt;We are hosting a very special event - lightning talks from the R-Ladies community! Come out to hear a variety of R and Data Science talks.&lt;/p&gt;
+
+&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page and sent to all attendees at noon on the day of the event.&lt;/p&gt;
+
+&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
+
+&lt;p&gt;7-7:05: Welcome and R-Ladies NYC Announcements&lt;/p&gt;
+
+&lt;p&gt;7:05-8:30: Lightning Talks!&lt;/p&gt;
+
+&lt;h2 id=&#34;presenters&#34;&gt;Presenters:&lt;/h2&gt;
+
+&lt;p&gt;&amp;ldquo;Partial Correlation Networks in R&amp;rdquo; &amp;ndash; Erin McDonnell
+&amp;ldquo;Batch Production of Reports in RMarkdown&amp;rdquo; &amp;ndash; Alyssa Goldberg
+&amp;ldquo;Time Series Analysis of Bird Migrations Above NYC Skies Using bioRad&amp;rdquo; &amp;ndash; Mei Guan
+&amp;ldquo;Webscraping with &amp;lsquo;rvest&amp;rsquo;&amp;rdquo; &amp;ndash; Anisha BharathSingh
+&amp;ldquo;Intro to Latent Variable Modeling&amp;rdquo; &amp;ndash; Apoorva Srinivasan
+&amp;ldquo;Automating Reports with Gmailr&amp;rdquo; &amp;ndash; Samantha Emanuele
+&amp;ldquo;How to create a bookdown book in 5 minutes&amp;rdquo; &amp;ndash; Joyce Robbins
+&amp;ldquo;Model Explainability and Interpretability&amp;rdquo; &amp;ndash; Isabel Zimmerman
+&amp;ldquo;Website Checkout Funnel Analysis in R&amp;rdquo; &amp;ndash; Christina Kim
+&amp;ldquo;The &amp;lsquo;comorbidity&amp;rsquo; package&amp;rdquo; &amp;ndash; Yolanda Barrón
+&amp;ldquo;Using Google Trends data to assess the impact of COVID-19 on suicidality and suicide risk factors&amp;rdquo; &amp;ndash; Emily Halford
+&amp;ldquo;Melvin: a DL-based companion bot&amp;rdquo; &amp;ndash; MaryLena Bleile&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/272069781/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R-Ladies NYC networking social event</title>
       <link>/post/networking-social-event/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
@@ -485,28 +522,6 @@
       
       <guid>/post/build-a-career-in-data-science/</guid>
       <description>&lt;p&gt;R-Ladies NYC is proud and excited that one of our members, &lt;a href=&#34;https://hookedondata.org/&#34; target=&#34;_blank&#34;&gt;Emily Robinson&lt;/a&gt;, is co-authoring a book with a fellow R-lady, &lt;a href=&#34;https://jnolis.com/writing.html&#34; target=&#34;_blank&#34;&gt;Jacqueline Nolis&lt;/a&gt;! The book, &lt;a href=&#34;http://bestbook.cool&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Build a Career in Data Science&lt;/em&gt;&lt;/a&gt;, is available for pre-order, which comes with online access to all currently available chapters (1-9) access to the rest of the chapters as they come out. This book is a practical guide to preparing for, finding, and excelling in a data science role. It&amp;rsquo;s written by two influential people in the R and data science communities and includes interviews from other data scientists, such as Brooke Watson, one of the R-Ladies NYC board members.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Back to WoRk(flows)</title>
-      <link>/post/back-to-workflows/</link>
-      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/back-to-workflows/</guid>
-      <description>&lt;p&gt;Our speakers David Shilane and Madison Volpe will share tools and workflows to increase productivity and integrate R with Tableau.&lt;/p&gt;
-
-&lt;p&gt;Date: Monday, August 26, 2019&lt;/p&gt;
-
-&lt;p&gt;Time: 6:30pm - 8:30pm&lt;/p&gt;
-
-&lt;p&gt;Speakers: David Shilane and Madison Volpe&lt;/p&gt;
-
-&lt;p&gt;Host: AT&amp;amp;T NYC Data Science Research Center&lt;/p&gt;
-
-&lt;p&gt;Event Organizers: Gabriela Hempfling, Alejandra Gerosa&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/263601076/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
