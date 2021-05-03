@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/event/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analyzing Gender Bias with R</title>
+      <link>/post/analyzing-gender-bias-with-r/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/analyzing-gender-bias-with-r/</guid>
+      <description>Details For our October event, R-Ladies Yipeng Lai and Stacy Lansey will share short talks on using R for analyzing gender bias on Wikipedia and learning R through data visualization (which motivated an interesting side project on gender).
+This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.
+Agenda (times approximate): 7-7:05 pm: R-Ladies NYC Announcements 7:05-7:30: &amp;ldquo;Text Analysis in R: Gender Bias in Wikipedia Biographies&amp;rdquo; by Yipeng Lai 7:30-7:55: &amp;ldquo;R is for Resilience: Learning R through Data Visualization&amp;rdquo; by Stacy Lansey 7:55-8:15: Questions and wrap-up</description>
+    </item>
     
     <item>
       <title>Book Club Meeting</title>

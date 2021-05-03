@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/analyzing-gender-bias-with-r/</loc>
+      <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/book-club-how-charts-lie/</loc>
       <lastmod>2020-09-26T00:00:00+00:00</lastmod>
     </url>
@@ -674,16 +683,6 @@
     
     <url>
     
-      <loc>/categories/blog/</loc>
-      <lastmod>2020-04-18T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/blog/</loc>
       <lastmod>2020-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -694,8 +693,8 @@
     
     <url>
     
-      <loc>/categories/bookclub/</loc>
-      <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+      <loc>/categories/blog/</loc>
+      <lastmod>2020-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -714,8 +713,8 @@
     
     <url>
     
-      <loc>/categories/datadive/</loc>
-      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+      <loc>/categories/bookclub/</loc>
+      <lastmod>2020-09-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -734,8 +733,8 @@
     
     <url>
     
-      <loc>/categories/event/</loc>
-      <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+      <loc>/categories/datadive/</loc>
+      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -745,7 +744,7 @@
     <url>
     
       <loc>/tags/event/</loc>
-      <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+      <lastmod>2020-10-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -754,8 +753,8 @@
     
     <url>
     
-      <loc>/categories/social/</loc>
-      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+      <loc>/categories/event/</loc>
+      <lastmod>2020-10-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -774,8 +773,8 @@
     
     <url>
     
-      <loc>/categories/talk/</loc>
-      <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+      <loc>/categories/social/</loc>
+      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -785,7 +784,7 @@
     <url>
     
       <loc>/tags/talk/</loc>
-      <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+      <lastmod>2020-10-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -794,8 +793,8 @@
     
     <url>
     
-      <loc>/categories/workshop/</loc>
-      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+      <loc>/categories/talk/</loc>
+      <lastmod>2020-10-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -805,6 +804,16 @@
     <url>
     
       <loc>/tags/workshop/</loc>
+      <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/workshop/</loc>
       <lastmod>2019-04-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
