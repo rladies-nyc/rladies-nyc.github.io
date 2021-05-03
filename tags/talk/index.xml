@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Join our team! R-Ladies NYC Board Information Session</title>
+      <link>/post/join-our-team-r-ladies-nyc-board-information-session/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/join-our-team-r-ladies-nyc-board-information-session/</guid>
+      <description>Details If getting more involved with your local R-Ladies New York chapter was on your list of 2021 resolutions, here’s your chance! We are looking for new members to join us as event organizers on the R-Ladies NYC Board.
+This information session will be a meet and greet with current board members: we’ll introduce ourselves, explain responsibilities and the expected time commitment of a board member, and highlight initiatives we’d like to pursue in 2021.</description>
+    </item>
+    
+    <item>
+      <title>End-of-Year Celebration for Women and Gender Minorities</title>
+      <link>/post/end-of-year-celebration-for-women-and-gender-minorities/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/end-of-year-celebration-for-women-and-gender-minorities/</guid>
+      <description>Details [Please note: At the request of members of our community for an R-Ladies space exclusively for minority genders, this event is limited to those who identify as such (including but not limited to women, trans men, non-binary, and gender nonconforming individuals). Male allies have been great supporters of our chapter and the R-Ladies mission to promote gender diversity in the R Community &amp;ndash; for which we are grateful! &amp;ndash; and we believe the best way male allies can support us this month is by honoring the need for and benefit of such a space.</description>
+    </item>
     
     <item>
       <title>Q&amp;A with the Authors of &#34;Data Science in Education Using R&#34;</title>
