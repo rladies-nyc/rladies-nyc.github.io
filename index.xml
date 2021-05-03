@@ -11,6 +11,22 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Book Club Meeting</title>
+      <link>/post/book-club-how-charts-lie/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/book-club-how-charts-lie/</guid>
+      <description>&lt;p&gt;Details&lt;/p&gt;
+
+&lt;p&gt;For our September book club, we&amp;rsquo;ll be discussing &amp;ldquo;How Charts Lie: Getting Smarter about Visual Information&amp;rdquo; by Alberto Cairo.&lt;/p&gt;
+
+&lt;p&gt;Zoom link will be available to attendees on the Meetup event page as of 9 am Eastern on September 26th.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/272943459/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R-Ladies NYC Lightning Talks</title>
       <link>/post/lightning-talks-2020/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
@@ -512,16 +528,6 @@
 &lt;p&gt;Event Organizers: Elizabeth Sweeney, Alejandra Gerosa&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/264137849/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Build a Career in Data Science</title>
-      <link>/post/build-a-career-in-data-science/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/build-a-career-in-data-science/</guid>
-      <description>&lt;p&gt;R-Ladies NYC is proud and excited that one of our members, &lt;a href=&#34;https://hookedondata.org/&#34; target=&#34;_blank&#34;&gt;Emily Robinson&lt;/a&gt;, is co-authoring a book with a fellow R-lady, &lt;a href=&#34;https://jnolis.com/writing.html&#34; target=&#34;_blank&#34;&gt;Jacqueline Nolis&lt;/a&gt;! The book, &lt;a href=&#34;http://bestbook.cool&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Build a Career in Data Science&lt;/em&gt;&lt;/a&gt;, is available for pre-order, which comes with online access to all currently available chapters (1-9) access to the rest of the chapters as they come out. This book is a practical guide to preparing for, finding, and excelling in a data science role. It&amp;rsquo;s written by two influential people in the R and data science communities and includes interviews from other data scientists, such as Brooke Watson, one of the R-Ladies NYC board members.&lt;/p&gt;
 </description>
     </item>
     

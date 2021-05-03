@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/bookclub/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Book Club Meeting</title>
+      <link>/post/book-club-how-charts-lie/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/book-club-how-charts-lie/</guid>
+      <description>Details
+For our September book club, we&amp;rsquo;ll be discussing &amp;ldquo;How Charts Lie: Getting Smarter about Visual Information&amp;rdquo; by Alberto Cairo.
+Zoom link will be available to attendees on the Meetup event page as of 9 am Eastern on September 26th.
+Meetup page</description>
+    </item>
     
     <item>
       <title>Book Club Meeting</title>
