@@ -11,6 +11,117 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>From Wrangling to Writing - Analyzing Data and Creating Production-Level Code</title>
+      <link>/post/from-wrangling-to-writing-analyzing-data-and-creating-production-level-code/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/from-wrangling-to-writing-analyzing-data-and-creating-production-level-code/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;For our April event, we will have two guest speakers. Megan Robertson will be talking about how to write production level data science code, while Natalie O&amp;rsquo;Shea will be discussing how to use the nyccensus package and how to wrangle/use census data for equity.&lt;/p&gt;
+
+&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.&lt;/p&gt;
+
+&lt;p&gt;Agenda (times approximate):
+6:05 - 6:10 pm: R-Ladies NYC Announcements
+6:10 - 6:40 : Natalie&amp;rsquo;s talk on NYC Census data with time for Q&amp;amp;A
+6:40-7pm: Megan&amp;rsquo;s talk on creating production level data science code with time for Q&amp;amp;A&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; Talk Abstract &amp;mdash;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Introducing nyccensus: Leveraging Census Data for Equity in NYC&amp;rdquo;
+Speaker: Natalie O&amp;rsquo;Shea&lt;/p&gt;
+
+&lt;p&gt;Abstract: This talk will introduce the nyccensus package and associated Shiny dashboard and share examples of how census data can be leveraged to help address equity issues. The nyccensus package is a simple data-sharing package meant to ease the pains of accessing and wrangling publicly-available response rate data from the 2020 Decennial Census as well as other relevant demographic data from the American Community Survey at various geographic levels in New York City. I will share some lessons learned and examples of how these data can be used to better understand and address equity issues in NYC.&lt;/p&gt;
+
+&lt;p&gt;Bio: Natalie O&amp;rsquo;Shea is a researcher and data visualization specialist with a passion for equity, accessibility, and human-centered design. She started her data science journey during graduate school, falling in love with all things R in her coursework and research. She was part of CUNY&amp;rsquo;s first Data for Public Good cohort before taking a position as a Community Outreach Data Analyst with the NYC Census 2020 initiative and then working as a Data Visualization Specialist at NYC Test &amp;amp; Trace Corps. She is currently working as a Data Visualization Analyst on the Research and Learning Engineering team at Edmentum.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Creating Production Level Data Science Code&amp;rdquo;
+Speaker: Megan Robertson&lt;/p&gt;
+
+&lt;p&gt;Abstract: Writing code is a big part of working as a data scientist. You write code throughout all stages of a project from exploratory data analysis to building models. This talk focuses on creating production code from a proof of concept analysis or model. How do you organize and adapt all the code created to get to a proof of concept? Do you feel overwhelmed by everything you need to do? At the end of this talk you’ll walk away with tips and strategies to make your own production code.&lt;/p&gt;
+
+&lt;p&gt;Bio: Megan Robertson is a Senior Data Scientist at Nike. She has multiple years of experience applying data science in retail settings. She first became interested in math and statistics through sports analytics, and wrote her Master’s thesis in collaboration with an NBA team. Her background includes training in Bayesian methodology, statistical modeling, machine learning and more. Megan has delivered multiple talks on various aspects of data science from building a career and project management to writing code. She is currently writing her first data science book, Mastering Communication in Data Science, in partnership with Manning.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/277533609/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Focus on Content - Create Enterprise-Worthy Shiny Applications with Periscope</title>
+      <link>/post/focus-on-content-create-enterprise-worthy-shiny-applications-with-periscope/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/focus-on-content-create-enterprise-worthy-shiny-applications-with-periscope/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;For our March event, Dr. Connie Brett, the CEO, founder, &amp;amp; principal data scientist of Aggregate Genius, Inc. will talk to us about the Periscope package and enterprise-level Shiny apps!&lt;/p&gt;
+
+&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.&lt;/p&gt;
+
+&lt;p&gt;Agenda (times approximate):
+6:05 - 6:10 pm: R-Ladies NYC Announcements
+6:10 + : Connie&amp;rsquo;s talk on periscope with time for Q&amp;amp;A&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; Talk Abstract &amp;mdash;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Focus on Content: Create Enterprise-Worthy Shiny Applications with Periscope&amp;rdquo;
+Speaker: Dr. Connie Brett&lt;/p&gt;
+
+&lt;p&gt;Abstract: The periscope R package is a framework that you can use to significantly speed up your shiny development – whether you are just writing your first collaborative application or taking on a bigger project that will be deployed to many users. Periscope can significantly &amp;ldquo;up&amp;rdquo; your Shiny game by jump-starting development in a way that is flexible and robust. This lets you focus on the content of your application, as opposed to the mechanics (and those insidious pitfalls!) of building a shiny application for multiple users.&lt;/p&gt;
+
+&lt;p&gt;Bio: Dr. Connie Brett is the CEO, Founder, and Principal Data Scientist of Aggregate Genius Inc. located in BC, Canada. She is experienced in using many types of models and algorithms as well as architecting cutting-edge big-data analytics-integrated platforms. She has submitted publications and patents; contributes to and maintains R packages and frameworks (such as periscope) in the open-source community; and attends and speaks at industry events. With over 20 years spent focusing on producing solid analytical models, software and visualization tools – as well as custom IT solutions architecture – she continues to carry forward her passion for helping clients realize true business insights from analytics.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/276969681/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tidy Tuesday Code-laboration</title>
+      <link>/post/tidy-tuesday-code-laboration/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/tidy-tuesday-code-laboration/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;Join us for a collaborative exploration of the &lt;a href=&#34;https://github.com/rfordatascience/tidytuesday&#34; target=&#34;_blank&#34;&gt;Tidy Tuesday&lt;/a&gt; dataset of the week! First, we will have a short demo of working through a previous Tidy Tuesday dataset, led by Ludmila Janda. Then we will work in groups to do some exploration and visualization of the dataset of the week and then we will come together to share our work. No preparation is necessary but participants are welcome to check out the dataset(s) and come with any ideas they may have.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page the morning of the event. We will request your email address upon registration to ensure you receive the Zoom passcode on the day of the event.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/276630718/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Book Club</title>
+      <link>/post/r-ladies-book-club-data-feminism/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-book-club-data-feminism/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;Details
+For our February book club, we&amp;rsquo;ll be discussing &amp;ldquo;Data Feminism&amp;rdquo; by Catherine D&amp;rsquo;Ignazio and Lauren F. Klein.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page the morning of the event. We will request your email address upon registration to ensure you receive the Zoom passcode on the day of the event.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/276116912/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Join our team! R-Ladies NYC Board Information Session</title>
       <link>/post/join-our-team-r-ladies-nyc-board-information-session/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
@@ -378,208 +489,6 @@ Speaker: Stacy Lansey&lt;/p&gt;
 &lt;p&gt;Sharla&amp;rsquo;s blog is &lt;a href=&#34;https://sharla.party&#34; target=&#34;_blank&#34;&gt;https://sharla.party&lt;/a&gt;. You can also find her on &lt;a href=&#34;https://github.com/sharlagelfand&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/sharlagelfand&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/270210924/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Resources for self-guided learning</title>
-      <link>/post/resources-for-self-guided-learning/</link>
-      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/resources-for-self-guided-learning/</guid>
-      <description>
-
-&lt;p&gt;As New Yorkers do all we can to stay well in the times of coronavirus, all of our routines have changed. For some of us, this may mean more time devoted to strengthening our data skills. If this is you, here is a collection of resources that can get you up and running with learning a new skill in R. These were originally compiled for the R-Ladies NYC Code-llaboration Hangout back in January, and are organized by topic: &lt;a href=&#34;#tidy-tuesday&#34;&gt;Tidy Tuesday&lt;/a&gt;, &lt;a href=&#34;#building-a-package&#34;&gt;Building a Package&lt;/a&gt;, &lt;a href=&#34;#building-a-website&#34;&gt;Building a Website&lt;/a&gt;, &lt;a href=&#34;#forecasting-and-time-series-analysis&#34;&gt;Time Series Analysis&lt;/a&gt; and &lt;a href=&#34;#everything-else&#34;&gt;Everything Else&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;tidy-tuesday&#34;&gt;Tidy Tuesday&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Introduction, guidelines and datasets: &lt;a href=&#34;https://github.com/rfordatascience/tidytuesday&#34; target=&#34;_blank&#34;&gt;Official Repo for the #tidytuesday project&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The&lt;/em&gt; book on how to transform and visualize data with R: &lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Slides from Luda Janda’s ggplot talk at the NYC Open Statistical Programming Meetup: &lt;a href=&#34;https://raw.githack.com/ljanda/nyhackr_talk_2019_09_19/master/ny_hackr_talk_2019_09_19.html#1&#34; target=&#34;_blank&#34;&gt;the ggplot glow-up&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Other dataviz and ggplot resources:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html&#34; target=&#34;_blank&#34;&gt;Data carpentry&amp;rsquo;s Data Visualization with ggplot2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://r-statistics.co/ggplot2-Tutorial-With-R.html&#34; target=&#34;_blank&#34;&gt;How to make any plot in ggplot2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;building-a-package&#34;&gt;Building a Package&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Tutorial: &lt;a href=&#34;http://raw.githack.com/Seborinos/rladiesnyc_package_workshop/master/rladiesnyc_package_workshop.html#1&#34; target=&#34;_blank&#34;&gt;Slides from Sebastian Teran Hidalgo’s R-Ladies talk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Other resources:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://r-mageddon.netlify.com/post/writing-an-r-package-from-scratch/&#34; target=&#34;_blank&#34;&gt;Another tutorial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://r-pkgs.had.co.nz/&#34; target=&#34;_blank&#34;&gt;Hadley Wickham&amp;rsquo;s book on R packages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html&#34; target=&#34;_blank&#34;&gt;Understanding roxygen2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;About writing good functions
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://stat545.com/functions-part1.html&#34; target=&#34;_blank&#34;&gt;Jenny Byran&amp;rsquo;s wisdom&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://r4ds.had.co.nz/functions.html&#34; target=&#34;_blank&#34;&gt;Functions in Hadley Wickham&amp;rsquo;s R for Data Science&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://swcarpentry.github.io/r-novice-inflammation/02-func-R/&#34; target=&#34;_blank&#34;&gt;Creating Functions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;building-a-website&#34;&gt;Building a Website&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Tutorial: &lt;a href=&#34;https://www.storybench.org/how-to-build-a-website-with-blogdown-in-r/&#34; target=&#34;_blank&#34;&gt;How to build a website with Blogdown in R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Other resources:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;THE&lt;/em&gt; book about blogdown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://alison.rbind.io/post/2019-03-04-hugo-troubleshooting/&#34; target=&#34;_blank&#34;&gt;Excellent troubleshooting tips&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html#personal_website&#34; target=&#34;_blank&#34;&gt;Another way of building websites with r (with rmarkdown and github hosting)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Additional reference by Alison Hill:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/&#34; target=&#34;_blank&#34;&gt;Up &amp;amp; Running with blogdown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://alison.rbind.io/post/2019-02-21-hugo-page-bundles/&#34; target=&#34;_blank&#34;&gt;A Spoonful of Hugo: Page Bundles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://alison.rbind.io/post/2019-02-19-hugo-netlify-toml/&#34; target=&#34;_blank&#34;&gt;A Spoonful of Hugo: The netlify.toml File&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://alison.rbind.io/post/2019-02-19-hugo-archetypes/&#34; target=&#34;_blank&#34;&gt;A Spoonful of Hugo: Archetypes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;forecasting-and-time-series-analysis&#34;&gt;Forecasting and Time Series Analysis&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Intro to Time Series Forecasting ARIMA Modeling:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/&#34; target=&#34;_blank&#34;&gt;A Complete Tutorial on Time Series Modeling in R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.pluralsight.com/guides/time-series-forecasting-using-r&#34; target=&#34;_blank&#34;&gt;Time Series Forecasting Using R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://r-statistics.co/Time-Series-Forecasting-With-R.html&#34; target=&#34;_blank&#34;&gt;Time Series Forecasting&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html&#34; target=&#34;_blank&#34;&gt;Using R for Time Series Analysis&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/c/web-traffic-time-series-forecasting&#34; target=&#34;_blank&#34;&gt;Test out your skills with this Kaggle competition&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://otexts.com/fpp3/tsibble-objects.html&#34; target=&#34;_blank&#34;&gt;tsibble Objects&lt;/a&gt; (bonus link, thanks Emily Robinson!)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;everything-else&#34;&gt;Everything Else&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Getting started:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://stat545.com/install.html&#34; target=&#34;_blank&#34;&gt;Jenny Bryan&amp;rsquo;s class on &lt;em&gt;Data wrangling, exploration, and analysis with R&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34;&gt;Hadley Wickham &amp;amp; Garrett Grolemund&amp;rsquo;s &lt;em&gt;R for Data Science&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ourcodingclub.github.io/2016/11/13/intro-to-r.html&#34; target=&#34;_blank&#34;&gt;Getting Started with R and RStiudio&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://happygitwithr.com/&#34; target=&#34;_blank&#34;&gt;Working with Git and github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Maps
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html&#34; target=&#34;_blank&#34;&gt;With tmap&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.littlemissdata.com/blog/maps&#34; target=&#34;_blank&#34;&gt;With Google&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rstudio.github.io/leaflet/&#34; target=&#34;_blank&#34;&gt;With leaflet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tidytextmining.com/&#34; target=&#34;_blank&#34;&gt;Text mining&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>timetrackR and gtsummary</title>
-      <link>/post/timetrackr-and-gtsummary/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/timetrackr-and-gtsummary/</guid>
-      <description>
-
-&lt;p&gt;Our speakers for the night will be Jessica Lavery and Margie Hannum from Memorial Sloan Kettering Cancer Center. Jessica will be talking about the timetrackR app. Margie will be discussing the gtsummary package.&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;p&gt;6:30-6:55 pm Introductions and Social Time&lt;/p&gt;
-
-&lt;p&gt;6:55-7 pm R-Ladies New York Announcements&lt;/p&gt;
-
-&lt;p&gt;7-7:10 Sponsor Message from IBM Developer New York&lt;/p&gt;
-
-&lt;p&gt;7:10-7:40 It&amp;rsquo;s Time to Shine with timetrackR App, Jessica Lavery&lt;/p&gt;
-
-&lt;p&gt;7:40-8:10 Creating publication-ready and reproducible analytical tables with gtsummary, Margie Hannum&lt;/p&gt;
-
-&lt;p&gt;8:10-8:30 Networking&lt;/p&gt;
-
-&lt;h2 id=&#34;title-it-s-time-to-shine-with-the-timetrackr-app&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt; It’s Time to Shine with the timetrackR App&lt;/h2&gt;
-
-&lt;h2 id=&#34;presenter-jessica-lavery&#34;&gt;&lt;strong&gt;Presenter:&lt;/strong&gt; Jessica Lavery&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; While tracking time may seem like a mundane task that in and of itself consumes your time, if monitored and assessed regularly it can be useful to create a record of your work and to identify potential areas for improving efficiency. The timetrackR Shiny app provides a high-level summary of active, inactive and upcoming projects, as well as visualizations for the percentage of time spent by project or project investigator, number of hours spent on each project, and a timeline framing each project’s trajectory from planning through analysis and manuscript preparation. With the option to filter by year, investigator and analyst, the app is versatile enough to use for an individual or for an entire team as well as for use on a regular basis and for year-end or longer-term reviews of how time was spent. I will highlight the key features of the app and demonstrate how to integrate into your current workflow.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; Jessica Lavery is a Biostatistician in the Department of Epidemiology and Biostatistics at Memorial Sloan Kettering Cancer Center. She has an MS in Biostatistics from the University of North Carolina at Chapel Hill (2014) and as of Fall 2019 is also pursuing a doctorate in public health (DrPH) in Biostatistics at Columbia University. Her research focuses primarily on retrospective analyses using institutional and claims data sources. She also serves as the[masked] Volunteer Coordinator for the Caucus for Women in Statistics. Follow her on Twitter @jessicalavs&lt;/p&gt;
-
-&lt;h2 id=&#34;title-creating-publication-ready-and-reproducible-analytical-tables-with-gtsummary&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt; Creating publication-ready and reproducible analytical tables with gtsummary&lt;/h2&gt;
-
-&lt;h2 id=&#34;presenter-margie-hannum&#34;&gt;&lt;strong&gt;Presenter:&lt;/strong&gt; Margie Hannum&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; A critical aspect of many data analysis projects is presenting tables of summary statistics and regression model results. However, summarizing results into publication-ready tables often requires a lot of extra code to customize (e.g. create reference line for categorical variables, format p-values a certain way, bold variable labels, merge multiple model results into one table, etc.). The {gtsummary} package provides an elegant and flexible way to make summary and analytic tables in R. Written as a companion to the {gt} package from RStudio, the {gtsummary} package summarizes data sets, regression models, and more, using sensible defaults with highly customizable capabilities. It also allows you to pull values straight from these tables for use in inline text so that every portion of your R markdown analysis report is reproducible. This talk will go over the functionality of the {gtsummary} package, and how you can use it to create beautifully formatted, ready-to-share summary and result tables in a single line of R code.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; Margie Hannum is a Biostatistician at Memorial Sloan Kettering Cancer Center in the Department of Epidemiology and Biostatistics. Her research collaborations largely involve using multi-modal genomic and single cell data to characterize cancer subpopulations. She contributes to the {gtsummary} package and uses it every day in her analysis pipelines. Twitter: @Margaret_Hannum&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/268481404/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies Code-llaboration Hangout</title>
-      <link>/post/r-ladies-code-llaboration-hangout/</link>
-      <pubDate>Mon, 13 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/r-ladies-code-llaboration-hangout/</guid>
-      <description>&lt;p&gt;We&amp;rsquo;ll kick off the year with a hands-on working session where we&amp;rsquo;ll work together on our own projects or tutorials.&lt;/p&gt;
-
-&lt;p&gt;Come in curious about a subject or looking to make progress on a project you&amp;rsquo;re working on!&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;ll divide ourselves into groups who&amp;rsquo;ll be working on similar topics, and we&amp;rsquo;ll have prompts and tutorials at hand for those who don&amp;rsquo;t have a particular project in mind.&lt;/p&gt;
-
-&lt;p&gt;We believe that by collaborating with other R-Ladies who share your curiosity you’ll get much further than you would at home with google, and that even if you don’t have a set goal you’ll learn through sharing and receiving tips and tricks.&lt;/p&gt;
-
-&lt;p&gt;All experience levels welcome!&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;ll have five groups, for those working on projects related to:
-1. Making your website with R and blogdown
-2. Building a package
-3. Tidy Tuesday
-4. Forecasting with time series data
-5. Everything else!&lt;/p&gt;
-
-&lt;p&gt;Thank you to AT&amp;amp;T for hosting us and the R Conference and Lander Analytics for sponsoring pizza.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/267543818/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>End-of-Year Celebration with Jenny Bryan</title>
-      <link>/post/eoy-celebration-jenny-bryan/</link>
-      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/eoy-celebration-jenny-bryan/</guid>
-      <description>&lt;p&gt;To close out 2019, we are thrilled to welcome Jenny Bryan for our R-Ladies New York end-of-year celebration and social! In the potluck tradition of year-end socials past, you are welcome to bring a dessert. Thank you to WarnerMedia for hosting us.&lt;/p&gt;
-
-&lt;p&gt;Agenda:&lt;/p&gt;
-
-&lt;p&gt;6:30-6:55 pm Introductions and socializing&lt;/p&gt;
-
-&lt;p&gt;6:55-7 R-Ladies New York Announcements&lt;/p&gt;
-
-&lt;p&gt;7-7:10 Welcome from WarnerMedia&lt;/p&gt;
-
-&lt;p&gt;7:10-7:45 Jenny Bryan on debugging and troubleshooting&lt;/p&gt;
-
-&lt;p&gt;7:45-8:30 Socializing and networking&lt;/p&gt;
-
-&lt;p&gt;Jenny Bryan is a Software Engineer and Data Scientist at RStudio and an Adjunct Professor of Statistics at the University of British Columbia with a Ph.D. in Biostatistics from the University of California, Berkeley. She works on a team that develops open source R packages to make data science faster, easier and more fun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/266608462/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
