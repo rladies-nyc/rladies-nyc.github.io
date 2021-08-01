@@ -11,6 +11,74 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Creating model en mass with workflowsets</title>
+      <link>/post/creating-model-en-mass-with-workflowsets/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/creating-model-en-mass-with-workflowsets/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;For our second July event, we are excited to host Max Kuhn of RStudio who will be presenting on the workflowsets package.&lt;/p&gt;
+
+&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.&lt;/p&gt;
+
+&lt;p&gt;Agenda (times approximate):
+7-7:05 pm: R-Ladies NYC Announcements
+7:05-7:50: &amp;ldquo;Creating model en mass with workflowsets&amp;rdquo;
+7:50-8:15: Questions and wrap-up&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; Talk Abstract &amp;mdash;&lt;/p&gt;
+
+&lt;p&gt;Abstract: The tidymodels packages allow users to create and optimize models and their pre-processing steps (e.g. PCA, feature encodings, etc). With new data, it is common to try a variety of models to determine what works best. The workflowsets package enables users to easily evaluate, rank, and even combine (with the stacks package) myriad combinations of models and pre-processors. the community.&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; Bio &amp;mdash;&lt;/p&gt;
+
+&lt;p&gt;Bio: Max Kuhn is a software engineer at RStudio. He is currently working on improving R&amp;rsquo;s modeling capabilities. He was a Senior Director of Nonclinical Statistics at Pfizer Global R&amp;amp;D in Connecticut. He was applying models in the pharmaceutical and diagnostic industries for over 18 years. Max has a Ph.D. in Biostatistics.&lt;/p&gt;
+
+&lt;p&gt;Max is the author of R packages for techniques in machine learning and reproducible research. He, and Kjell Johnson, wrote the book Applied Predictive Modeling, which won the Ziegel award from the American Statistical Association, which recognizes the best book reviewed in Technometrics in 2015. Their latest book, Feature Engineering and Selection, was published in 2019.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/279465886/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Epidemiologist R Handbook</title>
+      <link>/post/the-epidemiologist-r-handbook/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-epidemiologist-r-handbook/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;For our July event, we are excited to host authors Neale Batra, Aminata Ndiaye, and Paula Blomquist, who will present the Epidemiologist R Handbook, a free new code reference book targeted to R users working in applied epidemiology and public health, but handy for anyone.&lt;/p&gt;
+
+&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.&lt;/p&gt;
+
+&lt;p&gt;Agenda (times approximate):
+7-7:05 pm: R-Ladies NYC Announcements
+7:05-7:50: &amp;ldquo;The Epidemiologist R Handbook - a new resource for public health practitioners (and everyone else)&amp;rdquo;
+7:50-8:15: Questions and wrap-up&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; Talk Abstract &amp;mdash;&lt;/p&gt;
+
+&lt;p&gt;Abstract: Amidst the COVID-19 pandemic, 50 epidemiologists from across the world joined forces seeking to improve access to R and elevate the quality of analytics in public health. Writing in their spare time, they produced The Epidemiologist R Handbook (epiRhandbook.com), a free new code reference book targeted to R users working in applied epidemiology and public health, but handy for anyone. The &amp;ldquo;Epi R Handbook&amp;rdquo; is full of code snippets and tutorials addressing day-to-day data cleaning, analysis, visualization, reporting, and collaboration challenges. The handbook also comes in an offline version for use in settings with low internet connectivity. Since its launch, the handbook has been used 200,000 times by 36,000 people in 203 countries/territories. In this session, founder Neale Batra is joined by co-authors Paula Blomquist and Aminata Ndiaye to discuss the handbook&amp;rsquo;s utility for you, the intersection of R and public health, the project&amp;rsquo;s next steps, and the editorial and technical challenges they faced creating this resource for the community.&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; Bios &amp;mdash;&lt;/p&gt;
+
+&lt;p&gt;Neale Batra is the founder and editor of the Epidemiologist R Handbook project. As an applied epidemiologist, he tries to leverage R to better inform decision-making in health emergencies. Currently he works for the COVID-19 analytics team at the World Health Organization (Geneva), but has previously worked internationally for Doctors without Borders and in the US for the public health departments of Philadelphia and Santa Clara County. He loves teaching, and in his spare time enjoys guiding rock climbing and backpacking trips.&lt;/p&gt;
+
+&lt;p&gt;Paula Blomquist is an epidemiologist in Public Health England, where she works on the national surveillance of COVID-19. She spends much of her day job creating data visualisations and R markdown reports to monitor variants, with a particular fondness of {patchwork} and {flextable}. Paula has also used R for analyses in international deployments, most recently with the UK Emergency Medical Team to Samoa during the 2019 measles epidemic. Paula is a contributor to the Epidemiologist R Handbook, and excited to encourage more people in public health to learn to code.&lt;/p&gt;
+
+&lt;p&gt;Aminata NDIAYE is a Biostatistician at Epicentre Research Department-MSF (Doctors without Borders). She graduated from Paris Descartes University School of Medicine in Public health and from Paris Saclay University School of Sciences in Bioinformatics and Biostatistics. She previously worked at World Health Organization (WHO) as an analyst during the 10th Ebola virus disease (EVD) outbreak in the Democratic Republic of the Congo (DRC) and at Karolinska Institute’s department of medical epidemiology and biostatistics as a Research assistant. She is co-organizer and member of the R-ladies Stockholm group since its creation, in 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/278990032/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Data Visualization - Color Palettes, Themes, and Schemes</title>
       <link>/post/data-visualization-color-palettes-themes-and-schemes/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
@@ -401,92 +469,6 @@ Speaker: Stacy Lansey&lt;/p&gt;
 &lt;p&gt;Dr. Jacqueline Nolis is a principal data scientist at Brightloom where she creates models to help restaurants and retailers improve the customer experience. She has a PhD in Industrial Engineering, and has over a decade of experience with helping companies use data, ranking from DSW to Airbnb. For fun Jacqueline likes to use data science for humor—like using deep learning to generate offensive license plates.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/271928063/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Leading R Trainings &amp; Prototyping with flexdashboards</title>
-      <link>/post/leading-trainings-prototyping/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/leading-trainings-prototyping/</guid>
-      <description>
-
-&lt;p&gt;Our very own R-Ladies NYC board members Erin Grand and Kaelen Medeiros will give two short talks this month on leading R trainings for coworkers and flexdashboard!&lt;/p&gt;
-
-&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page and sent to all attendees at noon on the day of the event.&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;p&gt;7-7:05 pm: R-Ladies NYC Announcements&lt;/p&gt;
-
-&lt;p&gt;7:05-7:30: &amp;ldquo;Leading R Trainings for Coworkers&amp;rdquo; by Erin Grand&lt;/p&gt;
-
-&lt;p&gt;7:30-7:55: &amp;ldquo;flexdashboard for Prototyping and Profit&amp;rdquo; by Kaelen Medeiros&lt;/p&gt;
-
-&lt;p&gt;7:55-8:15: Questions and wrap-up&lt;/p&gt;
-
-&lt;h2 id=&#34;title-leading-r-trainings-for-coworkers&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt; Leading R Trainings for Coworkers&lt;/h2&gt;
-
-&lt;h2 id=&#34;presenter-erin-grand&#34;&gt;&lt;strong&gt;Presenter:&lt;/strong&gt; Erin Grand&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Erin has lead a set of 6+ R trainings for her coworkers ranging from &amp;ldquo;Introduction to Tidyverse&amp;rdquo; to &amp;ldquo;Using SQL and R Together.&amp;rdquo; Leading such trainings, while using many of the same teaching skills, offer different challenges from teaching in a workshop or classroom setting. Erin will discuss the Why&amp;rsquo;s, How&amp;rsquo;s, and Best Practices she&amp;rsquo;s learned over the past few years of leading trainings.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; Erin works as a Data Scientist at Uncommon Schools where she trains coworkers in R as well as maintaining two R packages. Prior to Uncommon, she worked as a Data Scientist at Crisis Text Line, and a software programmer at NASA while completing her Data Science Masters at Columbia University. Before data science, Erin researched star formation and taught introductory courses in astronomy and physics at the University of Maryland.&lt;/p&gt;
-
-&lt;h2 id=&#34;title-flexdashboard-for-prototyping-and-profit&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt; flexdashboard for Prototyping and Profit&lt;/h2&gt;
-
-&lt;h2 id=&#34;presenter-kaelen-medeiros&#34;&gt;&lt;strong&gt;Presenter:&lt;/strong&gt; Kaelen Medeiros&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The flexdashboard package allows you to build Shiny dashboards quickly using a RMarkdown document. This is advantageous in situations where you need to prototype a data product (often a dashboard or interactive report) and need to sell stakeholders on the value of the product built. Kaelen will talk about the basics of using flexdashboard and then give tips on utilizing it to build data product MVPs (minimum viable products) to communicate vision to stakeholders, plus discuss flexdashboard extensions and how to go about converting your flexdash to a Shiny dashboard (if you&amp;rsquo;re ready or even need to!)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; Kaelen is a data scientist at Medidata Solutions where they work as an R programmer on the microservices team. They&amp;rsquo;ve also worked at Spring Health, DataCamp, HERE Technologies, and have done a fair amount of R and Shiny consulting on the side. Kaelen was at various times a film theorist, preschool teacher, test prep tutor, videographer, and nanny before getting a MS in biostatistics from LSU Health Sciences Center in 2016 and starting to work as a statistician and data scientist. They have a cat named Scully and enjoy talking about podcats, aliens, data, and would love to see a photo of your pet if you&amp;rsquo;re sharing.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/271374747/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mappy Hour with R-Ladies: Spatial Data Analysis in R</title>
-      <link>/post/mappy-hour/</link>
-      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/mappy-hour/</guid>
-      <description>
-
-&lt;p&gt;Our very own Ayanthi Gunawardana and R-Ladies Chicago board member Angela Li join us this month to talk spatial statistics in R!&lt;/p&gt;
-
-&lt;p&gt;This event will be hosted over Zoom, and a link will be sent to all attendees at noon on the day of the event.&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;p&gt;7-7:05 pm: R-Ladies NYC Announcements&lt;/p&gt;
-
-&lt;p&gt;7:05-7:30: &amp;ldquo;Uncharted Territory: An Introduction to Making Clear and Accurate Maps&amp;rdquo; by Ayanthi Gunawardana&lt;/p&gt;
-
-&lt;p&gt;7:30-7:55: &amp;ldquo;How to Be a Resilient Geospatial R useR: First Steps, Learning More, and the Spatial R-Ladies Community&amp;rdquo; by Angela Li&lt;/p&gt;
-
-&lt;p&gt;7:55-8:15: Questions and wrap-up&lt;/p&gt;
-
-&lt;h2 id=&#34;title-uncharted-territory-an-introduction-to-making-clear-and-accurate-maps&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt; Uncharted Territory: An Introduction to Making Clear and Accurate Maps&lt;/h2&gt;
-
-&lt;h2 id=&#34;presenter-ayanthi-gunawardana&#34;&gt;&lt;strong&gt;Presenter:&lt;/strong&gt; Ayanthi Gunawardana&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Over the course of a decade, maps have gone from folded paper booklets inside the glove compartment of a car to having a map of the entire world inside everyone’s smartphone. As more spatial data becomes available, maps are no longer simple representations of places on Earth; maps now include visualizations of a wide range of newly available spatial datasets. We collect more and more data with location information, but does this mean that this information belongs on a map? I will cover some basic principles of good cartography and what to keep in mind when creating a map.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; Ayanthi is a Data and Research Analyst at the New York City Department of Transportation, where she analyzes car crash data to inform street safety projects and street redesign. Ayanthi has a Masters in City and Regional Planning from Rutgers University, which sparked her interest in maps and data. When she&amp;rsquo;s not looking at maps, you can find Ayanthi at Brazilian Jiu Jitsu class (pre pandemic) or cooking something spicy (all the time).&lt;/p&gt;
-
-&lt;h2 id=&#34;title-how-to-be-a-resilient-geospatial-r-user-first-steps-learning-more-and-the-spatial-r-ladies-community&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt; How to Be a Resilient Geospatial R useR: First Steps, Learning More, and the Spatial R-Ladies Community&lt;/h2&gt;
-
-&lt;h2 id=&#34;presenter-angela-li&#34;&gt;&lt;strong&gt;Presenter:&lt;/strong&gt; Angela Li&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Learning to work with geospatial data in R can be challenging, but the right resources and open-source community can help whether you’re starting out with spatial data or moving your spatial analysis workflow to R. I’ll cover how you can get started with geospatial analysis in R, common questions and challenges I’ve seen, and where you can turn when you get stuck. I’ll draw insights from my experiences working 1-on-1 with researchers, teaching and assisting with spatial R workshops, and fielding questions from the #rspatialchat Twitter hashtag. Finally, I’ll discuss next steps for R-Ladies in the #rspatial community and talk about how we can help each other become better spatial data practitioners together.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; Angela is a researcher and the R Spatial Advocate at the Center for Spatial Data Science at the University of Chicago. She has a background in spatial analysis, econometrics, and public policy. Prior to her current position, she worked at a startup focused on mobility and conducted research on housing and demolition in Detroit. She is currently researching the opioid epidemic in America, working with public health experts to better understand access to treatment. She is passionate about creating opportunities for underrepresented minorities to advance their data science and spatial thinking skills, starting R-Ladies Chicago and the #rspatialchat hashtag on Twitter, among other projects. She is a huge fan of the New York Times crossword.&lt;/p&gt;
-
-&lt;p&gt;Angela’s website is &lt;a href=&#34;angela-li.github.io&#34; target=&#34;_blank&#34;&gt;angela-li.github.io&lt;/a&gt;. You can also find her on Github at &lt;a href=&#34;https://github.com/angela-li&#34; target=&#34;_blank&#34;&gt;@angela-li&lt;/a&gt; and Twitter &lt;a href=&#34;https://twitter.com/CivicAngela&#34; target=&#34;_blank&#34;&gt;@CivicAngela&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/270611485/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/event/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creating model en mass with workflowsets</title>
+      <link>/post/creating-model-en-mass-with-workflowsets/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/creating-model-en-mass-with-workflowsets/</guid>
+      <description>Details For our second July event, we are excited to host Max Kuhn of RStudio who will be presenting on the workflowsets package.
+This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.
+Agenda (times approximate): 7-7:05 pm: R-Ladies NYC Announcements 7:05-7:50: &amp;ldquo;Creating model en mass with workflowsets&amp;rdquo; 7:50-8:15: Questions and wrap-up
+&amp;mdash; Talk Abstract &amp;mdash;</description>
+    </item>
+    
+    <item>
+      <title>The Epidemiologist R Handbook</title>
+      <link>/post/the-epidemiologist-r-handbook/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-epidemiologist-r-handbook/</guid>
+      <description>Details For our July event, we are excited to host authors Neale Batra, Aminata Ndiaye, and Paula Blomquist, who will present the Epidemiologist R Handbook, a free new code reference book targeted to R users working in applied epidemiology and public health, but handy for anyone.
+This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.</description>
+    </item>
     
     <item>
       <title>Data Visualization - Color Palettes, Themes, and Schemes</title>
