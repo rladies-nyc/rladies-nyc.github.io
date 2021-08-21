@@ -11,6 +11,26 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>R-Ladies Book Club - Algorithms of Oppression</title>
+      <link>/post/r-ladies-book-club-algorithms-of-oppression/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-book-club-algorithms-of-oppression/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;For our August book club, we&amp;rsquo;ll be discussing &amp;ldquo;Algorithms of Oppression: How Search Engines Reinforce Racism&amp;rdquo; by Safiya Umoja Noble.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Important Update&lt;/strong&gt;: While this month&amp;rsquo;s Book Club was originally scheduled to be in person, in light of oppressive heat this week in NYC and expected thunderstorms throughout the afternoon of Saturday, August 14th, this will now be an online event. The zoom link will be available on this page Saturday morning, and a message with the meeting passcode will go out at that time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/279410109/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Creating model en mass with workflowsets</title>
       <link>/post/creating-model-en-mass-with-workflowsets/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
@@ -437,38 +457,6 @@ Speaker: Stacy Lansey&lt;/p&gt;
 &lt;p&gt;7:10-8:30: Breakout room chats (3-5 people, and we&amp;rsquo;ll provide some topics if that helps!)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/272538491/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Q&amp;A with Authors of &#34;Build a Career in Data Science&#34;</title>
-      <link>/post/q-a-authors-build-a-career/</link>
-      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/q-a-authors-build-a-career/</guid>
-      <description>
-
-&lt;p&gt;Authors of &amp;ldquo;Build a Career in Data Science&amp;rdquo; Emily Robinson and Jacqueline Nolis will read selections from their book and discuss why they were meaningful and what thinking went into making it. In this session you’ll learn about some of the higher-level thinking that went into designing a book to help people excel in their data science careers, as well as hear stories from Emily and Jacqueline’s pasts that ended up shaping the narrative. After Emily and Jacqueline discuss their book, the floor will open so anyone can ask their data science career questions!&lt;/p&gt;
-
-&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page and sent to all attendees at noon on the day of the event.&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;p&gt;7-7:05 pm: R-Ladies NYC Announcements&lt;/p&gt;
-
-&lt;p&gt;7:05-7:40: Emily &amp;amp; Jacqueline talk about their book&lt;/p&gt;
-
-&lt;p&gt;7:40-8:15: Audience Q&amp;amp;A&lt;/p&gt;
-
-&lt;p&gt;8:15-8:20: Wrap-up&lt;/p&gt;
-
-&lt;h2 id=&#34;speaker-bios&#34;&gt;&lt;strong&gt;Speaker Bios&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Emily Robinson is a senior data scientist at Warby Parker, where she works on a centralized team tackling some of the company&amp;rsquo;s projects. She previously worked at DataCamp, where she built and ran their experimentation analytics system, and at Etsy, where she worked with their search team.&lt;/p&gt;
-
-&lt;p&gt;Dr. Jacqueline Nolis is a principal data scientist at Brightloom where she creates models to help restaurants and retailers improve the customer experience. She has a PhD in Industrial Engineering, and has over a decade of experience with helping companies use data, ranking from DSW to Airbnb. For fun Jacqueline likes to use data science for humor—like using deep learning to generate offensive license plates.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/271928063/&#34; target=&#34;_blank&#34;&gt;Meetup event&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

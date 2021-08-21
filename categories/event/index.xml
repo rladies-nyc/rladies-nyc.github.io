@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/event/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R-Ladies Book Club - Algorithms of Oppression</title>
+      <link>/post/r-ladies-book-club-algorithms-of-oppression/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-book-club-algorithms-of-oppression/</guid>
+      <description>Details For our August book club, we&amp;rsquo;ll be discussing &amp;ldquo;Algorithms of Oppression: How Search Engines Reinforce Racism&amp;rdquo; by Safiya Umoja Noble.
+Important Update: While this month&amp;rsquo;s Book Club was originally scheduled to be in person, in light of oppressive heat this week in NYC and expected thunderstorms throughout the afternoon of Saturday, August 14th, this will now be an online event. The zoom link will be available on this page Saturday morning, and a message with the meeting passcode will go out at that time.</description>
+    </item>
     
     <item>
       <title>Creating model en mass with workflowsets</title>
