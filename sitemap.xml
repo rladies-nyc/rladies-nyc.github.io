@@ -782,16 +782,6 @@
     
     <url>
     
-      <loc>/categories/blog/</loc>
-      <lastmod>2020-04-18T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/blog/</loc>
       <lastmod>2020-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -802,8 +792,8 @@
     
     <url>
     
-      <loc>/categories/bookclub/</loc>
-      <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+      <loc>/categories/blog/</loc>
+      <lastmod>2020-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -822,8 +812,8 @@
     
     <url>
     
-      <loc>/categories/datadive/</loc>
-      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+      <loc>/categories/bookclub/</loc>
+      <lastmod>2021-08-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -842,8 +832,8 @@
     
     <url>
     
-      <loc>/categories/event/</loc>
-      <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+      <loc>/categories/datadive/</loc>
+      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -862,8 +852,8 @@
     
     <url>
     
-      <loc>/categories/social/</loc>
-      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+      <loc>/categories/event/</loc>
+      <lastmod>2021-08-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -882,8 +872,8 @@
     
     <url>
     
-      <loc>/categories/talk/</loc>
-      <lastmod>2021-07-21T00:00:00+00:00</lastmod>
+      <loc>/categories/social/</loc>
+      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -902,8 +892,8 @@
     
     <url>
     
-      <loc>/categories/workshop/</loc>
-      <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+      <loc>/categories/talk/</loc>
+      <lastmod>2021-07-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -913,6 +903,16 @@
     <url>
     
       <loc>/tags/workshop/</loc>
+      <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/workshop/</loc>
       <lastmod>2021-03-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
