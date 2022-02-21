@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/event/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Making Plots to Explore Data Using R</title>
+      <link>/post/making-plots-to-explore-data-using-r/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/making-plots-to-explore-data-using-r/</guid>
+      <description>Details For our August event, we are excited to host Professor Di Cook of Monash University who will be presenting strategies for making plots to explore data using R. There is an interactive component to her talk, and she has requested that attendees download packages tidyverse, plotly, forcats, and nullabor from CRAN, as well as yowie from Github using remotes::install_github(&amp;ldquo;numbats/yowie&amp;rdquo;).
+This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.</description>
+    </item>
     
     <item>
       <title>R-Ladies Book Club - Algorithms of Oppression</title>
