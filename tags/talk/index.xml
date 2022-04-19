@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R-Wars Tidyverse vs. Base R and Writing Reports in R Markdown</title>
+      <link>/post/r-wars-tidyverse-base-r/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-wars-tidyverse-base-r/</guid>
+      <description>Details For our November event, we will have two guest speakers. Dorota Biedzio will discuss the advantages and disadvantages between the tidyverse and base R. Alyssa Goldberg will teach us how to batch-process reports using RMarkdown.
+This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.
+Agenda (times approximate): 7:05pm - 7:10pm: R-Ladies NYC Announcements 7:10pm - 7:40pm: Dorota&amp;rsquo;s talk on tidyverse vs.</description>
+    </item>
     
     <item>
       <title>R-Ladies NYC Lightning Talks</title>

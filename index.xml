@@ -11,6 +11,52 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>R-Wars Tidyverse vs. Base R and Writing Reports in R Markdown</title>
+      <link>/post/r-wars-tidyverse-base-r/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-wars-tidyverse-base-r/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;For our November event, we will have two guest speakers. Dorota Biedzio will discuss the advantages and disadvantages between the tidyverse and base R. Alyssa Goldberg will teach us how to batch-process reports using RMarkdown.&lt;/p&gt;
+
+&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.&lt;/p&gt;
+
+&lt;p&gt;Agenda (times approximate):
+7:05pm - 7:10pm: R-Ladies NYC Announcements
+7:10pm - 7:40pm: Dorota&amp;rsquo;s talk on tidyverse vs. base R
+7:40pm - 8:10pm: Alyssa&amp;rsquo;s talk on using R Markdown to write reports&lt;/p&gt;
+
+&lt;p&gt;R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): &lt;a href=&#34;https://rladies.org/code-of-conduct&#34; target=&#34;_blank&#34;&gt;https://rladies.org/code-of-conduct&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For questions regarding accessibility, please email us at nyc@rladies.org.&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; Talk Abstract &amp;mdash;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Tidyverse vs. Base R&amp;rdquo;
+Speaker: Dorota Biedzio&lt;/p&gt;
+
+&lt;p&gt;Abstract: The rivalry between base-R and the tidyverse ends now! We will discuss the pros and cons of each, and compare code snippets to finally choose a winner! Or&amp;hellip; instead&amp;hellip; we can have an intellectual, even-tempered discussion because we are all professionals.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Batch Processing R Markdown Reports&amp;rdquo;
+Speaker: Alyssa Goldberg&lt;/p&gt;
+
+&lt;p&gt;Abstract: I&amp;rsquo;ll be showing folks how to use R and RMarkdown to batch generate several reports at once - sort of like facet_wrap() but for
+Word documents.&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; Speaker Bios &amp;mdash;&lt;/p&gt;
+
+&lt;p&gt;Bio: Dorota is a masters-level statistician currently working as a data analyst at MDRC (a non-profit, non-partisan research organization). Dorota loves writing functions that can automate tedious data processing tasks and increase workflow efficiency.&lt;/p&gt;
+
+&lt;p&gt;Bio: Alyssa is the Senior Marketing Analyst at the law firm Debevoise &amp;amp; Plimpton LLP.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/280338696/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R-Ladies NYC Lightning Talks</title>
       <link>/post/lightning-talks-10-19/</link>
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
@@ -467,32 +513,6 @@ For our February book club, we&amp;rsquo;ll be discussing &amp;ldquo;Data Femini
 &lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event. We will request your email address upon registration to ensure you receive the Zoom passcode on the day of the event.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/275871697/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>End-of-Year Celebration for Women and Gender Minorities</title>
-      <link>/post/end-of-year-celebration-for-women-and-gender-minorities/</link>
-      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/end-of-year-celebration-for-women-and-gender-minorities/</guid>
-      <description>
-
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;[Please note: At the request of members of our community for an R-Ladies space exclusively for minority genders, this event is limited to those who identify as such (including but not limited to women, trans men, non-binary, and gender nonconforming individuals). Male allies have been great supporters of our chapter and the R-Ladies mission to promote gender diversity in the R Community &amp;ndash; for which we are grateful! &amp;ndash; and we believe the best way male allies can support us this month is by honoring the need for and benefit of such a space.]&lt;/p&gt;
-
-&lt;p&gt;Happy Holidays! To close out 2020, we are thrilled to host a virtual version of our annual end-of-year celebration and social! We&amp;rsquo;ll utilize breakout rooms to allow participants to connect (or re-connect) with other members of our community in smaller groups.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;IMPORTANT&lt;/em&gt; To RSVP for this event, you must complete and submit this Google form: &lt;a href=&#34;https://forms.gle/v3eEg4nXSzH9s5D4A&#34; target=&#34;_blank&#34;&gt;https://forms.gle/v3eEg4nXSzH9s5D4A&lt;/a&gt; While you may RSVP via Meetup to let others know you plan to attend, Zoom link information will only be shared via email with those who register through the form.&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda&#34;&gt;Agenda:&lt;/h2&gt;
-
-&lt;p&gt;7-7:10: Welcome and R-Ladies NYC Announcements&lt;/p&gt;
-
-&lt;p&gt;7:10-8:30: Breakout room chats (3-5 people, and we&amp;rsquo;ll provide some topics to inspire conversation!)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/274929711/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
