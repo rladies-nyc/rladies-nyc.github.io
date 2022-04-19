@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/lightning-talks-2021-prep/</loc>
+      <lastmod>2021-09-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/publishing-your-r-data-science-book/</loc>
       <lastmod>2021-09-14T00:00:00+00:00</lastmod>
     </url>
@@ -869,7 +878,7 @@
     <url>
     
       <loc>/tags/event/</loc>
-      <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+      <lastmod>2021-09-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -879,7 +888,27 @@
     <url>
     
       <loc>/categories/event/</loc>
-      <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+      <lastmod>2021-09-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/qa/</loc>
+      <lastmod>2021-09-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/qa/</loc>
+      <lastmod>2021-09-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -11,6 +11,37 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>R-Ladies NYC Lightning Talks (Prep and Submission Workshop)</title>
+      <link>/post/lightning-talks-2021-prep/</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lightning-talks-2021-prep/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;We are excited to host an online version of one our most popular events this fall - R-Ladies NYC Lightning Talks! We are extending the submission deadline, and are holding this workshop to provide guidance and support for interested speakers. If you are interested in proposing a talk but want to brainstorm ideas, get feedback, or some encouragement, join us!&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; Talk Abstract &amp;mdash;&lt;/p&gt;
+
+&lt;p&gt;Lighting talks are five minute talks. You can talk about anything R, Tech, and/or Data Science related. Looking for ideas? How about talking about a cool package you found, how you use R in your company, a favorite learning resource, your journey into Data Science, or a side project you&amp;rsquo;ve been working on?&lt;/p&gt;
+
+&lt;p&gt;We would especially love to hear from people who&amp;rsquo;ve never presented at a meetup or conference before and/or those who still don&amp;rsquo;t feel confident speaking publicly. A lightning talk can be a great way to start out speaking, as it&amp;rsquo;s quick, low-prep, and fun!&lt;/p&gt;
+
+&lt;p&gt;To celebrate the diversity in the R Community, we&amp;rsquo;re prioritizing presenters who identify as a minority gender (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).&lt;/p&gt;
+
+&lt;p&gt;Revised Important Dates
+Submissions due: Friday &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1&lt;/sub&gt;
+Notification of acceptance: Sunday &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt;
+Accepted speakers confirm participation: Wednesday &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;6&lt;/sub&gt;
+Slides due to us: Sunday &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;17&lt;/sub&gt;
+Lightning Talk Event: &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;19&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/280652989/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Publishing your R or Data Science book with Chapman &amp; Hall/CRC</title>
       <link>/post/publishing-your-r-data-science-book/</link>
       <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
@@ -445,24 +476,6 @@ Speaker: Stacy Lansey&lt;/p&gt;
 &lt;p&gt;Bio: Stacy Lansey is the Data Science Analyst at Warby Parker. She came to this role from a background in real estate and finance and is speaking about her experiences learning R in this role.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/273937932/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Book Club Meeting</title>
-      <link>/post/book-club-how-charts-lie/</link>
-      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/book-club-how-charts-lie/</guid>
-      <description>
-
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;For our September book club, we&amp;rsquo;ll be discussing &amp;ldquo;How Charts Lie: Getting Smarter about Visual Information&amp;rdquo; by Alberto Cairo.&lt;/p&gt;
-
-&lt;p&gt;Zoom link will be available to attendees on the Meetup event page as of 9 am Eastern on September 26th.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/272943459/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
