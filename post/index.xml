@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>Join our team! R-Ladies NYC Board Information Session</title>
+      <link>/post/r-ladies-board-info-2-17/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-board-info-2-17/</guid>
+      <description>Details If getting more involved with your local R-Ladies New York chapter was on your list of 2022 resolutions, here’s your chance! We are looking for new members to join us as event organizers on the R-Ladies NYC Board.
+This information session will be a meet and greet with current board members: we’ll introduce ourselves, explain responsibilities and the expected time commitment of a board member, and highlight initiatives we’d like to pursue in 2022.</description>
+    </item>
+    
+    <item>
       <title>Package Development Workshop (Day 1) - Your First Package</title>
       <link>/post/package-development-2022/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
@@ -20,6 +30,15 @@
       <guid>/post/package-development-2022/</guid>
       <description>Details We are thrilled to kick off our 2022 programming by welcoming Joyce Robbins to lead us through a two-day interactive package development workshop! This first module will guide participants through creation of their first package. Besides familiarity with R/RStudio and basic function writing, there are no prerequisites.
 RSVP for this workshop is via Google Form: https://forms.gle/3rkuU8CZDMBrudfK8/. For more information about “Package Development Day 2 - Package Documentation,” see Meetup event https://www.</description>
+    </item>
+    
+    <item>
+      <title>Package Development Workshop (Day 2) - Your First Package</title>
+      <link>/post/package-development-2022-2/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/package-development-2022-2/</guid>
+      <description>Details We are thrilled to kick off our 2022 programming by welcoming Joyce Robbins to lead us through a two-day interactive package development workshop! This second hour-long module will guide participants through types of and tools for package documentation. It builds upon material from “Package Development Day 1 - Your First Package” (see Meetup event https://www.meetup.com/rladies-newyork/events/283033216/), however participants can join this second session independently. Besides familiarity with R/RStudio and basic function writing, there are no prerequisites.</description>
     </item>
     
     <item>

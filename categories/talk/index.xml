@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Join our team! R-Ladies NYC Board Information Session</title>
+      <link>/post/r-ladies-board-info-2-17/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-board-info-2-17/</guid>
+      <description>Details If getting more involved with your local R-Ladies New York chapter was on your list of 2022 resolutions, here’s your chance! We are looking for new members to join us as event organizers on the R-Ladies NYC Board.
+This information session will be a meet and greet with current board members: we’ll introduce ourselves, explain responsibilities and the expected time commitment of a board member, and highlight initiatives we’d like to pursue in 2022.</description>
+    </item>
     
     <item>
       <title>R-Wars Tidyverse vs. Base R and Writing Reports in R Markdown</title>

@@ -11,6 +11,36 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Join our team! R-Ladies NYC Board Information Session</title>
+      <link>/post/r-ladies-board-info-2-17/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-board-info-2-17/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;If getting more involved with your local R-Ladies New York chapter was on your list of 2022 resolutions, here’s your chance! We are looking for new members to join us as event organizers on the R-Ladies NYC Board.&lt;/p&gt;
+
+&lt;p&gt;This information session will be a meet and greet with current board members: we’ll introduce ourselves, explain responsibilities and the expected time commitment of a board member, and highlight initiatives we’d like to pursue in 2022. The application for new board members is now available (due Sunday, March 6th): &lt;a href=&#34;https://forms.gle/BMv1GKW3pfxZDeFK9&#34; target=&#34;_blank&#34;&gt;https://forms.gle/BMv1GKW3pfxZDeFK9&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We are happy to take questions and suggestions for future meetups from our community, so please feel free to attend with feedback even if you may not be interested in joining the board as an organizer.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in joining the board but are unable to attend this meeting, please connect with us via Slack or email us at nyc@rladies.org with your questions, thoughts, and comments. We’ll be happy to follow up with more information!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event. We will request your email address upon registration to ensure you receive the Zoom passcode.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): &lt;a href=&#34;https://rladies.org/code-of-conduct&#34; target=&#34;_blank&#34;&gt;https://rladies.org/code-of-conduct&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/283954956/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Package Development Workshop (Day 1) - Your First Package</title>
       <link>/post/package-development-2022/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
@@ -53,6 +83,54 @@ Joyce Robbins, Ph.D., is Lecturer in Discipline in the Statistics Department at 
 &lt;p&gt;R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): &lt;a href=&#34;https://rladies.org/code-of-conduct&#34; target=&#34;_blank&#34;&gt;https://rladies.org/code-of-conduct&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/283033216/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Package Development Workshop (Day 2) - Your First Package</title>
+      <link>/post/package-development-2022-2/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/package-development-2022-2/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;We are thrilled to kick off our 2022 programming by welcoming Joyce Robbins to lead us through a two-day interactive package development workshop! This second hour-long module will guide participants through types of and tools for package documentation. It builds upon material from “Package Development Day 1 - Your First Package” (see Meetup event &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/283033216/&#34; target=&#34;_blank&#34;&gt;https://www.meetup.com/rladies-newyork/events/283033216/&lt;/a&gt;), however participants can join this second session independently. Besides familiarity with R/RStudio and basic function writing, there are no prerequisites.&lt;/p&gt;
+
+&lt;p&gt;RSVP for this workshop is via Google Form: &lt;a href=&#34;https://forms.gle/3rkuU8CZDMBrudfK8/&#34; target=&#34;_blank&#34;&gt;https://forms.gle/3rkuU8CZDMBrudfK8/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Course materials are available here: &lt;a href=&#34;https://github.com/jtr13/pkgdev/&#34; target=&#34;_blank&#34;&gt;https://github.com/jtr13/pkgdev/&lt;/a&gt;. Please note the “Pre-workshop setup” instructions for Windows and Mac.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Agenda for Day 2 (tentative):
+Noon-1 pm: Lesson&lt;/p&gt;
+
+&lt;p&gt;devtools::check(): checking a package
+Naming your package
+Licensing your package
+Adding dependencies
+Adding examples to documentation
+Creating vignettes
+Using git/GitHub
+Where next?
+1-1:30 pm: Lab with Joyce and teaching assistants Erin Grand and Emily Dodwell&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Instructor Biography:
+Joyce Robbins, Ph.D., is Lecturer in Discipline in the Statistics Department at Columbia University, where she specializes in data visualization. She is a member of the R Forwards (R Foundation taskforce on women and other under-represented groups) teaching team, previously served as publications officer of the Statistical Graphics Section of the American Statistical Association Section, and is an active member of RLadies NYC.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Many thanks to Mine Çetinkaya-Rundel and Emma Rand of the R Forwards Teaching Team for their creation of the package development workshop modules on which this session is based. For more information, see &lt;a href=&#34;https://forwards.github.io/workshops/&#34; target=&#34;_blank&#34;&gt;https://forwards.github.io/workshops/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): &lt;a href=&#34;https://rladies.org/code-of-conduct&#34; target=&#34;_blank&#34;&gt;https://rladies.org/code-of-conduct&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/283033569/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -474,76 +552,6 @@ Speaker: Joyce Robbins&lt;/p&gt;
 &lt;p&gt;Bio: Joyce Robbins (@jtrnyc) is a Lecturer in the Department of Statistics at Columbia University. She specializes in data visualization and statistical literacy.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/278643264/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>From Wrangling to Writing - Analyzing Data and Creating Production-Level Code</title>
-      <link>/post/from-wrangling-to-writing-analyzing-data-and-creating-production-level-code/</link>
-      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/from-wrangling-to-writing-analyzing-data-and-creating-production-level-code/</guid>
-      <description>
-
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;For our April event, we will have two guest speakers. Megan Robertson will be talking about how to write production level data science code, while Natalie O&amp;rsquo;Shea will be discussing how to use the nyccensus package and how to wrangle/use census data for equity.&lt;/p&gt;
-
-&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.&lt;/p&gt;
-
-&lt;p&gt;Agenda (times approximate):
-6:05 - 6:10 pm: R-Ladies NYC Announcements
-6:10 - 6:40 : Natalie&amp;rsquo;s talk on NYC Census data with time for Q&amp;amp;A
-6:40-7pm: Megan&amp;rsquo;s talk on creating production level data science code with time for Q&amp;amp;A&lt;/p&gt;
-
-&lt;p&gt;&amp;mdash; Talk Abstract &amp;mdash;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Introducing nyccensus: Leveraging Census Data for Equity in NYC&amp;rdquo;
-Speaker: Natalie O&amp;rsquo;Shea&lt;/p&gt;
-
-&lt;p&gt;Abstract: This talk will introduce the nyccensus package and associated Shiny dashboard and share examples of how census data can be leveraged to help address equity issues. The nyccensus package is a simple data-sharing package meant to ease the pains of accessing and wrangling publicly-available response rate data from the 2020 Decennial Census as well as other relevant demographic data from the American Community Survey at various geographic levels in New York City. I will share some lessons learned and examples of how these data can be used to better understand and address equity issues in NYC.&lt;/p&gt;
-
-&lt;p&gt;Bio: Natalie O&amp;rsquo;Shea is a researcher and data visualization specialist with a passion for equity, accessibility, and human-centered design. She started her data science journey during graduate school, falling in love with all things R in her coursework and research. She was part of CUNY&amp;rsquo;s first Data for Public Good cohort before taking a position as a Community Outreach Data Analyst with the NYC Census 2020 initiative and then working as a Data Visualization Specialist at NYC Test &amp;amp; Trace Corps. She is currently working as a Data Visualization Analyst on the Research and Learning Engineering team at Edmentum.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Creating Production Level Data Science Code&amp;rdquo;
-Speaker: Megan Robertson&lt;/p&gt;
-
-&lt;p&gt;Abstract: Writing code is a big part of working as a data scientist. You write code throughout all stages of a project from exploratory data analysis to building models. This talk focuses on creating production code from a proof of concept analysis or model. How do you organize and adapt all the code created to get to a proof of concept? Do you feel overwhelmed by everything you need to do? At the end of this talk you’ll walk away with tips and strategies to make your own production code.&lt;/p&gt;
-
-&lt;p&gt;Bio: Megan Robertson is a Senior Data Scientist at Nike. She has multiple years of experience applying data science in retail settings. She first became interested in math and statistics through sports analytics, and wrote her Master’s thesis in collaboration with an NBA team. Her background includes training in Bayesian methodology, statistical modeling, machine learning and more. Megan has delivered multiple talks on various aspects of data science from building a career and project management to writing code. She is currently writing her first data science book, Mastering Communication in Data Science, in partnership with Manning.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/277533609/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Focus on Content - Create Enterprise-Worthy Shiny Applications with Periscope</title>
-      <link>/post/focus-on-content-create-enterprise-worthy-shiny-applications-with-periscope/</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/focus-on-content-create-enterprise-worthy-shiny-applications-with-periscope/</guid>
-      <description>
-
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;For our March event, Dr. Connie Brett, the CEO, founder, &amp;amp; principal data scientist of Aggregate Genius, Inc. will talk to us about the Periscope package and enterprise-level Shiny apps!&lt;/p&gt;
-
-&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.&lt;/p&gt;
-
-&lt;p&gt;Agenda (times approximate):
-6:05 - 6:10 pm: R-Ladies NYC Announcements
-6:10 + : Connie&amp;rsquo;s talk on periscope with time for Q&amp;amp;A&lt;/p&gt;
-
-&lt;p&gt;&amp;mdash; Talk Abstract &amp;mdash;&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Focus on Content: Create Enterprise-Worthy Shiny Applications with Periscope&amp;rdquo;
-Speaker: Dr. Connie Brett&lt;/p&gt;
-
-&lt;p&gt;Abstract: The periscope R package is a framework that you can use to significantly speed up your shiny development – whether you are just writing your first collaborative application or taking on a bigger project that will be deployed to many users. Periscope can significantly &amp;ldquo;up&amp;rdquo; your Shiny game by jump-starting development in a way that is flexible and robust. This lets you focus on the content of your application, as opposed to the mechanics (and those insidious pitfalls!) of building a shiny application for multiple users.&lt;/p&gt;
-
-&lt;p&gt;Bio: Dr. Connie Brett is the CEO, Founder, and Principal Data Scientist of Aggregate Genius Inc. located in BC, Canada. She is experienced in using many types of models and algorithms as well as architecting cutting-edge big-data analytics-integrated platforms. She has submitted publications and patents; contributes to and maintains R packages and frameworks (such as periscope) in the open-source community; and attends and speaks at industry events. With over 20 years spent focusing on producing solid analytical models, software and visualization tools – as well as custom IT solutions architecture – she continues to carry forward her passion for helping clients realize true business insights from analytics.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/276969681/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
