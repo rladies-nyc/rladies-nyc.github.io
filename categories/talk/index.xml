@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Behind the scenes of visual journalism</title>
+      <link>/post/behind-scenes-visual-journalism/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/behind-scenes-visual-journalism/</guid>
+      <description>Details For our March event, we are excited to host Will Chase, who will be discussing data visualization and visual journalism.
+This event will be hosted over Zoom. The link will be emailed to those who are registered, as well as posted on this Meetup page at noon on the day of the event.
+Agenda (times approximate): 7-7:05 pm: R-Ladies NYC Announcements 7:05-7:50: Behind the scenes of visual journalism 7:50-8:15: Questions and wrap-up</description>
+    </item>
     
     <item>
       <title>Join our team! R-Ladies NYC Board Information Session</title>

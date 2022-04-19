@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Workshop An Introduction to Working with Geospatial Data in R</title>
+      <link>/post/workshop-geospatial-data-r/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/workshop-geospatial-data-r/</guid>
+      <description>Details For our February Meetup, we welcome R-Ladies NYC board member Ayanthi Gunawardana, who will teaching a workshop titled &amp;ldquo;An Introduction to Working with Geospatial Data in R.&amp;rdquo; She will show participants how to import, process, and map geospatial data in R. Ayanthi will also introduce some basic geospatial concepts, different file formats, and best practices in creating maps. She will primarily be working with the sf package for processing the geospatial data, and ggplot2 for plotting the data.</description>
+    </item>
     
     <item>
       <title>Package Development Workshop (Day 1) - Your First Package</title>
