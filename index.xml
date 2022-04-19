@@ -11,6 +11,30 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>R-Ladies Book Club</title>
+      <link>/post/r-ladies-book-club-data-feminism/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-book-club-data-feminism/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;For our November book club, we&amp;rsquo;ll be discussing &amp;ldquo;The Manager&amp;rsquo;s Path: A Guide for Tech Leaders Navigating Growth and Change&amp;rdquo; by Camille Fournier.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page the morning of the event. We will request your email address upon registration to ensure you receive the Zoom passcode.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): &lt;a href=&#34;https://rladies.org/code-of-conduct&#34; target=&#34;_blank&#34;&gt;https://rladies.org/code-of-conduct&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/281544007/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R-Wars Tidyverse vs. Base R and Writing Reports in R Markdown</title>
       <link>/post/r-wars-tidyverse-base-r/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
@@ -52,7 +76,7 @@ Word documents.&lt;/p&gt;
 
 &lt;p&gt;Bio: Alyssa is the Senior Marketing Analyst at the law firm Debevoise &amp;amp; Plimpton LLP.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/280338696/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/281847904/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -491,28 +515,6 @@ For our February book club, we&amp;rsquo;ll be discussing &amp;ldquo;Data Femini
 &lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page the morning of the event. We will request your email address upon registration to ensure you receive the Zoom passcode on the day of the event.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/276116912/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Join our team! R-Ladies NYC Board Information Session</title>
-      <link>/post/join-our-team-r-ladies-nyc-board-information-session/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/join-our-team-r-ladies-nyc-board-information-session/</guid>
-      <description>
-
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;If getting more involved with your local R-Ladies New York chapter was on your list of 2021 resolutions, here’s your chance! We are looking for new members to join us as event organizers on the R-Ladies NYC Board.&lt;/p&gt;
-
-&lt;p&gt;This information session will be a meet and greet with current board members: we’ll introduce ourselves, explain responsibilities and the expected time commitment of a board member, and highlight initiatives we’d like to pursue in 2021. We will also provide next steps for how to get involved. We are happy to take questions and suggestions for future meetups from our community, so please feel free to attend with feedback even if you may not be interested in joining the board as an organizer.&lt;/p&gt;
-
-&lt;p&gt;If you are interested in joining the board but are unable to attend this meeting, please connect with us via Slack or email us at nyc@rladies.org with your questions, thoughts, and comments. We’ll be happy to follow up with more information!&lt;/p&gt;
-
-&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event. We will request your email address upon registration to ensure you receive the Zoom passcode on the day of the event.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/275871697/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

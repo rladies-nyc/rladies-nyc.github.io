@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/bookclub/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R-Ladies Book Club</title>
+      <link>/post/r-ladies-book-club-data-feminism/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-book-club-data-feminism/</guid>
+      <description>Details For our November book club, we&amp;rsquo;ll be discussing &amp;ldquo;The Manager&amp;rsquo;s Path: A Guide for Tech Leaders Navigating Growth and Change&amp;rdquo; by Camille Fournier.
+This event will be hosted over Zoom, and the link will be available on this Meetup page the morning of the event. We will request your email address upon registration to ensure you receive the Zoom passcode.
+R-Ladies is dedicated to providing a harassment-free experience for everyone.</description>
+    </item>
     
     <item>
       <title>R-Ladies Book Club - Algorithms of Oppression</title>
