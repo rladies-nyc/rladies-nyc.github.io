@@ -11,6 +11,75 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>R-Ladies NYC Lightning Talks</title>
+      <link>/post/lightning-talks-10-19/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lightning-talks-10-19/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;We are excited to host an online version of one our most popular events - R-Ladies NYC Lightning Talks! We are extending the submission deadline to provide more support for interested speakers, and have added a speaker workshop on &lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;23&lt;/sub&gt; to provide guidance and support. If you are interested in proposing a talk but want to brainstorm ideas, get feedback, or some encouragement, join us for the event on &lt;sup&gt;9&lt;/sup&gt;&amp;frasl;&lt;sub&gt;23&lt;/sub&gt; and RSVP on our meetup page.&lt;/p&gt;
+
+&lt;p&gt;Fill out this brief form by Friday, October 1st to submit your application to be a speaker!
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfauyyLjj8-S2_XOvk0KHCsy2QC93u5mtXvjRPc0Ohrzi0bzQ/viewform&#34; target=&#34;_blank&#34;&gt;https://docs.google.com/forms/d/e/1FAIpQLSfauyyLjj8-S2_XOvk0KHCsy2QC93u5mtXvjRPc0Ohrzi0bzQ/viewform&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lighting talks are five minute talks. You can talk about anything R, Tech, and/or Data Science related. Looking for ideas? How about talking about a cool package you found, how you use R in your company, a favorite learning resource, your journey into Data Science, or a side project you&amp;rsquo;ve been working on?&lt;/p&gt;
+
+&lt;p&gt;We would especially love to hear from people who&amp;rsquo;ve never presented at a meetup or conference before and/or those who still don&amp;rsquo;t feel confident speaking publicly. A lightning talk can be a great way to start out speaking, as it&amp;rsquo;s quick, low-prep, and fun!&lt;/p&gt;
+
+&lt;p&gt;Interested in proposing a talk but want to brainstorm ideas, get feedback, or some encouragement? We&amp;rsquo;re here to help! You can join the #lightningtalks channel in our slack channel or email nyc@rladies.org. We would be happy to set up a time to talk with you!&lt;/p&gt;
+
+&lt;p&gt;To celebrate the diversity in the R Community, we&amp;rsquo;re prioritizing presenters who identify as a minority gender (including but not limited to cis/trans women, trans men, non-binary, genderqueer, agender).&lt;/p&gt;
+
+&lt;p&gt;Revised Important Dates
+Submissions due: Friday &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1&lt;/sub&gt;
+Notification of acceptance: Sunday &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt;
+Accepted speakers confirm participation: Wednesday &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;6&lt;/sub&gt;
+Slides due to us: Sunday: &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;17&lt;/sub&gt;
+Lightning Talk Event: Tuesday &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;19&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;This event will be hosted over Zoom; the link will be available on this page the morning of the event, and the passcode will be emailed to you.
+R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): &lt;a href=&#34;https://rladies.org/code-of-conduct&#34; target=&#34;_blank&#34;&gt;https://rladies.org/code-of-conduct&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For questions regarding accessibility, please email us at nyc@rladies.org.&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; Presentations and Speakers &amp;mdash;
+Lightning Talks Lineup&lt;/p&gt;
+
+&lt;p&gt;Harnessing R Graphic Tools for Effective Data Visualization Using Overlays and Insets
+Jaya M. Satagopan |&lt;/p&gt;
+
+&lt;p&gt;Pie Charts: Friend or Foe?
+Rachel Tao |&lt;/p&gt;
+
+&lt;p&gt;Data Engineering and Analytics for SARS-Cov-2 Research at Weill Cornell Medicine
+Sophie Rand |&lt;/p&gt;
+
+&lt;p&gt;Surviving Covid-19 After Hospital Discharge: Symptom, Functional, and Adverse Outcomes of Home Health Recipients
+Yolanda Barrón |&lt;/p&gt;
+
+&lt;p&gt;Set in Stone
+Wella Haya |&lt;/p&gt;
+
+&lt;p&gt;R Markdown: Mail Merge on Steroids
+Melissa Hegeman |&lt;/p&gt;
+
+&lt;p&gt;How to Do VLOOKUP in R
+Alejandra Gerosa | 🐦 @alejagerosa&lt;/p&gt;
+
+&lt;p&gt;Plotting Movement Data in R
+Anika Staccone |&lt;/p&gt;
+
+&lt;p&gt;R x RStudio for Communications
+Rebecca HH Rosen | 📷 @rebeccahhrosen&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/280338696/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Panel Discussion Working with and Learning from COVID-19 data</title>
       <link>/post/panel-working-with-covid-data/</link>
       <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
@@ -424,46 +493,6 @@ For our February book club, we&amp;rsquo;ll be discussing &amp;ldquo;Data Femini
 &lt;p&gt;7:10-8:30: Breakout room chats (3-5 people, and we&amp;rsquo;ll provide some topics to inspire conversation!)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/274929711/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Q&amp;A with the Authors of &#34;Data Science in Education Using R&#34;</title>
-      <link>/post/q-and-a-with-the-authors-of-data-science-in-education-using-r/</link>
-      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/q-and-a-with-the-authors-of-data-science-in-education-using-r/</guid>
-      <description>
-
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event. We will request your email address upon registration to ensure you receive the newly required Zoom passcode on the day of the event.&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda-subject-to-change&#34;&gt;Agenda (subject to change):&lt;/h2&gt;
-
-&lt;p&gt;7:30-7:35 pm: R-Ladies NYC Announcements&lt;/p&gt;
-
-&lt;p&gt;7:35-8:05: Book talk&lt;/p&gt;
-
-&lt;p&gt;8:05 - end Audience Q&amp;amp;A&lt;/p&gt;
-
-&lt;h2 id=&#34;book-description&#34;&gt;Book Description&lt;/h2&gt;
-
-&lt;p&gt;Data Science in Education Using R is the go-to reference for learning data science in the education field. The book answers questions like: What does a data scientist in education do? How do I get started learning R, the popular open-source statistical programming language? And what does a data analysis project in education look like?&lt;/p&gt;
-
-&lt;p&gt;If you’re just getting started with R in an education job, this is the book you’ll want with you. This book gets you started with R by teaching the building blocks of programming that you’ll use many times in your career. The book takes a &amp;ldquo;learn by doing&amp;rdquo; approach and offers eight analysis walkthroughs that show you a data analysis from start to finish, complete with code for you to practice with. The book finishes with how to get involved in the data science community and how to integrate data science in your education job.&lt;/p&gt;
-
-&lt;h2 id=&#34;speaker-bios&#34;&gt;Speaker Bios&lt;/h2&gt;
-
-&lt;p&gt;Ryan A. Estrellado (@RyanEs) has served public schools for over seventeen years as a school psychologist and administrator. Ryan writes about working with data, education, and other projects at &lt;a href=&#34;https://ryanestrellado.com&#34; target=&#34;_blank&#34;&gt;https://ryanestrellado.com&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Emily A. Freer (@ebovee09) is the Director of Educational Development and Assessment at the Marquette University School of Dentistry. Learn more about Emily at &lt;a href=&#34;https://emilyfreer.com&#34; target=&#34;_blank&#34;&gt;https://emilyfreer.com&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Jesse Mostipak (@kierisi) is the Community Advocate for Kaggle, and has worked both as a high school science teacher and lead data scientist within education non-profits. To follow Jesse’s learning adventures in Python and deep learning, head over to &lt;a href=&#34;https://jessemaegan.com&#34; target=&#34;_blank&#34;&gt;https://jessemaegan.com&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Isabella C. Velásquez (@ivelasq3) is a data analyst committed to nonprofit work with the goal of reducing racial and socioeconomic inequities. To follow Isabella’s personal projects, join her at &lt;a href=&#34;https://ivelasq.rbind.io&#34; target=&#34;_blank&#34;&gt;https://ivelasq.rbind.io&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/274197702/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

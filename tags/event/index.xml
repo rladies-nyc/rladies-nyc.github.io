@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/event/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R-Ladies NYC Lightning Talks</title>
+      <link>/post/lightning-talks-10-19/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lightning-talks-10-19/</guid>
+      <description>Details We are excited to host an online version of one our most popular events - R-Ladies NYC Lightning Talks! We are extending the submission deadline to provide more support for interested speakers, and have added a speaker workshop on 9&amp;frasl;23 to provide guidance and support. If you are interested in proposing a talk but want to brainstorm ideas, get feedback, or some encouragement, join us for the event on 9&amp;frasl;23 and RSVP on our meetup page.</description>
+    </item>
     
     <item>
       <title>Panel Discussion Working with and Learning from COVID-19 data</title>

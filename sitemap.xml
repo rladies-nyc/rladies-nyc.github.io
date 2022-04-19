@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/post/lightning-talks-10-19/</loc>
+      <lastmod>2021-10-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/post/panel-working-with-covid-data/</loc>
       <lastmod>2021-10-04T00:00:00+00:00</lastmod>
     </url>
@@ -826,16 +835,6 @@
     
     <url>
     
-      <loc>/categories/blog/</loc>
-      <lastmod>2020-04-18T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/blog/</loc>
       <lastmod>2020-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -846,8 +845,8 @@
     
     <url>
     
-      <loc>/categories/bookclub/</loc>
-      <lastmod>2021-08-14T00:00:00+00:00</lastmod>
+      <loc>/categories/blog/</loc>
+      <lastmod>2020-04-18T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -866,8 +865,8 @@
     
     <url>
     
-      <loc>/categories/datadive/</loc>
-      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
+      <loc>/categories/bookclub/</loc>
+      <lastmod>2021-08-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -886,8 +885,8 @@
     
     <url>
     
-      <loc>/categories/event/</loc>
-      <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+      <loc>/categories/datadive/</loc>
+      <lastmod>2017-10-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -897,6 +896,26 @@
     <url>
     
       <loc>/tags/event/</loc>
+      <lastmod>2021-10-19T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/event/</loc>
+      <lastmod>2021-10-19T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/panel/</loc>
       <lastmod>2021-10-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -916,8 +935,8 @@
     
     <url>
     
-      <loc>/tags/panel/</loc>
-      <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+      <loc>/tags/qa/</loc>
+      <lastmod>2021-09-23T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -936,8 +955,8 @@
     
     <url>
     
-      <loc>/tags/qa/</loc>
-      <lastmod>2021-09-23T00:00:00+00:00</lastmod>
+      <loc>/tags/social/</loc>
+      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -956,8 +975,8 @@
     
     <url>
     
-      <loc>/tags/social/</loc>
-      <lastmod>2019-06-29T00:00:00+00:00</lastmod>
+      <loc>/tags/talk/</loc>
+      <lastmod>2021-10-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -967,27 +986,7 @@
     <url>
     
       <loc>/categories/talk/</loc>
-      <lastmod>2021-09-14T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/talk/</loc>
-      <lastmod>2021-09-14T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/categories/workshop/</loc>
-      <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+      <lastmod>2021-10-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -997,6 +996,16 @@
     <url>
     
       <loc>/tags/workshop/</loc>
+      <lastmod>2021-03-04T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/workshop/</loc>
       <lastmod>2021-03-04T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
