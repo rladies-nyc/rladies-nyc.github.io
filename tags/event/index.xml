@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/event/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Panel Discussion Working with and Learning from COVID-19 data</title>
+      <link>/post/panel-working-with-covid-data/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/panel-working-with-covid-data/</guid>
+      <description>Details We are thrilled to host a series of experts to discuss their experiences working with different types of COVID-19 data, insights they&amp;rsquo;ve gleaned, and challenges they&amp;rsquo;ve encountered with these complex and rapidly evolving data.
+This event will be hosted over Zoom; the link will be available on this page the morning of the event, and the passcode will be emailed to you. R-Ladies is dedicated to providing a harassment-free experience for everyone.</description>
+    </item>
     
     <item>
       <title>R-Ladies NYC Lightning Talks (Prep and Submission Workshop)</title>

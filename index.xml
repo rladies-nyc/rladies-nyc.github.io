@@ -11,6 +11,38 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Panel Discussion Working with and Learning from COVID-19 data</title>
+      <link>/post/panel-working-with-covid-data/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/panel-working-with-covid-data/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;We are thrilled to host a series of experts to discuss their experiences working with different types of COVID-19 data, insights they&amp;rsquo;ve gleaned, and challenges they&amp;rsquo;ve encountered with these complex and rapidly evolving data.&lt;/p&gt;
+
+&lt;p&gt;This event will be hosted over Zoom; the link will be available on this page the morning of the event, and the passcode will be emailed to you.
+R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): &lt;a href=&#34;https://rladies.org/code-of-conduct&#34; target=&#34;_blank&#34;&gt;https://rladies.org/code-of-conduct&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For questions regarding accessibility, please email us at nyc@rladies.org.&lt;/p&gt;
+
+&lt;p&gt;&amp;mdash; Bio &amp;mdash;&lt;/p&gt;
+
+&lt;p&gt;Presenters:
+Lucy D’Agostino McGowan is an assistant professor in the Mathematics and Statistics Department at Wake Forest University. She received her PhD in Biostatistics from Vanderbilt University and completed her postdoctoral training at Johns Hopkins University Bloomberg School of Public Health. Her research focuses on statistical communication, causal inference, data science pedagogy, and human-data interaction. Dr. D’Agostino McGowan is the 2021 chair of the American Statistical Association’s Committee on Women in Statistics and can be found online at lucymcgowan.com, blogging at livefreeordichotomize.com, on Twitter @LucyStats, and podcasting on the American Journal of Epidemiology partner podcast, Casual Inference.&lt;/p&gt;
+
+&lt;p&gt;Lynsie Daley is currently serving as a data and analytics supervisor at Intermountain Healthcare based in Salt Lake City. She leads a team of talented data professionals who work across the clinical spectrum supporting areas such as lab, clinical engineering, imaging, and pain. Lynsie also currently serves as Chair of the Women in Analytics group as part of HDAA (Healthcare Data and Analytics Association) and is very passionate about promoting STEM careers to young girls and women and advocating for women currently in the analytics field. She holds both a BS and an MS in statistics from Utah State University.&lt;/p&gt;
+
+&lt;p&gt;Kat Hoffman is a biostatistician for the Pulmonary and Critical Care team at Weill Cornell Medicine in New York City. During NYC’s spring 2020 COVID-19 surge she assisted with hospital operations work, and in the time since has transitioned primarily to COVID-19 ICU patient outcome research.&lt;/p&gt;
+
+&lt;p&gt;Michael Kane is an Assistant Professor of Biostatistics at Yale University and Founder of Telperian Inc., which provides strategic decision support for clinical trial programs. His research focuses on methods and tools for understanding population-level human mobility along with incorporating patient heterogeneity into clinical trial design and analysis. Dr. Kane is a member of Stanford University’s and the R Consortium’s COVID 19 Data Forum and he is a current recipient of the NSF’s Human Networks and Data Science Infrastructure grant which seeks to create a “science of human mobility” in conjunction with AT&amp;amp;T Labs Research. Since the pandemic started he has been trying to quantify the effect of human mobility on the spread of COVID 19.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/281092447/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R-Ladies NYC Lightning Talks (Prep and Submission Workshop)</title>
       <link>/post/lightning-talks-2021-prep/</link>
       <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
@@ -432,50 +464,6 @@ For our February book club, we&amp;rsquo;ll be discussing &amp;ldquo;Data Femini
 &lt;p&gt;Isabella C. Velásquez (@ivelasq3) is a data analyst committed to nonprofit work with the goal of reducing racial and socioeconomic inequities. To follow Isabella’s personal projects, join her at &lt;a href=&#34;https://ivelasq.rbind.io&#34; target=&#34;_blank&#34;&gt;https://ivelasq.rbind.io&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/274197702/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Analyzing Gender Bias with R</title>
-      <link>/post/analyzing-gender-bias-with-r/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/analyzing-gender-bias-with-r/</guid>
-      <description>
-
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;For our October event, R-Ladies Yipeng Lai and Stacy Lansey will share short talks on using R for analyzing gender bias on Wikipedia and learning R through data visualization (which motivated an interesting side project on gender).&lt;/p&gt;
-
-&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page at noon on the day of the event.&lt;/p&gt;
-
-&lt;h2 id=&#34;agenda-times-approximate&#34;&gt;Agenda (times approximate):&lt;/h2&gt;
-
-&lt;p&gt;7-7:05 pm: R-Ladies NYC Announcements&lt;/p&gt;
-
-&lt;p&gt;7:05-7:30: &amp;ldquo;Text Analysis in R: Gender Bias in Wikipedia Biographies&amp;rdquo; by Yipeng Lai&lt;/p&gt;
-
-&lt;p&gt;7:30-7:55: &amp;ldquo;R is for Resilience: Learning R through Data Visualization&amp;rdquo; by Stacy Lansey&lt;/p&gt;
-
-&lt;p&gt;7:55-8:15: Questions and wrap-up&lt;/p&gt;
-
-&lt;h2 id=&#34;talk-abstracts&#34;&gt;Talk Abstracts&lt;/h2&gt;
-
-&lt;p&gt;&amp;ldquo;Text Analysis in R: Gender Bias in Wikipedia Biographies&amp;rdquo;
-Speaker: Yipeng Lai&lt;/p&gt;
-
-&lt;p&gt;Abstract: This talk will focus on how to manipulate and analyze textual data in R using the quanteda​ package. Yipeng will go over some basic natural language processing techniques. She will talk you through how to apply these techniques to dissect gender bias in Wikipedia biographies. She finds that biographies about female subjects are more likely to contain terms relating to gender and marriage.&lt;/p&gt;
-
-&lt;p&gt;Bio: Yipeng is an Applied Scientist at StreetEasy, NYC&amp;rsquo;s local real estate marketplace. She just received her MS in Data Science from New York University this summer. She is passionate about natural language processing, data science for social good, and urban data. When she is not working with data, you can find her blogging about food and practicing latte art.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;R is for Resilience: Learning R through Data Visualization&amp;rdquo;
-Speaker: Stacy Lansey&lt;/p&gt;
-
-&lt;p&gt;Abstract: I will talk about my first R Project, the visualizations for the Warby Parker Impact Report, and how I used the skills I gained to advocate for a shift in the descriptive adjectives associated with female students at my son&amp;rsquo;s school.&lt;/p&gt;
-
-&lt;p&gt;Bio: Stacy Lansey is the Data Science Analyst at Warby Parker. She came to this role from a background in real estate and finance and is speaking about her experiences learning R in this role.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/273937932/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
