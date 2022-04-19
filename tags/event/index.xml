@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/event/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Package Development Workshop (Day 1) - Your First Package</title>
+      <link>/post/package-development-2022/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/package-development-2022/</guid>
+      <description>Details We are thrilled to kick off our 2022 programming by welcoming Joyce Robbins to lead us through a two-day interactive package development workshop! This first module will guide participants through creation of their first package. Besides familiarity with R/RStudio and basic function writing, there are no prerequisites.
+RSVP for this workshop is via Google Form: https://forms.gle/3rkuU8CZDMBrudfK8/. For more information about “Package Development Day 2 - Package Documentation,” see Meetup event https://www.</description>
+    </item>
+    
+    <item>
+      <title>End-of-Year Celebration for Women and Gender Minorities</title>
+      <link>/post/eoy-celebration-2021/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/eoy-celebration-2021/</guid>
+      <description>[Please note: At the request of members of our community for an R-Ladies space exclusively for minority genders, this event is limited to those who identify as such (including but not limited to women, trans men, non-binary, and gender nonconforming individuals). Male allies have been great supporters of our chapter and the R-Ladies mission to promote gender diversity in the R Community &amp;ndash; for which we are grateful! &amp;ndash; and we believe the best way male allies can support us this month is by honoring the need for and benefit of such a space.</description>
+    </item>
     
     <item>
       <title>R-Ladies Book Club</title>

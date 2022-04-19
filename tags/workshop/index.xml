@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Package Development Workshop (Day 1) - Your First Package</title>
+      <link>/post/package-development-2022/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/package-development-2022/</guid>
+      <description>Details We are thrilled to kick off our 2022 programming by welcoming Joyce Robbins to lead us through a two-day interactive package development workshop! This first module will guide participants through creation of their first package. Besides familiarity with R/RStudio and basic function writing, there are no prerequisites.
+RSVP for this workshop is via Google Form: https://forms.gle/3rkuU8CZDMBrudfK8/. For more information about “Package Development Day 2 - Package Documentation,” see Meetup event https://www.</description>
+    </item>
     
     <item>
       <title>Tidy Tuesday Code-laboration</title>

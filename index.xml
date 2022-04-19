@@ -11,6 +11,76 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Package Development Workshop (Day 1) - Your First Package</title>
+      <link>/post/package-development-2022/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/package-development-2022/</guid>
+      <description>
+
+&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
+
+&lt;p&gt;We are thrilled to kick off our 2022 programming by welcoming Joyce Robbins to lead us through a two-day interactive package development workshop! This first module will guide participants through creation of their first package. Besides familiarity with R/RStudio and basic function writing, there are no prerequisites.&lt;/p&gt;
+
+&lt;p&gt;RSVP for this workshop is via Google Form: &lt;a href=&#34;https://forms.gle/3rkuU8CZDMBrudfK8/&#34; target=&#34;_blank&#34;&gt;https://forms.gle/3rkuU8CZDMBrudfK8/&lt;/a&gt;. For more information about “Package Development Day 2 - Package Documentation,” see Meetup event &lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/283033569/&#34; target=&#34;_blank&#34;&gt;https://www.meetup.com/rladies-newyork/events/283033569/&lt;/a&gt;. Participants are welcome to join either or both sessions.&lt;/p&gt;
+
+&lt;p&gt;Course materials are available here: &lt;a href=&#34;https://github.com/jtr13/pkgdev/&#34; target=&#34;_blank&#34;&gt;https://github.com/jtr13/pkgdev/&lt;/a&gt;. Please note the “Pre-workshop setup” instructions for Windows and Mac.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Agenda for Day 1 (tentative):
+Noon-1 pm: Lesson&lt;/p&gt;
+
+&lt;p&gt;Where do R package come from?
+Why create R packages?
+Packages vs. scripts
+Creating initial package files
+Adding functions to the package
+Package states
+devtools::load_all(): testing and modifying functions
+devtools::document(): documenting your functions
+1-1:30 pm: Lab with Joyce and teaching assistants Erin Grand and Emily Dodwell&lt;/p&gt;
+
+&lt;p&gt;Instructor Biography:
+Joyce Robbins, Ph.D., is Lecturer in Discipline in the Statistics Department at Columbia University, where she specializes in data visualization. She is a member of the R Forwards (R Foundation taskforce on women and other under-represented groups) teaching team, previously served as publications officer of the Statistical Graphics Section of the American Statistical Association Section, and is an active member of RLadies NYC.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Many thanks to Mine Çetinkaya-Rundel and Emma Rand of the R Forwards Teaching Team for their creation of the package development workshop materials on which this session is based. For more information, see &lt;a href=&#34;https://forwards.github.io/workshops/&#34; target=&#34;_blank&#34;&gt;https://forwards.github.io/workshops/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): &lt;a href=&#34;https://rladies.org/code-of-conduct&#34; target=&#34;_blank&#34;&gt;https://rladies.org/code-of-conduct&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/283033216/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>End-of-Year Celebration for Women and Gender Minorities</title>
+      <link>/post/eoy-celebration-2021/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/eoy-celebration-2021/</guid>
+      <description>&lt;p&gt;[Please note: At the request of members of our community for an R-Ladies space exclusively for minority genders, this event is limited to those who identify as such (including but not limited to women, trans men, non-binary, and gender nonconforming individuals). Male allies have been great supporters of our chapter and the R-Ladies mission to promote gender diversity in the R Community &amp;ndash; for which we are grateful! &amp;ndash; and we believe the best way male allies can support us this month is by honoring the need for and benefit of such a space.]&lt;/p&gt;
+
+&lt;p&gt;Happy Holidays! To close out 2021, we are thrilled to host a virtual version of our annual end-of-year celebration and social! We&amp;rsquo;ll utilize breakout rooms to allow participants to connect (or re-connect) with other members of our community in smaller groups.&lt;/p&gt;
+
+&lt;p&gt;IMPORTANT To RSVP for this event, you must complete and submit this Google form: &lt;a href=&#34;https://forms.gle/3Rh6sukM2ngjfakM7&#34; target=&#34;_blank&#34;&gt;https://forms.gle/3Rh6sukM2ngjfakM7&lt;/a&gt;
+While you may RSVP via Meetup to let others know you plant to attend, Zoom link information will only be shared via email with those who register through the form.&lt;/p&gt;
+
+&lt;p&gt;Agenda:&lt;/p&gt;
+
+&lt;p&gt;Agenda:
+7-7:10: Welcome and R-Ladies NYC Announcements&lt;/p&gt;
+
+&lt;p&gt;7:10-8:30: Breakout room chats (3-5 people, and we&amp;rsquo;ll provide some topics to inspire conversation!)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/282521904/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R-Ladies Book Club</title>
       <link>/post/r-ladies-book-club-data-feminism/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
@@ -474,47 +544,6 @@ Speaker: Dr. Connie Brett&lt;/p&gt;
 &lt;p&gt;Bio: Dr. Connie Brett is the CEO, Founder, and Principal Data Scientist of Aggregate Genius Inc. located in BC, Canada. She is experienced in using many types of models and algorithms as well as architecting cutting-edge big-data analytics-integrated platforms. She has submitted publications and patents; contributes to and maintains R packages and frameworks (such as periscope) in the open-source community; and attends and speaks at industry events. With over 20 years spent focusing on producing solid analytical models, software and visualization tools – as well as custom IT solutions architecture – she continues to carry forward her passion for helping clients realize true business insights from analytics.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/276969681/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tidy Tuesday Code-laboration</title>
-      <link>/post/tidy-tuesday-code-laboration/</link>
-      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/tidy-tuesday-code-laboration/</guid>
-      <description>
-
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;Join us for a collaborative exploration of the &lt;a href=&#34;https://github.com/rfordatascience/tidytuesday&#34; target=&#34;_blank&#34;&gt;Tidy Tuesday&lt;/a&gt; dataset of the week! First, we will have a short demo of working through a previous Tidy Tuesday dataset, led by Ludmila Janda. Then we will work in groups to do some exploration and visualization of the dataset of the week and then we will come together to share our work. No preparation is necessary but participants are welcome to check out the dataset(s) and come with any ideas they may have.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page the morning of the event. We will request your email address upon registration to ensure you receive the Zoom passcode on the day of the event.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/276630718/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>R-Ladies Book Club</title>
-      <link>/post/r-ladies-book-club-data-feminism/</link>
-      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/post/r-ladies-book-club-data-feminism/</guid>
-      <description>
-
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;Details
-For our February book club, we&amp;rsquo;ll be discussing &amp;ldquo;Data Feminism&amp;rdquo; by Catherine D&amp;rsquo;Ignazio and Lauren F. Klein.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;This event will be hosted over Zoom, and the link will be available on this Meetup page the morning of the event. We will request your email address upon registration to ensure you receive the Zoom passcode on the day of the event.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/276116912/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
