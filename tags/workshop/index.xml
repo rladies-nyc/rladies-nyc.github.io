@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Workshop Writing Meaningful Alt-Texts for Data Visualizations in R</title>
+      <link>/post/workshop-alt-text/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/workshop-alt-text/</guid>
+      <description>Details For our October Meetup, we welcome Liz Hare, who will lead a workshop titled &amp;ldquo;Writing Meaningful Alt-Texts for Data Visualizations in R.&amp;rdquo; Liz will introduce &amp;ldquo;alt-text&amp;rdquo; and offer guidance on best practices. Alt-text is important to incorporated into your work not only to adhere to accessibility laws but also to ensure your work reaches everyone.
+During the workshop, Liz will give the audience an opportunity to share their own data visualizations and discuss how they could be improved with alt-text.</description>
+    </item>
     
     <item>
       <title>Workshop An Introduction to Working with Geospatial Data in R</title>

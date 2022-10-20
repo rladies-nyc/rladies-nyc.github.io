@@ -7,10 +7,105 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/event/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Workshop Writing Meaningful Alt-Texts for Data Visualizations in R</title>
+      <link>/post/workshop-alt-text/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/workshop-alt-text/</guid>
+      <description>Details For our October Meetup, we welcome Liz Hare, who will lead a workshop titled &amp;ldquo;Writing Meaningful Alt-Texts for Data Visualizations in R.&amp;rdquo; Liz will introduce &amp;ldquo;alt-text&amp;rdquo; and offer guidance on best practices. Alt-text is important to incorporated into your work not only to adhere to accessibility laws but also to ensure your work reaches everyone.
+During the workshop, Liz will give the audience an opportunity to share their own data visualizations and discuss how they could be improved with alt-text.</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies NYC Lightning Talks - RSVP and Call for Speakers</title>
+      <link>/post/lightning-talks-sept22/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lightning-talks-sept22/</guid>
+      <description>Details Fill out this brief form by Thursday, September 1st to submit your application to be a speaker! https://docs.google.com/forms/d/1vXC-iKiqCycnwD4sjqYMm9BgIOITHEvsPPdZBrVlEjg/edit
+Lighting talks are five minute talks. You can talk about anything R, Tech, and/or Data Science related. Looking for ideas? How about talking about a cool package you found, how you use R in your company, a favorite learning resource, your journey into Data Science, or a side project you&amp;rsquo;ve been working on?</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Book Club</title>
+      <link>/post/r-ladies-book-club-shape-queer-data/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-book-club-shape-queer-data/</guid>
+      <description>Details For our August book club, we&amp;rsquo;ll be discussing &amp;ldquo;Queer Data : Using Gender, Sex and Sexuality Data for Action&amp;rdquo; by Dr. Kevin Guyan. The New York Public Library has copies of this book.
+This event will be in person at the Great Hill in Central Park. Enter at Central Park West and 106th. Bring a blanket if you have one! We will be sitting on the grass.
+In case of rain, this event will be held over zoom and the link and password will be shared the morning of the event.</description>
+    </item>
+    
+    <item>
+      <title>Summer Social</title>
+      <link>/post/summer-social/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/summer-social/</guid>
+      <description>Come hang out with R-Ladies at the Lucky backyard for an evening social full of fun and splendid R conversation!
+Drinks will be available for purchase. But you are also welcome to bring in your own food!
+Meetup page</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Book Club</title>
+      <link>/post/r-ladies-book-club-shape-flow/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-book-club-shape-flow/</guid>
+      <description>Details For our June book club, we&amp;rsquo;ll be discussing &amp;ldquo;Flow: The Psychology of Optimal Experience&amp;rdquo; by Mihaly Csikszentmihalyi.
+This event will be hosted over Zoom, and the link will be available on this Meetup page the morning of the event. We will request your email address upon registration to ensure you receive the Zoom passcode.
+R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.</description>
+    </item>
+    
+    <item>
+      <title>Data Jobs Panel - your questions answered</title>
+      <link>/post/panel-data-jobs/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/panel-data-jobs/</guid>
+      <description>Details We’ve all been reading about The Great Resignation in the news and how the pandemic has utterly changed the way we think about our professional selves. So how does that apply to current data workers, recent college graduates, and career changers. In this panel discussion, we are thrilled to be joined by Rachel Cohen and Shivani Sood to share their expertise on how to navigate a job search for every stage of your career pathing.</description>
+    </item>
+    
+    <item>
+      <title>R Code-llaboration</title>
+      <link>/post/r-code-illaboration-2022/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-code-illaboration-2022/</guid>
+      <description>Details Are you stuck on a coding challenge? Do you want dedicated time to work on your programming skills? Well then, look no further, because this &amp;ldquo;code-llaboration&amp;rdquo; event is for you! Join our virtual coding session where you can get help from fellow R-Ladies or work on a coding challenge together.
+This event will be hosted over Zoom. The link (with embedded passcode) will be shared on this Meetup page 15 minutes before the start of the event.</description>
+    </item>
+    
+    <item>
+      <title>Virtual Code-laboration TidyTuesday (RSVP Link in Description)</title>
+      <link>/post/r-code-illaboration-tidy-tuesday/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-code-illaboration-tidy-tuesday/</guid>
+      <description>Details Want to come code and learn with us? For June’s NYC R-ladies meetup, we are planning a #TidyTuesday code-laboration event! This event will be held online via Zoom. Please register via the Google Form below:
+https://forms.gle/RN5FkyEaRGnLbxx37
+The zoom link will be emailed ONLY to those who register in advance via the form above the morning of the event.
+We ask participants to pick a TidyTuesday dataset from the month of May or June and create (or attempt to create!</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Book Club</title>
+      <link>/post/r-ladies-book-club-shape-ellenberg/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-book-club-shape-ellenberg/</guid>
+      <description>Details For our March book club, we&amp;rsquo;ll be discussing &amp;ldquo;Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else&amp;rdquo; by Jordan Ellenberg.
+This event will be hosted over Zoom, and the link will be available on this Meetup page the morning of the event. We will request your email address upon registration to ensure you receive the Zoom passcode.
+R-Ladies is dedicated to providing a harassment-free experience for everyone.</description>
+    </item>
     
     <item>
       <title>Behind the scenes of visual journalism</title>

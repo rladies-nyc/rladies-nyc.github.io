@@ -7,10 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/bookclub/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R-Ladies Book Club</title>
+      <link>/post/r-ladies-book-club-shape-queer-data/</link>
+      <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-book-club-shape-queer-data/</guid>
+      <description>Details For our August book club, we&amp;rsquo;ll be discussing &amp;ldquo;Queer Data : Using Gender, Sex and Sexuality Data for Action&amp;rdquo; by Dr. Kevin Guyan. The New York Public Library has copies of this book.
+This event will be in person at the Great Hill in Central Park. Enter at Central Park West and 106th. Bring a blanket if you have one! We will be sitting on the grass.
+In case of rain, this event will be held over zoom and the link and password will be shared the morning of the event.</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Book Club</title>
+      <link>/post/r-ladies-book-club-shape-flow/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-book-club-shape-flow/</guid>
+      <description>Details For our June book club, we&amp;rsquo;ll be discussing &amp;ldquo;Flow: The Psychology of Optimal Experience&amp;rdquo; by Mihaly Csikszentmihalyi.
+This event will be hosted over Zoom, and the link will be available on this Meetup page the morning of the event. We will request your email address upon registration to ensure you receive the Zoom passcode.
+R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies Book Club</title>
+      <link>/post/r-ladies-book-club-shape-ellenberg/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/r-ladies-book-club-shape-ellenberg/</guid>
+      <description>Details For our March book club, we&amp;rsquo;ll be discussing &amp;ldquo;Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else&amp;rdquo; by Jordan Ellenberg.
+This event will be hosted over Zoom, and the link will be available on this Meetup page the morning of the event. We will request your email address upon registration to ensure you receive the Zoom passcode.
+R-Ladies is dedicated to providing a harassment-free experience for everyone.</description>
+    </item>
     
     <item>
       <title>R-Ladies Book Club</title>
