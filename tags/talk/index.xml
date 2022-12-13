@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 R-Ladies NYC</copyright>
-    <lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Science Salon NYC AI and Machine Learning in Finance and Technology</title>
+      <link>/post/data-science-salon-ai/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/data-science-salon-ai/</guid>
+      <description>Details R-Ladies NYC are excited to be community partners with Data Science Salon NYC to promote their upcoming one-day event.
+Join the only industry conference that brings together specialists in finance and technology data science field! The one-day event will take place at The Theater Center, located in Broadway&amp;rsquo;s Theater District and features speakers from S&amp;amp;P Global, Capital One, Freddie Mac, Point72, Morgan Stanley, Sofi, Federal Reserve Bank of NY and many others!</description>
+    </item>
+    
+    <item>
+      <title>All Aboard Transportation and Data (RSVP Link in Description)</title>
+      <link>/post/all-aboard-transportation-talks/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/all-aboard-transportation-talks/</guid>
+      <description>Details For our November Meetup, we excited to spend the evening with Mikaela Jordan and Lisa Mae Fiedler who are both seasoned professionals in the world of transportation and data analytics. Our speakers will be discussing 2 different perspectives of working in transportation and data. Mikaela is currently a Senior Data Scientist at Revel and she is reflecting on her experience in building a data science practice. Lisa is the Acting Manager of Data and Analytics at the MTA who will present on a dashboarding project using Streamlit.</description>
+    </item>
+    
+    <item>
+      <title>R-Ladies NYC Board Information Session</title>
+      <link>/post/join-r-ladies-board/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/join-r-ladies-board/</guid>
+      <description>Details If you ever wanted to be more involved with your local R-Ladies New York chapter, it&amp;rsquo;s not too late! We are looking for new members to join us as event organizers on the R-Ladies NYC Board.
+This information session will be a meet and greet with current board members: we’ll introduce ourselves, explain responsibilities and the expected time commitment of a board member. The application for new board members is now available (due Sunday, November 20th): https://forms.</description>
+    </item>
     
     <item>
       <title>R-Ladies NYC Lightning Talks - RSVP and Call for Speakers</title>
