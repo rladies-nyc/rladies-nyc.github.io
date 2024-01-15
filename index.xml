@@ -11,6 +11,30 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Request for R-Ladies Logo Submissions</title>
+      <link>/post/request-for-r-ladies-logo-submissions/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/request-for-r-ladies-logo-submissions/</guid>
+      <description>&lt;p&gt;Its been four years since we did an open call for a new R-Ladies logo. R-Ladies NYC is in the market for a new look! We are excited to announce a new R-Ladies NYC logo contest. Please email your submissions to nyc@rladies.org with the subject line “hex sticker design”. Submissions are due by the end of January and we will hold a public vote during the first two weeks of February. The winner will be announced on Valentines Day.&lt;/p&gt;
+
+&lt;p&gt;Design notes: the R-Ladies font is Open Sans and the colors are #88398a (Purple) &amp;amp; #a7a9ac (Gray), though the logo can use variants of these colors and other colors. &lt;a href=&#34;https://github.com/rladies/branding-materials/tree/main/logo&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; is the repo for the R-Ladies logo as a reference. Also, the hexSticker package is useful, but you are welcome to use any tool you desire!&lt;/p&gt;
+
+&lt;p&gt;Here are some examples for inspiration:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://community.rstudio.com/uploads/default/original/2X/e/e3d6e7312a2e01e0fae8ee76d9d3ccaebe902b83.jpeg&#34; target=&#34;_blank&#34;&gt;R-Ladies Austin&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://secure.meetupstatic.com/photos/event/8/0/8/b/600_476852907.jpeg&#34; target=&#34;_blank&#34;&gt;R-Ladies CDMX&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-philly/&#34; target=&#34;_blank&#34;&gt;R-Ladies Philly&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-rome/&#34; target=&#34;_blank&#34;&gt;R-Ladies Rome&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://secure.meetupstatic.com/photos/event/5/3/a/8/600_480981416.jpeg&#34; target=&#34;_blank&#34;&gt;R-Ladies Xalapa&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>End-of-Year Celebration for Women and Gender Minorities</title>
       <link>/post/eoy-celebration-2022/</link>
       <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
@@ -488,51 +512,6 @@ Will is a developer, designer, journalist, and artist. He uses his background as
 For questions regarding accessibility, please email us at nyc@rladies.org.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/284084967/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Workshop An Introduction to Working with Geospatial Data in R</title>
-      <link>/post/workshop-geospatial-data-r/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/workshop-geospatial-data-r/</guid>
-      <description>
-
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;For our February Meetup, we welcome R-Ladies NYC board member Ayanthi Gunawardana, who will teaching a workshop titled &amp;ldquo;An Introduction to Working with Geospatial Data in R.&amp;rdquo; She will show participants how to import, process, and map geospatial data in R. Ayanthi will also introduce some basic geospatial concepts, different file formats, and best practices in creating maps. She will primarily be working with the sf package for processing the geospatial data, and ggplot2 for plotting the data.&lt;/p&gt;
-
-&lt;p&gt;RSVP for this workshop is via Google Form: &lt;a href=&#34;https://forms.gle/a3fDSWuzLcxJuEEi9&#34; target=&#34;_blank&#34;&gt;https://forms.gle/a3fDSWuzLcxJuEEi9&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Course materials will be available on Ayanthi&amp;rsquo;s GitHub the day before the workshop: &lt;a href=&#34;https://github.com/argunaw/r-ladies-mapping-tutorial&#34; target=&#34;_blank&#34;&gt;https://github.com/argunaw/r-ladies-mapping-tutorial&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Agenda (tentative):
-I. Basic geospatial concepts and files
-- Projections and coordinate systems
-- File formats for storing geospatial data
-- Common data sources for geospatial data
-II. Downloading and Importing geospatial data in to R
-- Data processing for different file types
-III. Presenting the Data
-- Accurately presenting geospatial data
-- Creating static maps for presentations (ggplot2)
-- Creating dynamic maps for exploratory purposes (tmap)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Instructor Biography:
-Ayanthi has worked at the intersection of data and transportation for 6 years and has an academic background in city planning. She has been working with geospatial data for several years and has spent the past few years translating traditional geospatial practices to R.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): &lt;a href=&#34;https://rladies.org/code-of-conduct&#34; target=&#34;_blank&#34;&gt;https://rladies.org/code-of-conduct&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/284081788/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
