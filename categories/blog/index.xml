@@ -71,15 +71,6 @@ First and foremost, I want to thank RLadiesNYC for the scholarship which allowed
     </item>
     
     <item>
-      <title>Brooke Watson: Scraping Javascript websites in R</title>
-      <link>/post/scraping-javascript-websites-in-r/</link>
-      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/scraping-javascript-websites-in-r/</guid>
-      <description>Background: remixing packages in R Javascript webscraping in R Download PhantomJS using homebrew Writing scrape.js Scraping TheRapBoard.com Extracting audio files Downloading mp3s  Organizing an R package Converting mp3s to wavs Cleaning up and filtering .wav file names Tidying file names Renaming file paths from within R  Remixing the beep() function Wrapping it all into a package Maintaining an open source package in R   Background: remixing packages in R Open source software is made for remixing.</description>
-    </item>
-    
-    <item>
       <title>Jasmine Williams: My first step to healing from WISDOM (Women in Stats, Data Science, and Omics)</title>
       <link>/post/my-first-step-to-healing-from-wisdom-women-in-stats-data-science-and-omics/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
