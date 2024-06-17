@@ -11,6 +11,46 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Omics Data Analysis in R</title>
+      <link>/post/omics-data-analysis-in-r/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/omics-data-analysis-in-r/</guid>
+      <description>
+
+&lt;h2 id=&#34;omics-data-analysis-in-r&#34;&gt;Omics Data Analysis in R&lt;/h2&gt;
+
+&lt;p&gt;As New Yorkers, we live in a big biotech and healthcare hub with the boom of high-throughput sequencing technology generating rich characteristics present in a sample (called &amp;ldquo;Omics&amp;rdquo; data). You may first hear the word &amp;ldquo;Omics&amp;rdquo; and wonder, what are those characteristics in an omics dataset? Why study them? Simply speaking, we explore a pool of variables representing the genetic material, RNA, protein, metabolite, and/or other molecules to get insights into how they interact with each other and are related to health and disease conditions. Bioinformatics and biostatistics are two essential subjects for such exploration as they provide specialized computational and statistical theories and applications to manage, analyze, and interpret omics data. As a self-taught quantitative biology enthusiast straddling bioinformatics and biostatistics, I largely benefit from exploring a wealth of programming and omics analysis resources. I am writing this post for folks who want a taste of the latest single cell omics data analysis in R on their own.&lt;/p&gt;
+
+&lt;h2 id=&#34;getting-started-in-r&#34;&gt;Getting Started in R&lt;/h2&gt;
+
+&lt;p&gt;Our R community has built a robust analytical framework for omics data, powered by its extensible statistical computing and a wide variety of bioinformatics packages. Before diving headfirst into specialized omics data analysis, it is nice to get a basic handle on the awesome R language. Here I list some learning resources where you can start right:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.datacamp.com/tracks/data-analyst-with-r&#34; target=&#34;_blank&#34;&gt;DataCamp&lt;/a&gt;: An interactive course tailored for beginners. It covers R programming techniques from the basics of data structure to the common analytical techniques.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://r4ds.hadley.nz&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt;: A free online book written by Hadley Wickham and Garrett Grolemund for getting up to speed with R&amp;rsquo;s capabilities in data manipulation and visualization.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.r-project.org/conferences/&#34; target=&#34;_blank&#34;&gt;useR! Conference&lt;/a&gt; and &lt;a href=&#34;https://www.rladiesnyc.org&#34; target=&#34;_blank&#34;&gt;R-Ladies NYC&lt;/a&gt;: They are the fantastic place to catch the latest development and technical know-how in R. Look out for any talks, workshops, and blog posts that could be helpful for your R learning journey.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bioinformatics-resources&#34;&gt;Bioinformatics Resources&lt;/h2&gt;
+
+&lt;p&gt;Once you have got the hang of the R basics and even leveled up to the advanced R programming, feel free to dig deep into the bioinformatics resources below for single cell omics data analysis:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.bioconductor.org&#34; target=&#34;_blank&#34;&gt;Bioconductor&lt;/a&gt;: This is a must-have resource for bioinformatics analysis, offering versatile R software packages for the single cell molecular data analysis. It is not just software. Bioconductor also brings together &lt;a href=&#34;https://www.bioconductor.org/help/bioconductor-books/&#34; target=&#34;_blank&#34;&gt;online books&lt;/a&gt;, workshops, and &lt;a href=&#34;https://www.bioconductor.org/help/course-materials/&#34; target=&#34;_blank&#34;&gt;seminars&lt;/a&gt; in biological data science.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://satijalab.org/seurat/&#34; target=&#34;_blank&#34;&gt;Seurat&lt;/a&gt;: A widely used R toolkit that is all about single-cell genomics, with the latest features involving the integration of single cell RNA-seq and ATAC-seq analysis, and the scalable analysis for millions of cells.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372/&#34; target=&#34;_blank&#34;&gt;Bioinformatics Data Skills&lt;/a&gt;: This book helps readers lay a solid foundation in Unix and shares best practices in scientific computing.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://support.bioconductor.org&#34; target=&#34;_blank&#34;&gt;Bioconductor&lt;/a&gt;, &lt;a href=&#34;https://www.biostars.org&#34; target=&#34;_blank&#34;&gt;Biostars&lt;/a&gt;, &lt;a href=&#34;https://www.seqanswers.com&#34; target=&#34;_blank&#34;&gt;SEQanswers&lt;/a&gt;: You will find tons of insightful questions about analyzing and interpreting the data generated from high-throughput technology, plus answers straight from the tool developers and other bioinformatics professionals.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>R-Ladies Logo Contest Announcement</title>
       <link>/post/request-for-r-ladies-logo-submissions-2024/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
@@ -476,48 +516,6 @@ Shivani Sood works in Talent Acquisition, and is an advocate for fair and equita
 &lt;p&gt;R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): &lt;a href=&#34;https://rladies.org/code-of-conduct&#34; target=&#34;_blank&#34;&gt;https://rladies.org/code-of-conduct&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/284220975/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Behind the scenes of visual journalism</title>
-      <link>/post/behind-scenes-visual-journalism/</link>
-      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/post/behind-scenes-visual-journalism/</guid>
-      <description>
-
-&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;
-
-&lt;p&gt;For our March event, we are excited to host Will Chase, who will be discussing data visualization and visual journalism.&lt;/p&gt;
-
-&lt;p&gt;This event will be hosted over Zoom. The link will be emailed to those who are registered, as well as posted on this Meetup page at noon on the day of the event.&lt;/p&gt;
-
-&lt;p&gt;Agenda (times approximate):
-7-7:05 pm: R-Ladies NYC Announcements
-7:05-7:50: Behind the scenes of visual journalism
-7:50-8:15: Questions and wrap-up&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): &lt;a href=&#34;https://rladies.org/code-of-conduct&#34; target=&#34;_blank&#34;&gt;https://rladies.org/code-of-conduct&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;For questions regarding accessibility, please email us at nyc@rladies.org.&lt;/p&gt;
-
-&lt;p&gt;&amp;mdash; Talk Abstract &amp;mdash;&lt;/p&gt;
-
-&lt;p&gt;Abstract:
-In this talk, I&amp;rsquo;ll take you behind the scenes of how visual journalism works on the day to day. I&amp;rsquo;ll talk about the tools we use, the challenges and rewards of journalism, and show the process of developing a visual story. I&amp;rsquo;ll also discuss my own journey of being self-taught in data visualization and going from academia, to business, to journalism.&lt;/p&gt;
-
-&lt;p&gt;&amp;mdash; Speaker Bio &amp;mdash;&lt;/p&gt;
-
-&lt;p&gt;Bio:
-Will is a developer, designer, journalist, and artist. He uses his background as a researcher to better understand the world through data and he shares those insights by designing and coding visual essays. Will has done dataviz in academia, business, freelance, and he currently works at Axios as a visual journalist. He also likes to make experimental stuff for the web and generative art.&lt;/p&gt;
-
-&lt;p&gt;R-Ladies is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Please take a moment to review the R-Ladies Global code of conduct (particularly if this is your first time attending!): &lt;a href=&#34;https://rladies.org/code-of-conduct&#34; target=&#34;_blank&#34;&gt;https://rladies.org/code-of-conduct&lt;/a&gt;
-For questions regarding accessibility, please email us at nyc@rladies.org.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.meetup.com/rladies-newyork/events/284084967/&#34; target=&#34;_blank&#34;&gt;Meetup page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

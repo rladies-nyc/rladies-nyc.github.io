@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Omics Data Analysis in R</title>
+      <link>/post/omics-data-analysis-in-r/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/post/omics-data-analysis-in-r/</guid>
+      <description>Omics Data Analysis in R As New Yorkers, we live in a big biotech and healthcare hub with the boom of high-throughput sequencing technology generating rich characteristics present in a sample (called &amp;ldquo;Omics&amp;rdquo; data). You may first hear the word &amp;ldquo;Omics&amp;rdquo; and wonder, what are those characteristics in an omics dataset? Why study them? Simply speaking, we explore a pool of variables representing the genetic material, RNA, protein, metabolite, and/or other molecules to get insights into how they interact with each other and are related to health and disease conditions.</description>
+    </item>
+    
+    <item>
       <title>R-Ladies Logo Contest Announcement</title>
       <link>/post/request-for-r-ladies-logo-submissions-2024/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
